@@ -1,0 +1,4678 @@
+District,YEAR,Cropped.land.area
+Anantnag,2011,71432
+Anantnag,2012,71432
+Anantnag,2013,71520
+Anantnag,2014,70955
+Anantnag,2015,58830
+Anantnag,2016,70300
+Anantnag,2017,69241
+Budgam,2011,52890
+Budgam,2012,55734
+Budgam,2013,55337
+Budgam,2014,66164
+Budgam,2015,71407
+Budgam,2016,54139
+Budgam,2017,54042
+Baramulla,2011,65711
+Baramulla,2012,65734
+Baramulla,2013,65593
+Baramulla,2014,63549
+Baramulla,2015,65723
+Baramulla,2016,65648
+Baramulla,2017,65162
+Doda,2011,39712
+Doda,2012,39534
+Doda,2013,39622
+Doda,2014,39143
+Doda,2015,36837
+Doda,2016,49791
+Doda,2017,38248
+Jammu,2011,185837
+Jammu,2012,187717
+Jammu,2013,190266
+Jammu,2014,209733
+Jammu,2015,192821
+Jammu,2016,196241
+Jammu,2017,189478
+Kathua,2011,126023
+Kathua,2012,122575
+Kathua,2013,122883
+Kathua,2014,123208
+Kathua,2015,119155
+Kathua,2016,117008
+Kathua,2017,121316
+Kupwara,2011,45534
+Kupwara,2012,49581
+Kupwara,2013,45534
+Kupwara,2014,45534
+Kupwara,2015,45718
+Kupwara,2016,45638
+Kupwara,2017,44694
+Poonch,2011,46394
+Poonch,2012,45317
+Poonch,2013,46470
+Poonch,2014,45130
+Poonch,2015,45011
+Poonch,2016,44754
+Poonch,2017,45116
+Pulwama,2011,57628
+Pulwama,2012,57564
+Pulwama,2013,57135
+Pulwama,2014,56687
+Pulwama,2015,55870
+Pulwama,2016,58023
+Pulwama,2017,54765
+Rajouri,2011,100435
+Rajouri,2012,99161
+Rajouri,2013,100368
+Rajouri,2014,103387
+Rajouri,2015,100654
+Rajouri,2016,101543
+Rajouri,2017,102517
+Srinagar,2011,10234
+Srinagar,2012,10230
+Srinagar,2013,10801
+Srinagar,2014,10792
+Srinagar,2015,8199
+Srinagar,2016,8230
+Srinagar,2017,8229
+Udhampur,2011,82549
+Udhampur,2012,82135
+Udhampur,2013,81493
+Udhampur,2014,81478
+Udhampur,2015,83432
+Udhampur,2016,92765
+Udhampur,2017,94784
+Kishtwar,2011,21766
+Kishtwar,2012,23465
+Kishtwar,2013,22706
+Kishtwar,2014,21671
+Kishtwar,2015,21334
+Kishtwar,2016,20027
+Kishtwar,2017,20214
+Ramban,2011,24847
+Ramban,2012,24943
+Ramban,2013,21872
+Ramban,2014,25391
+Ramban,2015,25933
+Ramban,2016,25396
+Ramban,2017,24796
+Kulgam,2011,39340
+Kulgam,2012,39312
+Kulgam,2013,39313
+Kulgam,2014,42627
+Kulgam,2015,40597
+Kulgam,2016,40695
+Kulgam,2017,42271
+Bandipora,2011,24076
+Bandipora,2012,24017
+Bandipora,2013,23828
+Bandipora,2014,23887
+Bandipora,2015,28977
+Bandipora,2016,27769
+Bandipora,2017,29624
+Samba,2011,60604
+Samba,2012,60610
+Samba,2013,61477
+Samba,2014,61371
+Samba,2015,67358
+Samba,2016,64718
+Samba,2017,64693
+Shopian,2011,25207
+Shopian,2012,25207
+Shopian,2013,25207
+Shopian,2014,21153
+Shopian,2015,20177
+Shopian,2016,15812
+Shopian,2017,15812
+Ganderbal,2011,18691
+Ganderbal,2012,18691
+Ganderbal,2013,18692
+Ganderbal,2014,18691
+Ganderbal,2015,19505
+Ganderbal,2016,20395
+Ganderbal,2017,18862
+Reasi,2011,40800
+Reasi,2012,40854
+Reasi,2013,40703
+East Siang,2016,NA
+Reasi,2014,44149
+Reasi,2015,28306
+Reasi,2016,36464
+Reasi,2017,39769
+Bilaspur,2011,56010
+Bilaspur,2012,53739
+Bilaspur,2013,53452
+Bilaspur,2014,52038
+Bilaspur,2015,51789
+Bilaspur,2016,55507
+Chamba,2011,66825
+Chamba,2012,68834
+Chamba,2013,69110
+Chamba,2014,72102
+Chamba,2015,70086
+Chamba,2016,69776
+Hamirpur,2011,67867
+Hamirpur,2012,69778
+Hamirpur,2013,69793
+Hamirpur,2014,70254
+Hamirpur,2015,70132
+Hamirpur,2016,69041
+Kangra,2011,209410
+Kangra,2012,203268
+Kangra,2013,204450
+Kangra,2014,200286
+Kangra,2015,212069
+Kangra,2016,239922
+Kinnaur,2011,10091
+Kinnaur,2012,9802
+Kinnaur,2013,10522
+Kinnaur,2014,10607
+Kinnaur,2015,10803
+Kinnaur,2016,10630
+Kullu,2011,58874
+Kullu,2012,58139
+Kullu,2013,56379
+Kullu,2014,55507
+Kullu,2015,54194
+Kullu,2016,55545
+Lahul And Spiti,2011,3489
+Lahul And Spiti,2012,3529
+Lahul And Spiti,2013,3563
+Lahul And Spiti,2014,3717
+Lahul And Spiti,2015,3435
+Lahul And Spiti,2016,4235
+Mandi,2011,160103
+Mandi,2012,161599
+Mandi,2013,159489
+Mandi,2014,160960
+Mandi,2015,159076
+Mandi,2016,161890
+Shimla,2011,87951
+Shimla,2012,87923
+Shimla,2013,86926
+Shimla,2014,86971
+Shimla,2015,86292
+Shimla,2016,86880
+Sirmaur,2011,75316
+Sirmaur,2012,75914
+Sirmaur,2013,75527
+Sirmaur,2014,69007
+Sirmaur,2015,75372
+Sirmaur,2016,74889
+Solan,2011,60738
+Solan,2012,66191
+Solan,2013,75078
+Solan,2014,61712
+Solan,2015,63664
+Solan,2016,55561
+Una,2011,75188
+Una,2012,74788
+Una,2013,75518
+Una,2014,75042
+Una,2015,75680
+Una,2016,75347
+Amritsar,2011,422480
+Amritsar,2012,416928
+Amritsar,2013,417524
+Amritsar,2014,414392
+Amritsar,2015,439899
+Amritsar,2016,410693
+Amritsar,2017,415944
+Bathinda,2011,555383
+Bathinda,2012,558120
+Bathinda,2013,554552
+Bathinda,2014,558050
+Bathinda,2015,558495
+Bathinda,2016,549303
+Bathinda,2017,558863
+Faridkot,2011,250163
+Faridkot,2012,249001
+Faridkot,2013,248890
+Faridkot,2014,248000
+Faridkot,2015,248334
+Faridkot,2016,242603
+Faridkot,2017,242055
+Fatehgarh Sahib,2011,191252
+Fatehgarh Sahib,2012,190594
+Fatehgarh Sahib,2013,191352
+Fatehgarh Sahib,2014,191061
+Fatehgarh Sahib,2015,191219
+Fatehgarh Sahib,2016,191101
+Fatehgarh Sahib,2017,186225
+Ferozepur,2011,536859
+Ferozepur,2012,490158
+Ferozepur,2013,573151
+Ferozepur,2014,415567
+Ferozepur,2015,406103
+Ferozepur,2016,402665
+Ferozepur,2017,414781
+Gurdaspur,2011,416607
+Gurdaspur,2012,411922
+Gurdaspur,2013,409035
+Gurdaspur,2014,423579
+Gurdaspur,2015,412414
+Gurdaspur,2016,412507
+Gurdaspur,2017,410281
+Hoshiarpur,2011,361004
+Hoshiarpur,2012,345239
+Hoshiarpur,2013,339688
+Hoshiarpur,2014,350446
+Hoshiarpur,2015,340422
+Hoshiarpur,2016,337025
+Hoshiarpur,2017,337280
+Jalandhar,2011,407974
+Jalandhar,2012,423416
+Jalandhar,2013,414312
+Jalandhar,2014,412947
+Jalandhar,2015,418197
+Jalandhar,2016,411795
+Jalandhar,2017,410477
+Kapurthala,2011,270786
+Kapurthala,2012,269341
+Kapurthala,2013,271732
+Kapurthala,2014,267159
+Kapurthala,2015,266410
+Kapurthala,2016,274693
+Kapurthala,2017,265796
+Ludhiana,2011,598719
+Ludhiana,2012,593203
+Ludhiana,2013,432315
+East Siang,2017,NA
+Ludhiana,2014,592502
+Ludhiana,2015,599585
+Ludhiana,2016,600440
+Ludhiana,2017,554868
+Mansa,2011,365067
+Mansa,2012,365399
+Mansa,2013,366367
+Mansa,2014,359389
+Mansa,2015,367654
+Mansa,2016,365415
+Mansa,2017,365762
+Moga,2011,382361
+Moga,2012,383519
+Moga,2013,382095
+Moga,2014,381367
+Moga,2015,388834
+Moga,2016,383621
+Moga,2017,386425
+Sri Muktsar Sahib,2011,454931
+Sri Muktsar Sahib,2012,455108
+Sri Muktsar Sahib,2013,445296
+Sri Muktsar Sahib,2014,447489
+Sri Muktsar Sahib,2015,452594
+Sri Muktsar Sahib,2016,452618
+Sri Muktsar Sahib,2017,452363
+Shahid Bhagat Singh Nagar,2011,184871
+Shahid Bhagat Singh Nagar,2012,191428
+Shahid Bhagat Singh Nagar,2013,185641
+Shahid Bhagat Singh Nagar,2014,187708
+Shahid Bhagat Singh Nagar,2015,186932
+Shahid Bhagat Singh Nagar,2016,186294
+Shahid Bhagat Singh Nagar,2017,177770
+Patiala,2011,518931
+Patiala,2012,511761
+Patiala,2013,512822
+Patiala,2014,512156
+Patiala,2015,513161
+Patiala,2016,512786
+Patiala,2017,510937
+Rupnagar,2011,144786
+Rupnagar,2012,145516
+Rupnagar,2013,146583
+Rupnagar,2014,141978
+Rupnagar,2015,137884
+Rupnagar,2016,138530
+Rupnagar,2017,147909
+Sangrur,2011,491390.0871
+Champawat,2015,26182
+Tirap,2014,NA
+Sangrur,2012,488237.2736
+Sangrur,2013,504366.5533
+Sangrur,2014,501156.9465
+Sangrur,2015,490666.7621
+Sangrur,2016,491216.5522
+Sangrur,2017,494673.0518
+Barnala,2011,262558
+Barnala,2012,246928
+Barnala,2013,246990
+Barnala,2014,248570
+Barnala,2015,248425
+Barnala,2016,245546
+Barnala,2017,243939
+S.A.S Nagar,2011,121659
+S.A.S Nagar,2012,121523
+S.A.S Nagar,2013,108689
+S.A.S Nagar,2014,106201
+S.A.S Nagar,2015,98663
+S.A.S Nagar,2016,105964
+S.A.S Nagar,2017,99234
+Tarn Taran,2011,396444
+Tarn Taran,2012,397226
+Tarn Taran,2013,400804
+Tarn Taran,2014,394413
+Tarn Taran,2015,395299
+Tarn Taran,2016,393242
+Tarn Taran,2017,399241
+Fazilka,2011,348234
+Fazilka,2012,392311
+Fazilka,2013,442477
+Fazilka,2014,475370
+Fazilka,2015,487657
+Fazilka,2016,473019
+Fazilka,2017,478704
+Pathankot,2011,90698
+Pathankot,2012,92528
+Pathankot,2013,117936
+Pathankot,2014,93633
+Pathankot,2015,91345
+Pathankot,2016,91761
+Pathankot,2017,93013
+Champawat,2016,26854
+Kra Daadi,2012,NA
+Malerkotla,2011,131572.9129
+Malerkotla,2012,130728.7264
+Malerkotla,2013,135047.4467
+Malerkotla,2014,134188.0535
+Malerkotla,2015,131379.2379
+Malerkotla,2016,131526.4478
+Malerkotla,2017,132451.9482
+Chandigarh,2011,1712
+Chandigarh,2012,1709
+Chandigarh,2013,1717
+Chandigarh,2014,1843
+Almora,2011,119684
+Almora,2012,119241
+Almora,2013,114832
+Almora,2014,117230
+Almora,2015,115796
+Almora,2016,112350
+Almora,2017,105978
+Almora,2018,97142
+Bageshwar,2011,39778
+Bageshwar,2012,41475
+Bageshwar,2013,40688
+Bageshwar,2014,39755
+Bageshwar,2015,39710
+Bageshwar,2016,39925
+Bageshwar,2017,42599
+Bageshwar,2018,39876
+Chamoli,2011,47370
+Chamoli,2012,49952
+Chamoli,2013,48669
+Chamoli,2014,46717
+Chamoli,2015,47408
+Chamoli,2016,49189
+Chamoli,2017,49212
+Chamoli,2018,47184
+Champawat,2011,32971
+Champawat,2012,27220
+Champawat,2013,26624
+Champawat,2014,26487
+Champawat,2017,25789
+Champawat,2018,25068
+Dehradun,2011,63435
+Dehradun,2012,62307
+Dehradun,2013,59533
+Dehradun,2014,58983
+Dehradun,2015,57134
+Dehradun,2016,57323
+Dehradun,2017,55351
+Dehradun,2018,51830
+Haridwar,2011,162083
+Haridwar,2012,159986
+Haridwar,2013,163311
+Haridwar,2014,161681
+Haridwar,2015,162615
+Haridwar,2016,162114
+Haridwar,2017,160084
+Haridwar,2018,160494
+Nainital,2011,75028
+Nainital,2012,73632
+Nainital,2013,74177
+Nainital,2014,71591
+Nainital,2015,71849
+Nainital,2016,70766
+Nainital,2017,69301
+Nainital,2018,67317
+Pauri Garhwal,2011,98105
+Pauri Garhwal,2012,95713
+Pauri Garhwal,2013,91331
+Pauri Garhwal,2014,93294
+Pauri Garhwal,2015,82364
+Pauri Garhwal,2016,83724
+Pauri Garhwal,2017,71270
+Pauri Garhwal,2018,64737
+Pithoragarh,2011,73853
+Pithoragarh,2012,73538
+Pithoragarh,2013,71672
+Pithoragarh,2014,71265
+Pithoragarh,2015,71368
+Pithoragarh,2016,70080
+Pithoragarh,2017,68884
+Pithoragarh,2018,65331
+Rudra Prayag,2011,30302
+Rudra Prayag,2012,32211
+Rudra Prayag,2013,30058
+Rudra Prayag,2014,31442
+Rudra Prayag,2015,31410
+Rudra Prayag,2016,31128
+Rudra Prayag,2017,31262
+Rudra Prayag,2018,31345
+Tehri Garhwal,2011,82202
+Tehri Garhwal,2012,82914
+Tehri Garhwal,2013,77673
+Tehri Garhwal,2014,82222
+Tehri Garhwal,2015,81095
+Tehri Garhwal,2016,78917
+Tehri Garhwal,2017,76993
+Tehri Garhwal,2018,73287
+Udam Singh Nagar,2011,264848
+Udam Singh Nagar,2012,264691
+Udam Singh Nagar,2013,261002
+Udam Singh Nagar,2014,255713
+Udam Singh Nagar,2015,253591
+Udam Singh Nagar,2016,258328
+Udam Singh Nagar,2017,260526
+Udam Singh Nagar,2018,264390
+Uttar Kashi,2011,42145
+Uttar Kashi,2012,41524
+Uttar Kashi,2013,39615
+Uttar Kashi,2014,40454
+Uttar Kashi,2015,42182
+Uttar Kashi,2016,41099
+Uttar Kashi,2017,42282
+Uttar Kashi,2018,41013
+Ambala,2011,206917
+Ambala,2012,206128
+Ambala,2013,198683
+Ambala,2014,207145
+Ambala,2015,208678
+Ambala,2016,204269
+Ambala,2017,207901
+Bhiwani,2011,522064.3435
+Bhiwani,2012,501295.3821
+Bhiwani,2013,522209.6748
+Bhiwani,2014,560252.5932
+Bhiwani,2015,522873.5422
+Bhiwani,2016,524556.1392
+Bhiwani,2017,514292
+Faridabad,2011,65369
+Faridabad,2012,64877
+Faridabad,2013,62743
+Faridabad,2014,58993
+Faridabad,2015,54534
+Faridabad,2016,58358
+Faridabad,2017,60534
+Fatehabad,2011,421858
+Fatehabad,2012,427193
+Fatehabad,2013,426902
+Fatehabad,2014,428358
+Fatehabad,2015,433349
+Fatehabad,2016,431048
+Fatehabad,2017,431773
+Gurugram,2011,110773
+Gurugram,2012,105031
+Gurugram,2013,110078
+Gurugram,2014,105563
+Gurugram,2015,107838
+Gurugram,2016,101752
+Gurugram,2017,108618
+Hisar,2011,638650
+Hisar,2012,630830
+Hisar,2013,662258
+Hisar,2014,653498
+Hisar,2015,661154
+Hisar,2016,645482
+Hisar,2017,644863
+Jhajjar,2011,231978
+Jhajjar,2012,224617
+Jhajjar,2013,234784
+Jhajjar,2014,238622
+Jhajjar,2015,241993
+Jhajjar,2016,205519
+Jhajjar,2017,248076
+Jind,2011,470999.5002
+Jind,2012,463227.8228
+Jind,2013,464696.2768
+Jind,2014,468910.5726
+Jind,2015,460927.1463
+Jind,2016,438184.3286
+Jind,2017,473063
+Kaithal,2011,387734.4998
+Kaithal,2012,391584.1772
+Kaithal,2013,387181.7232
+Kaithal,2014,388055.4274
+Kaithal,2015,386965.8537
+Kaithal,2016,386058.6714
+Kaithal,2017,382972
+Karnal,2011,382680.7082
+Karnal,2012,388718.0872
+Karnal,2013,380099.1118
+Karnal,2014,391362.625
+Karnal,2015,390229.6798
+Karnal,2016,413045.4374
+Karnal,2017,390243
+Kurukshetra,2011,275800
+Kurukshetra,2012,265338
+Kurukshetra,2013,271870
+Kurukshetra,2014,287471
+Kurukshetra,2015,278652
+Kurukshetra,2016,266082
+Kurukshetra,2017,279159
+Mahendragarh,2011,283047
+Mahendragarh,2012,284899
+Mahendragarh,2013,288304
+Mahendragarh,2014,288802
+Mahendragarh,2015,271137
+Mahendragarh,2016,293129
+Mahendragarh,2017,285203
+Panchkula,2011,42347
+Panchkula,2012,44187
+Panchkula,2013,43601
+Panchkula,2014,44263
+Panchkula,2015,41519
+Panchkula,2016,39088
+Panchkula,2017,43353
+Panipat,2011,191023.2918
+Panipat,2012,189747.9128
+Panipat,2013,188561.8882
+Panipat,2014,162472.375
+Panipat,2015,168159.3202
+Panipat,2016,184683.5626
+Panipat,2017,187061
+Rewari,2011,194696
+Rewari,2012,181887
+Rewari,2013,190870
+Rewari,2014,192492
+Rewari,2015,200027
+Rewari,2016,198935
+Rewari,2017,198423
+Rohtak,2011,229108
+Rohtak,2012,227987
+Rohtak,2013,231077
+Rohtak,2014,225789
+Rohtak,2015,225794
+Rohtak,2016,226563
+Rohtak,2017,241679
+Sirsa,2011,719589
+Sirsa,2012,725948
+Sirsa,2013,719253
+Sirsa,2014,735247
+Sirsa,2015,744269
+Sirsa,2016,727810
+Sirsa,2017,742810
+Sonipat,2011,315992
+Sonipat,2012,285332
+Sonipat,2013,290177
+Sonipat,2014,281606
+Sonipat,2015,303210
+Sonipat,2016,299286
+Sonipat,2017,295808
+Yamunanagar,2011,212417
+Yamunanagar,2012,211330
+Yamunanagar,2013,208056
+Yamunanagar,2014,210697
+Yamunanagar,2015,211849
+Kra Daadi,2013,NA
+Yamunanagar,2016,209049
+Yamunanagar,2017,210921
+Nuh,2011,171736
+Nuh,2012,156240
+Nuh,2013,178198
+Nuh,2014,172537
+Nuh,2015,183121
+Nuh,2016,184260
+Nuh,2017,185301
+Palwal,2011,196173
+Palwal,2012,189878
+Palwal,2013,193590
+Palwal,2014,199639
+Palwal,2015,195798
+Palwal,2016,195718
+Palwal,2017,193231
+Charki Dadri,2011,217936.6565
+Charki Dadri,2012,209266.6179
+Charki Dadri,2013,217997.3252
+Charki Dadri,2014,233878.4068
+Charki Dadri,2015,218274.4578
+Charki Dadri,2016,218976.8608
+Charki Dadri,2017,223660
+New Delhi,2011,39862
+Ajmer,2011,640144
+Ajmer,2012,664060
+Ajmer,2013,753794
+Ajmer,2014,645563
+Ajmer,2015,559425
+Ajmer,2016,717927
+Ajmer,2017,583255
+Ajmer,2018,612853
+Alwar,2011,854278
+Alwar,2012,852893
+Alwar,2013,866860
+Alwar,2014,855160
+Alwar,2015,871844
+Alwar,2016,870675
+Alwar,2017,847269
+Alwar,2018,869432
+Banswara,2011,336742
+Kra Daadi,2014,NA
+Banswara,2012,340069
+Banswara,2013,345438
+Banswara,2014,343518
+Banswara,2015,340409
+Banswara,2016,343121
+Banswara,2017,341742
+Banswara,2018,359569
+Baran,2011,593234
+Baran,2012,628788
+Baran,2013,659039
+Baran,2014,493597
+Baran,2015,662661
+Baran,2016,663288
+Baran,2017,647030
+Baran,2018,660286
+Barmer,2011,1867562
+Barmer,2012,1646001
+Barmer,2013,1897017
+Barmer,2014,1604199
+Barmer,2015,1846104
+Barmer,2016,1893136
+Barmer,2017,1909391
+Barmer,2018,1853493
+Bharatpur,2011,591259
+Bharatpur,2012,587087
+Bharatpur,2013,603492
+Bharatpur,2014,598696
+Bharatpur,2015,616849
+Bharatpur,2016,606309
+Bharatpur,2017,597146
+Bharatpur,2018,605666
+Bhilwara,2011,624252
+Bhilwara,2012,643029
+Bhilwara,2013,679893
+Bhilwara,2014,639120
+Bhilwara,2015,600440
+Bhilwara,2016,677438
+Bhilwara,2017,610934
+Bhilwara,2018,612391
+Bikaner,2011,1884223
+Bikaner,2012,1807405
+Bikaner,2013,2017102
+Bikaner,2014,1928363
+Bikaner,2015,2050904
+Champhai,2012,NA
+Bikaner,2016,2026119
+Bikaner,2017,1967142
+Bikaner,2018,2049347
+Bundi,2011,461365
+Bundi,2012,464266
+Bundi,2013,456516
+Bundi,2014,467959
+Bundi,2015,481996
+Bundi,2016,495946
+Bundi,2017,482464
+Bundi,2018,492034
+Chittorgarh,2011,505438
+Chittorgarh,2012,517587
+Chittorgarh,2013,536622
+Chittorgarh,2014,544744
+Chittorgarh,2015,548912
+Chittorgarh,2016,576370
+Chittorgarh,2017,572150
+Chittorgarh,2018,567255
+Churu,2011,1527962
+Churu,2012,1354565
+Churu,2013,1624577
+Churu,2014,1452323
+Churu,2015,1375702
+Churu,2016,1470905
+Churu,2017,1353230
+Churu,2018,1409087
+Dausa,2011,383988
+Dausa,2012,378488
+Dausa,2013,387287
+Dausa,2014,380254
+Dausa,2015,376825
+Dausa,2016,377386
+Dausa,2017,346998
+Dausa,2018,353811
+Dholpur,2011,230475
+Dholpur,2012,229905
+Dholpur,2013,233422
+Dholpur,2014,233441
+Dholpur,2015,234415
+Dholpur,2016,230355
+Dholpur,2017,225872
+Dholpur,2018,241233
+Dungarpur,2011,199887
+Dungarpur,2012,199932
+Dungarpur,2013,203072
+Dungarpur,2014,193497
+Dungarpur,2015,189500
+Dungarpur,2016,195932
+Dungarpur,2017,196192
+Dungarpur,2018,193707
+Ganganagar,2011,1107330
+Ganganagar,2012,1186549
+Ganganagar,2013,1243356
+Ganganagar,2014,1277609
+Ganganagar,2015,1358389
+Ganganagar,2016,1206857
+Ganganagar,2017,1219924
+Ganganagar,2018,1283621
+Hanumangarh,2011,1220207
+Hanumangarh,2012,1198414
+Hanumangarh,2013,1266881
+Hanumangarh,2014,1248622
+Hanumangarh,2015,1295703
+Hanumangarh,2016,1291650
+Hanumangarh,2017,1262867
+Hanumangarh,2018,1289751
+Jaipur,2011,1090756
+Jaipur,2012,1013001
+Jaipur,2013,1109593
+Jaipur,2014,1044671
+Jaipur,2015,929231
+Jaipur,2016,1036402
+Jaipur,2017,901628
+Jaipur,2018,980987
+Jaisalmer,2011,848114
+Jaisalmer,2012,843979
+Jaisalmer,2013,961107
+Jaisalmer,2014,870760
+Jaisalmer,2015,1027862
+Jaisalmer,2016,1084083
+Jaisalmer,2017,1120474
+Jaisalmer,2018,1051465
+Jalore,2011,911138
+Jalore,2012,895027
+Jalore,2013,972807
+Jalore,2014,867677
+Jalore,2015,921716
+Jalore,2016,948520
+Jalore,2017,943310
+Jalore,2018,896341
+Jhalawar,2011,601344
+Jhalawar,2012,614323
+Jhalawar,2013,646729
+Jhalawar,2014,614049
+Jhalawar,2015,635005
+Jhalawar,2016,642810
+Jhalawar,2017,636402
+Jhalawar,2018,647710
+Jhunjhunu,2011,667776
+Jhunjhunu,2012,644041
+Jhunjhunu,2013,706653
+Jhunjhunu,2014,654338
+Jhunjhunu,2015,635494
+Jhunjhunu,2016,627519
+Jhunjhunu,2017,607547
+Jhunjhunu,2018,629188
+Jodhpur,2011,1516329
+Jodhpur,2012,1449043
+Jodhpur,2013,1648408
+Jodhpur,2014,1589684
+Jodhpur,2015,1716695
+Jodhpur,2016,1787733
+Jodhpur,2017,1770718
+Jodhpur,2018,1712812
+Karauli,2011,339665
+Karauli,2012,340039
+Karauli,2013,338799
+Karauli,2014,328743
+Karauli,2015,321379
+Karauli,2016,332222
+Karauli,2017,303686
+Karauli,2018,326879
+Kota,2011,461813
+Kota,2012,492093
+Kota,2013,511127
+Kota,2014,448459
+Kota,2015,514560
+Kota,2016,513676
+Kota,2017,507427
+Kota,2018,525377
+Nagaur,2011,1468857
+Nagaur,2012,1452861
+Nagaur,2013,1757833
+Nagaur,2014,1479906
+Nagaur,2015,1472570
+Nagaur,2016,1650700
+Nagaur,2017,1512853
+Nagaur,2018,1515543
+Pali,2011,701804
+Pali,2012,721171
+Pali,2013,819146
+Pali,2014,694046
+Pali,2015,726045
+Pali,2016,894417
+Pali,2017,839773
+Pali,2018,685095
+Rajsamand,2011,139359
+Rajsamand,2012,139920
+Rajsamand,2013,135837
+Rajsamand,2014,131941
+Rajsamand,2015,132026
+Rajsamand,2016,141930
+Rajsamand,2017,141621
+Rajsamand,2018,126255
+Sawai Madhopur,2011,397832
+Sawai Madhopur,2012,400428
+Sawai Madhopur,2013,401069
+Sawai Madhopur,2014,381272
+Sawai Madhopur,2015,398339
+Sawai Madhopur,2016,426331
+Sawai Madhopur,2017,381623
+Sawai Madhopur,2018,445571
+Sikar,2011,776741
+Sikar,2012,748496
+Sikar,2013,787105
+Sikar,2014,746858
+Sikar,2015,722330
+Sikar,2016,716360
+Sikar,2017,686218
+Sikar,2018,702300
+Sirohi,2011,232711
+Sirohi,2012,229834
+Sirohi,2013,239341
+Sirohi,2014,210928
+Sirohi,2015,226988
+Sirohi,2016,226556
+Sirohi,2017,226975
+Sirohi,2018,214742
+Tonk,2011,691367
+Tonk,2012,637436
+Tonk,2013,662004
+Tonk,2014,624154
+Tonk,2015,576923
+Tonk,2016,703193
+Tonk,2017,671493
+Tonk,2018,744221
+Udaipur,2011,348156
+Udaipur,2012,342191
+Udaipur,2013,342229
+Udaipur,2014,342033
+Udaipur,2015,350640
+Udaipur,2016,354535
+Udaipur,2017,347031
+Udaipur,2018,333292
+Pratapgarh,2011,283261
+Pratapgarh,2012,290681
+Pratapgarh,2013,305372
+Pratapgarh,2014,299170
+Pratapgarh,2015,295823
+Pratapgarh,2016,305396
+Pratapgarh,2017,306625
+Pratapgarh,2018,322037
+Agra,2011,423752
+Agra,2012,420260
+Agra,2013,411682
+Agra,2014,425564
+Agra,2015,434860
+Agra,2016,434635
+Agra,2017,427494
+Aligarh,2011,545094
+Aligarh,2012,546436
+Aligarh,2013,546346
+Aligarh,2014,541907
+Aligarh,2015,565553
+Aligarh,2016,565681
+Aligarh,2017,566424
+Prayagraj,2011,479504
+Prayagraj,2012,484197
+Prayagraj,2013,480126
+Prayagraj,2014,508783
+Prayagraj,2015,495358
+Prayagraj,2016,572389
+Prayagraj,2017,573499
+Ambedkar Nagar,2011,285581
+Ambedkar Nagar,2012,282680
+Ambedkar Nagar,2013,282927
+Ambedkar Nagar,2014,284071
+Ambedkar Nagar,2015,290920
+Ambedkar Nagar,2016,291191
+Ambedkar Nagar,2017,291415
+Auraiya,2011,232820
+Auraiya,2012,235925
+Auraiya,2013,245292
+Auraiya,2014,248071
+Auraiya,2015,252940
+Auraiya,2016,254615
+Auraiya,2017,250597
+Azamgarh,2011,506887
+Azamgarh,2012,509168
+Azamgarh,2013,512872
+Azamgarh,2014,498270
+Azamgarh,2015,505643
+Azamgarh,2016,506049
+Azamgarh,2017,506006
+Baghpat,2011,174285
+Baghpat,2012,172840
+Baghpat,2013,175010
+Baghpat,2014,173560
+Baghpat,2015,173543
+Baghpat,2016,174415
+Baghpat,2017,174270
+Bahraich,2011,500431
+Bahraich,2012,500739
+Bahraich,2013,513212
+Bahraich,2014,544989
+Bahraich,2015,524203
+Bahraich,2016,559687
+Bahraich,2017,561187
+Ballia,2011,349493
+Ballia,2012,348335
+Ballia,2013,341381
+Ballia,2014,340658
+Ballia,2015,354568
+Ballia,2016,354600
+Ballia,2017,353842
+Balrampur,2011,315245
+Balrampur,2012,304497
+Balrampur,2013,305240
+Balrampur,2014,303175
+Shamli,2016,169759
+Balrampur,2015,360858
+Balrampur,2016,360805
+Balrampur,2017,361230
+Banda,2011,428465
+Banda,2012,429931
+Banda,2013,439770
+Banda,2014,460534
+Banda,2015,436058
+Banda,2016,477145
+Banda,2017,474755
+Barabanki,2011,578322
+Barabanki,2012,517809
+Barabanki,2013,535356
+Barabanki,2014,525748
+Barabanki,2015,539387
+Barabanki,2016,539387
+Barabanki,2017,539871
+Bareilly,2011,535772
+Bareilly,2012,535834
+Bareilly,2013,533520
+Bareilly,2014,544061
+Bareilly,2015,535802
+Bareilly,2016,539576
+Bareilly,2017,540174
+Basti,2011,287075
+Basti,2012,288875
+Basti,2013,287095
+Basti,2014,279365
+Basti,2015,309669
+Basti,2016,339255
+Basti,2017,339321
+Bijnor,2011,414545
+Bijnor,2012,458310
+Bijnor,2013,427639
+Bijnor,2014,400032
+Bijnor,2015,410786
+Bijnor,2016,417678
+Bijnor,2017,416610
+Budaun,2011,639639
+Budaun,2012,615995
+Budaun,2013,620771
+Budaun,2014,618755
+Budaun,2015,630575
+Budaun,2016,631571
+Budaun,2017,642528
+Bulandshahr,2011,520680
+Bulandshahr,2012,520839
+Bulandshahr,2013,525507
+Bulandshahr,2014,532137
+Bulandshahr,2015,505766
+Bulandshahr,2016,534687
+Bulandshahr,2017,537099
+Chandauli,2011,235261
+Chandauli,2012,244647
+Chandauli,2013,239811
+Chandauli,2014,243501
+Chandauli,2015,234283
+Chandauli,2016,233536
+Chandauli,2017,233485
+Chitrakoot,2011,189633
+Chitrakoot,2012,181957
+Chitrakoot,2013,182433
+Chitrakoot,2014,195145
+Chitrakoot,2015,186562
+Chitrakoot,2016,182877
+Chitrakoot,2017,182329
+Deoria,2011,321558
+Deoria,2012,319535
+Deoria,2013,325268
+Deoria,2014,322060
+Deoria,2015,329254
+Deoria,2016,329262
+Deoria,2017,329266
+Etah,2011,302749
+Etah,2012,304048
+Etah,2013,300300
+Etah,2014,309372
+Etah,2015,333123
+Etah,2016,332524
+Etah,2017,331850
+Etawah,2011,242336
+Etawah,2012,247035
+Etawah,2013,249196
+Etawah,2014,254407
+Etawah,2015,255564
+Etawah,2016,295637
+Etawah,2017,256462
+Ayodhya,2011,277765
+Ayodhya,2012,275663
+Ayodhya,2013,275043
+Ayodhya,2014,272504
+Ayodhya,2015,291056
+Ayodhya,2016,291156
+Ayodhya,2017,291328
+Farrukhabad,2011,210892
+Farrukhabad,2012,211864
+Farrukhabad,2013,211861
+Farrukhabad,2014,219690
+Farrukhabad,2015,228704
+Farrukhabad,2016,228636
+Farrukhabad,2017,228352
+Fatehpur,2011,411892
+Fatehpur,2012,417479
+Fatehpur,2013,421249
+Fatehpur,2014,430111
+Fatehpur,2015,427496
+Fatehpur,2016,427708
+Fatehpur,2017,427239
+Firozabad,2011,304303
+Firozabad,2012,306604
+Firozabad,2013,308110
+Firozabad,2014,310748
+Firozabad,2015,318625
+Firozabad,2016,314734
+Firozabad,2017,306280
+Gautam Buddha Nagar,2011,100436
+Gautam Buddha Nagar,2012,93545
+Gautam Buddha Nagar,2013,87952
+Gautam Buddha Nagar,2014,96089
+Gautam Buddha Nagar,2015,103408
+Gautam Buddha Nagar,2016,102196
+Gautam Buddha Nagar,2017,101871
+Ghaziabad,2011,83906
+Ghaziabad,2012,81407
+Ghaziabad,2013,79685
+Ghaziabad,2014,78748
+Ghaziabad,2015,77608
+Ghaziabad,2016,77898
+Ghaziabad,2017,75795
+Ghazipur,2011,409164
+Ghazipur,2012,409181
+Ghazipur,2013,405059
+Ghazipur,2014,420179
+Ghazipur,2015,410106
+Ghazipur,2016,442288
+Ghazipur,2017,445438
+Gonda,2011,458170
+Gonda,2012,462274
+Gonda,2013,468090
+Gonda,2014,440288
+Gonda,2015,442543
+Gonda,2016,442677
+Gonda,2017,442661
+Gorakhpur,2011,379528
+Gorakhpur,2012,378783
+Gorakhpur,2013,378742
+Gorakhpur,2014,376374
+Gorakhpur,2015,402131
+Gorakhpur,2016,402085
+Gorakhpur,2017,388767
+Hamirpur,2011,345104
+Hamirpur,2012,348799
+Hamirpur,2013,363587
+Hamirpur,2014,376319
+Hamirpur,2015,341263
+Hamirpur,2016,381870
+Hamirpur,2017,391198
+Hardoi,2011,671366
+Hardoi,2012,649338
+Hardoi,2013,664199
+Hardoi,2014,673323
+Hardoi,2015,675005
+Hardoi,2016,676324
+Hardoi,2017,675876
+Jalaun,2011,429460
+Jalaun,2012,417661
+Jalaun,2013,412041
+Jalaun,2014,441144
+Jalaun,2015,457038
+Jalaun,2016,487703
+Jalaun,2017,480551
+Jaunpur,2011,470759
+Jaunpur,2012,470812
+Jaunpur,2013,471028
+Jaunpur,2014,468849
+Jaunpur,2015,469678
+Jaunpur,2016,499474
+Jaunpur,2017,499478
+Jhansi,2011,516087
+Jhansi,2012,515792
+Jhansi,2013,546994
+Jhansi,2014,565457
+Jhansi,2015,467776
+Jhansi,2016,487565
+Jhansi,2017,487657
+Amroha,2011,260376
+Amroha,2012,262758
+Amroha,2013,258977
+Amroha,2014,262432
+Amroha,2015,279920
+Amroha,2016,280143
+Amroha,2017,280947
+Kannauj,2011,221989
+Kannauj,2012,232971
+Kannauj,2013,237425
+Kannauj,2014,226356
+Kannauj,2015,263241
+Kannauj,2016,263957
+Kannauj,2017,264232
+Kanpur Dehat,2011,293395
+Kanpur Dehat,2012,293676
+Kanpur Dehat,2013,292483
+Kanpur Dehat,2014,294727
+Kanpur Dehat,2015,315920
+Kanpur Dehat,2016,326368
+Kanpur Dehat,2017,315591
+Kanpur Nagar,2011,266000
+Kanpur Nagar,2012,261380
+Kanpur Nagar,2013,262262
+Kanpur Nagar,2014,261932
+Kanpur Nagar,2015,259235
+Kanpur Nagar,2016,263779
+Kanpur Nagar,2017,263480
+Kaushambi,2011,177839
+Kaushambi,2012,175553
+Kaushambi,2013,174839
+Kaushambi,2014,189855
+Kaushambi,2015,201690
+Kaushambi,2016,201518
+Kaushambi,2017,202262
+Kheri,2011,705795
+Kheri,2012,709331
+Kheri,2013,702853
+Kheri,2014,692795
+Kheri,2015,705291
+Kheri,2016,709043
+Kheri,2017,707550
+Kushi Nagar,2011,343829
+Kushi Nagar,2012,347483
+Kushi Nagar,2013,345914
+Kushi Nagar,2014,334652
+Kushi Nagar,2015,340116
+Kushi Nagar,2016,340116
+Kushi Nagar,2017,340118
+Lalitpur,2011,512255
+Lalitpur,2012,519755
+Lalitpur,2013,545130
+Lalitpur,2014,545948
+Lalitpur,2015,453260
+Lalitpur,2016,495074
+Lalitpur,2017,501609
+Lucknow,2011,215055
+Lucknow,2012,207682
+Lucknow,2013,203262
+Lucknow,2014,202438
+Lucknow,2015,205444
+Lucknow,2016,205487
+Lucknow,2017,198972
+Hathras,2011,235845
+Hathras,2012,245530
+Hathras,2013,248674
+Hathras,2014,247342
+Hathras,2015,254582
+Hathras,2016,255643
+Hathras,2017,255383
+Maharajganj,2011,365060
+Maharajganj,2012,361664
+Maharajganj,2013,361456
+Maharajganj,2014,364392
+Maharajganj,2015,369253
+Maharajganj,2016,369058
+Maharajganj,2017,369061
+Mahoba,2011,319647
+Mahoba,2012,314331
+Mahoba,2013,326950
+Mahoba,2014,339173
+Mahoba,2015,209057
+Mahoba,2016,280478
+Mahoba,2017,270621
+Mainpuri,2011,331685
+Mainpuri,2012,333028
+Mainpuri,2013,347441
+Mainpuri,2014,372423
+Mainpuri,2015,328522
+Mainpuri,2016,327473
+Mainpuri,2017,327749
+Mathura,2011,398397
+Mathura,2012,400048
+Mathura,2013,397611
+Mathura,2014,405487
+Mathura,2015,404793
+Mathura,2016,406234
+Mathura,2017,406563
+Mau,2011,200542
+Mau,2012,203854
+Mau,2013,208295
+Mau,2014,199843
+Mau,2015,198490
+Mau,2016,198527
+Mau,2017,198338
+Meerut,2011,299866
+Meerut,2012,300149
+Meerut,2013,293284
+Meerut,2014,298411
+Meerut,2015,301039
+Meerut,2016,302313
+Meerut,2017,303341
+Mirzapur,2011,261889
+Mirzapur,2012,254915
+Mirzapur,2013,249209
+Mirzapur,2014,298061
+Mirzapur,2015,300733
+Mirzapur,2016,334648
+Mirzapur,2017,331232
+Moradabad,2011,329951
+Moradabad,2012,318360
+Moradabad,2013,320686
+Moradabad,2014,320670
+Moradabad,2015,310990
+Moradabad,2016,311679
+Moradabad,2017,313021
+Muzaffarnagar,2011,330529
+Muzaffarnagar,2012,331486
+Muzaffarnagar,2013,317769
+Muzaffarnagar,2014,317449
+Muzaffarnagar,2015,322237
+Muzaffarnagar,2016,322237
+Muzaffarnagar,2017,322067
+Pilibhit,2011,393368
+Pilibhit,2012,389459
+Pilibhit,2013,391920
+Pilibhit,2014,399335
+Pilibhit,2015,411690
+Pilibhit,2016,411513
+Pilibhit,2017,402836
+Pratapgarh,2011,303673
+Pratapgarh,2012,301672
+Pratapgarh,2013,294088
+Pratapgarh,2014,345481
+Pratapgarh,2015,339788
+Pratapgarh,2016,370376
+Pratapgarh,2017,372354
+Rae Bareli,2011,287792
+Rae Bareli,2012,286214
+Rae Bareli,2013,363241
+Rae Bareli,2014,366186
+Rae Bareli,2015,370059
+Rae Bareli,2016,369349
+Rae Bareli,2017,371477
+Rampur,2011,389879
+Rampur,2012,366430
+Rampur,2013,360185
+Rampur,2014,338887
+Rampur,2015,352611
+Rampur,2016,354265
+Rampur,2017,355840
+Saharanpur,2011,414280
+Saharanpur,2012,413846
+Saharanpur,2013,406947
+Saharanpur,2014,418375
+Saharanpur,2015,427292
+Saharanpur,2016,438411
+Saharanpur,2017,438393
+Sant Kabeer Nagar,2011,205449
+Sant Kabeer Nagar,2012,209095
+Sant Kabeer Nagar,2013,205535
+Sant Kabeer Nagar,2014,193873
+Sant Kabeer Nagar,2015,184471
+Sant Kabeer Nagar,2016,213871
+Siwan,2016,224166
+Sant Kabeer Nagar,2017,211118
+Bhadohi,2011,97812
+Bhadohi,2012,97957
+Bhadohi,2013,98790
+Bhadohi,2014,102277
+Bhadohi,2015,99190
+Bhadohi,2016,99911
+Bhadohi,2017,101991
+Shahjahanpur,2011,620847
+Shahjahanpur,2012,600065
+Shahjahanpur,2013,604746
+Shahjahanpur,2014,570805
+Shahjahanpur,2015,577078
+Shahjahanpur,2016,606913
+Shahjahanpur,2017,607012
+Shravasti,2011,182702
+Shravasti,2012,197817
+Shravasti,2013,192857
+Shravasti,2014,188646
+Shravasti,2015,195648
+Shravasti,2016,195765
+Shravasti,2017,191286
+Siddharth Nagar,2011,340190
+Siddharth Nagar,2012,352141
+Siddharth Nagar,2013,353171
+Siddharth Nagar,2014,354234
+Siddharth Nagar,2015,384040
+Siddharth Nagar,2016,385306
+Siddharth Nagar,2017,382895
+Sitapur,2011,699589
+Sitapur,2012,689408
+Sitapur,2013,676413
+Sitapur,2014,658798
+Sitapur,2015,672013
+Sitapur,2016,670936
+Sitapur,2017,672176
+Sonbhadra,2011,190815
+Sonbhadra,2012,180130
+Sonbhadra,2013,181062
+Sonbhadra,2014,204013
+Sonbhadra,2015,254581
+Sonbhadra,2016,290083
+Sonbhadra,2017,291044
+Sultanpur,2011,273292
+East Siang,2014,NA
+Sultanpur,2012,272285
+Sultanpur,2013,270763
+Sultanpur,2014,278989
+Sultanpur,2015,272258
+Sultanpur,2016,292244
+Sultanpur,2017,292197
+Unnao,2011,493728
+Unnao,2012,495456
+Unnao,2013,499966
+Unnao,2014,492250
+Unnao,2015,499631
+Unnao,2016,503259
+Unnao,2017,507608
+Varanasi,2011,154951
+Varanasi,2012,157817
+Varanasi,2013,155171
+Varanasi,2014,157823
+Varanasi,2015,164699
+Varanasi,2016,164657
+Varanasi,2017,164479
+Kasganj,2011,245376
+Kasganj,2012,255672
+Kasganj,2013,264608
+Kasganj,2014,267838
+Kasganj,2015,270499
+Kasganj,2016,270745
+Kasganj,2017,270962
+Amethi,2011,298934
+Amethi,2012,299373
+Amethi,2013,233091
+Amethi,2014,234943
+Amethi,2015,238741
+Amethi,2016,239845
+Amethi,2017,240444
+Sambhal,2011,391549
+Sambhal,2012,367075
+Sambhal,2013,373941
+Sambhal,2014,372984
+Sambhal,2015,372284
+Sambhal,2016,373291
+Sambhal,2017,373018
+Shamli,2011,163424
+Shamli,2012,162053
+Shamli,2013,160997
+Shamli,2014,160593
+Shamli,2015,169759
+Shamli,2017,169709
+Hapur,2011,143369
+Hapur,2012,143694
+Hapur,2013,139471
+Hapur,2014,142412
+Hapur,2015,145460
+Hapur,2016,144730
+Hapur,2017,142959
+Araria,2011,291296
+Araria,2012,309153
+Araria,2013,277602
+Araria,2014,245326
+Araria,2015,241125
+Araria,2016,238004
+Araria,2017,264883
+Araria,2018,153028
+Aurangabad,2011,304370
+Aurangabad,2012,328194
+Aurangabad,2013,264918
+Aurangabad,2014,289803
+Aurangabad,2015,271090
+Aurangabad,2016,287060
+Aurangabad,2017,287346
+Aurangabad,2018,311536
+Banka,2011,150258
+Banka,2012,148496
+Banka,2013,156551
+Banka,2014,150820
+Banka,2015,151546
+Banka,2016,160159
+Banka,2017,154633
+Banka,2018,160183
+Begusarai,2011,173190
+Begusarai,2012,172275
+Begusarai,2013,171329
+Begusarai,2014,154092
+Begusarai,2015,169409
+Begusarai,2016,168773
+Begusarai,2017,157705
+Begusarai,2018,177035
+Bhagalpur,2011,150781
+Bhagalpur,2012,156947
+Bhagalpur,2013,158516
+Bhagalpur,2014,163519
+Bhagalpur,2015,162186
+Bhagalpur,2016,155020
+Bhagalpur,2017,149286
+Bhagalpur,2018,138974
+Bhojpur,2011,234611
+Bhojpur,2012,221699
+Bhojpur,2013,217653
+Bhojpur,2014,214238
+Bhojpur,2015,209193
+Bhojpur,2016,182721
+Bhojpur,2017,199263
+Bhojpur,2018,218285
+Buxar,2011,186795
+Buxar,2012,190619
+Buxar,2013,194052
+Buxar,2014,200593
+Buxar,2015,209527
+Buxar,2016,203016
+Buxar,2017,198596
+Buxar,2018,201276
+Darbhanga,2011,168523
+Darbhanga,2012,166298
+Darbhanga,2013,183837
+Darbhanga,2014,179330
+Darbhanga,2015,179243
+Darbhanga,2016,178246
+Darbhanga,2017,171924
+Darbhanga,2018,171339
+Gaya,2011,189745
+Gaya,2012,241162
+Gaya,2013,175204
+Gaya,2014,228310
+Gaya,2015,228098
+Gaya,2016,214915
+Gaya,2017,212869
+Gaya,2018,195133
+Gopalganj,2011,225198
+Gopalganj,2012,223823
+Gopalganj,2013,217760
+Gopalganj,2014,214933
+Gopalganj,2015,210382
+Gopalganj,2016,207209
+Gopalganj,2017,207387
+Gopalganj,2018,149381
+Jamui,2011,64920
+Jamui,2012,64557
+Jamui,2013,68255
+Jamui,2014,68997
+Jamui,2015,150445
+Jamui,2016,141949
+Jamui,2017,126168
+Jamui,2018,91268
+Jehanabad,2011,110004
+Jehanabad,2012,112284
+Jehanabad,2013,88638
+Jehanabad,2014,78233
+Jehanabad,2015,78822
+Jehanabad,2016,78910
+Jehanabad,2017,77317
+Jehanabad,2018,75156
+Kaimur (Bhabua),2011,202475
+Kaimur (Bhabua),2012,205505
+Kaimur (Bhabua),2013,218917
+Kaimur (Bhabua),2014,207747
+Kaimur (Bhabua),2015,204958
+Kaimur (Bhabua),2016,219523
+Kaimur (Bhabua),2017,202923
+Kaimur (Bhabua),2018,209460
+Katihar,2011,263500
+Katihar,2012,257176
+Katihar,2013,257599
+Katihar,2014,252461
+Katihar,2015,245133
+Katihar,2016,267994
+Katihar,2017,201324
+Katihar,2018,253327
+Khagaria,2011,123862
+Khagaria,2012,129519
+Khagaria,2013,133174
+Khagaria,2014,135023
+Khagaria,2015,126695
+Khagaria,2016,135137
+Khagaria,2017,126228
+Khagaria,2018,126037
+Kishanganj,2011,149301
+Kishanganj,2012,150206
+Kishanganj,2013,147519
+Kishanganj,2014,137121
+Kishanganj,2015,139788
+Kishanganj,2016,143111
+Kishanganj,2017,143860
+Kishanganj,2018,143509
+Lakhisarai,2011,104188
+Lakhisarai,2012,100237
+Lakhisarai,2013,72770
+Lakhisarai,2014,66827
+Lakhisarai,2015,64404
+Lakhisarai,2016,71343
+East Siang,2015,NA
+Lakhisarai,2017,77290
+Lakhisarai,2018,91035
+Madhepura,2011,203370
+Madhepura,2012,202723
+Madhepura,2013,195262
+Madhepura,2014,193804
+Madhepura,2015,205303
+Madhepura,2016,181754
+Madhepura,2017,187920
+Madhepura,2018,182709
+Madhubani,2011,301764
+Madhubani,2012,313319
+Madhubani,2013,316300
+Madhubani,2014,343615
+Madhubani,2015,342644
+Madhubani,2016,341919
+Madhubani,2017,340086
+Madhubani,2018,331843
+Munger,2011,57117
+Munger,2012,50323
+Munger,2013,49689
+Munger,2014,46085
+Munger,2015,51649
+Munger,2016,48450
+Munger,2017,48711
+Munger,2018,47273
+Muzaffarpur,2011,300384
+Muzaffarpur,2012,299058
+Muzaffarpur,2013,308360
+Muzaffarpur,2014,334218
+Muzaffarpur,2015,288208
+Muzaffarpur,2016,299713
+Muzaffarpur,2017,299602
+Muzaffarpur,2018,322315
+Nalanda,2011,256531
+Nalanda,2012,244780
+Nalanda,2013,180157
+Nalanda,2014,224998
+Nalanda,2015,245337
+Nalanda,2016,258459
+Nalanda,2017,252203
+Nalanda,2018,238343
+Nawada,2011,136590
+Nawada,2012,131513
+Nawada,2013,130325
+Nawada,2014,141401
+Nawada,2015,127291
+Nawada,2016,137933
+Nawada,2017,137367
+Nawada,2018,129618
+Pashchim Champaran,2011,427575
+Pashchim Champaran,2012,442145
+Pashchim Champaran,2013,435908
+Pashchim Champaran,2014,423047
+Pashchim Champaran,2015,397210
+Pashchim Champaran,2016,399854
+Pashchim Champaran,2017,391147
+Pashchim Champaran,2018,387626
+Patna,2011,197658
+Patna,2012,200582
+Patna,2013,194925
+Patna,2014,202780
+Patna,2015,203470
+Patna,2016,200055
+Patna,2017,218925
+Patna,2018,226577
+Purbi Champaran,2011,418578
+Purbi Champaran,2012,414610
+Purbi Champaran,2013,419459
+Purbi Champaran,2014,448712
+Purbi Champaran,2015,423716
+Purbi Champaran,2016,412053
+Purbi Champaran,2017,412848
+Purbi Champaran,2018,413338
+Purnia,2011,240255
+Purnia,2012,228602
+Purnia,2013,231609
+Purnia,2014,209329
+Purnia,2015,200262
+Purnia,2016,238959
+Purnia,2017,194800
+Purnia,2018,185915
+Rohtas,2011,337721
+Rohtas,2012,347178
+Rohtas,2013,364860
+Rohtas,2014,362578
+Rohtas,2015,343313
+Rohtas,2016,352680
+Rohtas,2017,349792
+Rohtas,2018,351855
+Saharsa,2011,208565
+Saharsa,2012,212113
+Saharsa,2013,203141
+Saharsa,2014,195742
+Saharsa,2015,185696
+Saharsa,2016,184815
+Saharsa,2017,169324
+Saharsa,2018,177928
+Samastipur,2011,261468
+Samastipur,2012,264465
+Samastipur,2013,302067
+Samastipur,2014,287198
+Samastipur,2015,290640
+Samastipur,2016,286363
+Samastipur,2017,307829
+Samastipur,2018,306364
+Saran,2011,209984
+Saran,2012,205212
+Saran,2013,213221
+Saran,2014,209834
+Saran,2015,206993
+Saran,2016,215861
+Saran,2017,191750
+Saran,2018,200344
+Sheikhpura,2011,63072
+Sheikhpura,2012,53334
+Sheikhpura,2013,46686
+Sheikhpura,2014,61708
+Sheikhpura,2015,57232
+Sheikhpura,2016,54708
+Sheikhpura,2017,60650
+Sheikhpura,2018,55914
+Sheohar,2011,57161
+Sheohar,2012,49769
+Sheohar,2013,46509
+Sheohar,2014,48922
+Sheohar,2015,44704
+Sheohar,2016,45396
+Sheohar,2017,45629
+Sheohar,2018,44631
+Sitamarhi,2011,212690
+Sitamarhi,2012,241277
+Sitamarhi,2013,241487
+Sitamarhi,2014,233877
+Sitamarhi,2015,232116
+Sitamarhi,2016,231461
+Sitamarhi,2017,232778
+Sitamarhi,2018,233135
+Siwan,2011,229652
+Siwan,2012,244571
+Siwan,2013,233630
+Siwan,2014,226931
+Siwan,2015,224662
+Siwan,2017,226070
+Siwan,2018,224847
+Supaul,2011,221400
+Supaul,2012,226348
+Supaul,2013,239476
+Supaul,2014,259049
+Supaul,2015,236591
+Supaul,2016,243267
+Supaul,2017,252290
+Supaul,2018,239221
+Vaishali,2011,168211
+Vaishali,2012,181193
+Vaishali,2013,175364
+Vaishali,2014,185110
+Vaishali,2015,176465
+Vaishali,2016,177673
+Vaishali,2017,181478
+Vaishali,2018,178780
+Arwal,2011,43993
+Arwal,2012,46253
+Arwal,2013,47413
+Arwal,2014,46641
+Arwal,2015,46871
+Arwal,2016,65728
+Arwal,2017,64980
+Arwal,2018,61840
+Changlang,2011,NA
+Changlang,2012,NA
+Changlang,2013,NA
+Changlang,2014,24794
+Changlang,2015,24403
+Changlang,2016,25168
+Changlang,2017,25361
+Changlang,2018,25502
+Dibang Valley,2011,NA
+Dibang Valley,2012,NA
+Dibang Valley,2013,NA
+Dibang Valley,2014,5285
+Dibang Valley,2015,5572
+Dibang Valley,2016,5868
+Dibang Valley,2017,5963
+Dibang Valley,2018,6108
+East Kameng,2011,NA
+East Kameng,2012,NA
+East Kameng,2013,NA
+East Kameng,2014,NA
+East Kameng,2015,NA
+East Kameng,2016,NA
+East Kameng,2017,NA
+East Kameng,2018,NA
+East Siang,2011,NA
+East Siang,2012,NA
+East Siang,2013,NA
+East Siang,2018,25522
+Kurung Kumey,2011,NA
+Kurung Kumey,2012,NA
+Kurung Kumey,2013,NA
+Kurung Kumey,2014,NA
+Kurung Kumey,2015,885
+Kurung Kumey,2016,1694
+Kurung Kumey,2017,1685
+Kurung Kumey,2018,1790
+Lohit,2011,NA
+Lohit,2012,NA
+Lohit,2013,NA
+Lohit,2014,NA
+Lohit,2015,18485
+Lohit,2016,19916
+Lohit,2017,20051
+Lohit,2018,20099
+Lower Dibang Valley,2011,NA
+Lower Dibang Valley,2012,NA
+Lower Dibang Valley,2013,NA
+Lower Dibang Valley,2014,33039
+Lower Dibang Valley,2015,35722
+Lower Dibang Valley,2016,37178
+Lower Dibang Valley,2017,37879
+Lower Dibang Valley,2018,37910
+Lower Subansiri,2011,NA
+Lower Subansiri,2012,NA
+Lower Subansiri,2013,NA
+Lower Subansiri,2014,NA
+Lower Subansiri,2015,NA
+Lower Subansiri,2016,NA
+Lower Subansiri,2017,NA
+Lower Subansiri,2018,12228
+Papum Pare,2011,15251
+Papum Pare,2012,16516
+Papum Pare,2013,17016
+Papum Pare,2014,20273
+Papum Pare,2015,18984
+Papum Pare,2016,20230
+Papum Pare,2017,20188
+Papum Pare,2018,20289
+Tawang,2011,5035
+Tawang,2012,4905
+Tawang,2013,5594
+Tawang,2014,5546
+Tawang,2015,5709
+Tawang,2016,5968
+Tawang,2017,6107
+Tawang,2018,6205
+Tirap,2011,NA
+Tirap,2012,NA
+Tirap,2013,NA
+Tirap,2015,9501
+Tirap,2016,10410
+Tirap,2017,10636
+Tirap,2018,10765
+Upper Siang,2011,NA
+Upper Siang,2012,NA
+Upper Siang,2013,NA
+Upper Siang,2014,11415
+Upper Siang,2015,11744
+Upper Siang,2016,12062
+Upper Siang,2017,12178
+Upper Siang,2018,12292
+Upper Subansiri,2011,NA
+Upper Subansiri,2012,NA
+Upper Subansiri,2013,NA
+Upper Subansiri,2014,NA
+Upper Subansiri,2015,NA
+Upper Subansiri,2016,NA
+Upper Subansiri,2017,NA
+Upper Subansiri,2018,NA
+West Kameng,2011,7398
+West Kameng,2012,7082
+West Kameng,2013,7772
+West Kameng,2014,7722
+West Kameng,2015,8539
+West Kameng,2016,8775
+West Kameng,2017,8931
+West Kameng,2018,9028
+West Siang,2011,NA
+West Siang,2012,NA
+West Siang,2013,NA
+West Siang,2014,NA
+West Siang,2015,NA
+West Siang,2016,NA
+West Siang,2017,NA
+West Siang,2018,NA
+Anjaw,2011,9780
+Anjaw,2012,10233
+Anjaw,2013,10923
+Anjaw,2014,10954
+Anjaw,2015,8784
+Anjaw,2016,8959
+Anjaw,2017,9037
+Anjaw,2018,9144
+Longding,2011,NA
+Longding,2012,NA
+Longding,2013,NA
+Longding,2014,9268
+Longding,2015,9195
+Longding,2016,9618
+Longding,2017,9581
+Longding,2018,9676
+Kra Daadi,2011,NA
+Kra Daadi,2015,1176
+Kra Daadi,2016,1815
+Kra Daadi,2017,1910
+Kra Daadi,2018,2004
+Namsai,2011,NA
+Namsai,2012,NA
+Namsai,2013,NA
+Namsai,2014,NA
+Namsai,2015,28321
+Namsai,2016,30014
+Namsai,2017,30600
+Namsai,2018,30717
+Siang,2011,NA
+Siang,2012,NA
+Siang,2013,NA
+Siang,2014,NA
+Siang,2015,19300
+Siang,2016,16230
+Siang,2017,16403
+Siang,2018,16543
+Kamle,2011,NA
+Kamle,2012,NA
+Kamle,2013,NA
+Kamle,2014,NA
+Kamle,2015,NA
+Kamle,2016,NA
+Kamle,2017,NA
+Kamle,2018,7237
+Lower Siang,2011,NA
+Lower Siang,2012,NA
+Lower Siang,2013,NA
+Lower Siang,2014,NA
+Lower Siang,2015,NA
+Lower Siang,2016,NA
+Lower Siang,2017,NA
+Lower Siang,2018,14454
+Pakke Kessang,2011,NA
+Pakke Kessang,2012,NA
+Pakke Kessang,2013,NA
+Pakke Kessang,2014,NA
+Pakke Kessang,2015,NA
+Pakke Kessang,2016,NA
+Pakke Kessang,2017,NA
+Pakke Kessang,2018,NA
+Leparada,2011,NA
+Leparada,2012,NA
+Leparada,2013,NA
+Leparada,2014,NA
+Leparada,2015,NA
+Leparada,2016,NA
+Leparada,2017,NA
+Leparada,2018,NA
+Shi Yomi,2011,NA
+Shi Yomi,2012,NA
+Shi Yomi,2013,NA
+Shi Yomi,2014,NA
+Shi Yomi,2015,NA
+Shi Yomi,2016,NA
+Shi Yomi,2017,NA
+Shi Yomi,2018,NA
+Unknown Districts Of India,2011,243553
+Unknown Districts Of India,2012,245837
+Unknown Districts Of India,2013,254272
+Unknown Districts Of India,2014,170704
+Unknown Districts Of India,2015,94792
+Unknown Districts Of India,2016,99295
+Unknown Districts Of India,2017,99907
+Unknown Districts Of India,2018,42382
+Dimapur,2011,NA
+Dimapur,2012,NA
+Dimapur,2013,NA
+Dimapur,2014,NA
+Dimapur,2015,NA
+Dimapur,2016,NA
+Dimapur,2017,NA
+Kohima,2011,NA
+Kohima,2012,NA
+Kohima,2013,NA
+Kohima,2014,NA
+Kohima,2015,NA
+Kohima,2016,NA
+Kohima,2017,NA
+Mokokchung,2011,41932
+Mokokchung,2012,44000
+Mokokchung,2013,44217
+Mokokchung,2014,43940
+Mokokchung,2015,44405
+Mokokchung,2016,46307
+Mokokchung,2017,47802
+Mon,2011,47182
+Mon,2012,48745
+Mon,2013,49922
+Mon,2014,50525
+Mon,2015,50302
+Mon,2016,51492
+Mon,2017,51695
+Phek,2011,44825
+Phek,2012,46005
+Phek,2013,47512
+Phek,2014,48026
+Phek,2015,47591
+Phek,2016,50016
+Phek,2017,50992
+Tuensang,2011,NA
+Tuensang,2012,NA
+Tuensang,2013,NA
+Tuensang,2014,NA
+Tuensang,2015,NA
+Tuensang,2016,NA
+Tuensang,2017,NA
+Wokha,2011,44130
+Wokha,2012,46065
+Wokha,2013,46986
+Wokha,2014,45285
+Wokha,2015,47227
+Wokha,2016,49584
+Wokha,2017,50166
+Zunheboto,2011,43480
+Zunheboto,2012,44800
+Zunheboto,2013,46264
+Zunheboto,2014,45916
+Zunheboto,2015,45523
+Zunheboto,2016,47682
+Zunheboto,2017,48573
+Peren,2011,33025
+Peren,2012,34265
+Peren,2013,35520
+Peren,2014,35665
+Peren,2015,36589
+Peren,2016,39344
+Peren,2017,40694
+Kiphire,2011,29745
+Kiphire,2012,30820
+Kiphire,2013,31800
+Kiphire,2014,31908
+Kiphire,2015,31328
+Kiphire,2016,33403
+Kiphire,2017,33695
+Longleng,2011,19615
+Longleng,2012,20650
+Longleng,2013,21204
+Longleng,2014,21625
+Longleng,2015,22727
+Longleng,2016,23081
+Longleng,2017,23316
+Noklak,2011,NA
+Noklak,2012,NA
+Noklak,2013,NA
+Noklak,2014,NA
+Noklak,2015,NA
+Noklak,2016,NA
+Noklak,2017,NA
+Unknown Districts Of India,2011,170405
+Unknown Districts Of India,2012,173172
+Unknown Districts Of India,2013,175886
+Unknown Districts Of India,2014,177183
+Unknown Districts Of India,2015,178051
+Unknown Districts Of India,2016,180407
+Unknown Districts Of India,2017,183169
+Aizawl,2011,NA
+Aizawl,2012,NA
+Aizawl,2013,NA
+Aizawl,2014,NA
+Champhai,2011,NA
+Champhai,2013,NA
+Champhai,2014,NA
+Kolasib,2011,11930
+Kolasib,2012,12880
+Kolasib,2013,12788
+Kolasib,2014,21438
+Lawngtlai,2011,8427
+Lawngtlai,2012,11101
+Lawngtlai,2013,11515
+Lawngtlai,2014,13339
+Lunglei,2011,NA
+Lunglei,2012,NA
+Lunglei,2013,NA
+Lunglei,2014,NA
+Mamit,2011,13551
+Mamit,2012,14294
+Mamit,2013,13764
+Mamit,2014,17189
+Saiha,2011,5421
+Saiha,2012,7000
+Saiha,2013,6604
+Saiha,2014,10978
+Serchhip,2011,NA
+Serchhip,2012,NA
+Serchhip,2013,NA
+Serchhip,2014,NA
+Hnahthial,2011,NA
+Hnahthial,2012,NA
+Hnahthial,2013,NA
+Hnahthial,2014,NA
+Saitual,2011,NA
+Saitual,2012,NA
+Saitual,2013,NA
+Saitual,2014,NA
+Khawzawl,2011,NA
+Khawzawl,2012,NA
+Khawzawl,2013,NA
+Khawzawl,2014,NA
+Unknown Districts Of India,2011,57953
+Unknown Districts Of India,2012,70704
+Unknown Districts Of India,2013,69207
+Unknown Districts Of India,2014,81757
+Dhalai,2011,35076.7274
+Dhalai,2012,36829
+Dhalai,2013,37245
+Dhalai,2014,37697
+Dhalai,2015,34189
+Dhalai,2016,34531
+North Tripura,2011,44471.93111
+North Tripura,2012,36955
+North Tripura,2013,38458
+North Tripura,2014,38977
+North Tripura,2015,37034
+North Tripura,2016,37405
+South Tripura,2011,82770.93226
+South Tripura,2012,80553
+South Tripura,2013,80575
+South Tripura,2014,80421
+South Tripura,2015,83006
+South Tripura,2016,83837
+West Tripura,2011,66542.37419
+West Tripura,2012,59941
+West Tripura,2013,59948
+West Tripura,2014,60729
+West Tripura,2015,61439
+West Tripura,2016,62054
+Khowai,2011,71161.67564
+Khowai,2012,56252
+Khowai,2013,57311
+Khowai,2014,56910
+Khowai,2015,57715
+Khowai,2016,58293
+Sepahijala,2011,70346.95017
+Sepahijala,2012,96031
+Sepahijala,2013,95276
+Sepahijala,2014,99875
+Sepahijala,2015,101637
+Sepahijala,2016,102655
+Gomati,2011,77738.34035
+Gomati,2012,76220
+Gomati,2013,73697
+Gomati,2014,76710
+Gomati,2015,78937
+Gomati,2016,79727
+Unakoti,2011,24384.06889
+Unakoti,2012,31588
+Unakoti,2013,31989
+Unakoti,2014,32169
+Unakoti,2015,31720
+Unakoti,2016,32038
+East Garo Hills,2011,NA
+East Garo Hills,2012,NA
+East Garo Hills,2013,NA
+East Garo Hills,2014,24632
+East Garo Hills,2015,24782
+East Garo Hills,2016,25087
+East Garo Hills,2017,25171
+East Garo Hills,2018,25291
+East Khasi Hills,2011,45634
+East Khasi Hills,2012,45645
+East Khasi Hills,2013,48951
+East Khasi Hills,2014,46318
+East Khasi Hills,2015,42227
+East Khasi Hills,2016,43409
+East Khasi Hills,2017,43481
+East Khasi Hills,2018,44433
+West Jaintia Hills,2011,NA
+West Jaintia Hills,2012,NA
+West Jaintia Hills,2013,NA
+West Jaintia Hills,2014,25536
+West Jaintia Hills,2015,20039
+West Jaintia Hills,2016,20064
+West Jaintia Hills,2017,20110
+West Jaintia Hills,2018,20202
+Ri Bhoi,2011,25195
+Ri Bhoi,2012,25233
+Ri Bhoi,2013,25224
+Ri Bhoi,2014,25713
+Ri Bhoi,2015,23135
+Ri Bhoi,2016,23773
+Ri Bhoi,2017,23827
+Ri Bhoi,2018,23962
+South Garo Hills,2011,30918
+South Garo Hills,2012,30937
+South Garo Hills,2013,30723
+South Garo Hills,2014,30714
+South Garo Hills,2015,23109
+South Garo Hills,2016,23801
+South Garo Hills,2017,23858
+South Garo Hills,2018,23969
+West Garo Hills,2011,NA
+West Garo Hills,2012,NA
+West Garo Hills,2013,NA
+West Garo Hills,2014,86211
+West Garo Hills,2015,80255
+West Garo Hills,2016,81894
+West Garo Hills,2017,81984
+West Garo Hills,2018,82348
+West Khasi Hills,2011,NA
+West Khasi Hills,2012,NA
+West Khasi Hills,2013,NA
+West Khasi Hills,2014,24970
+West Khasi Hills,2015,18196
+West Khasi Hills,2016,18460
+West Khasi Hills,2017,18519
+West Khasi Hills,2018,19004
+North Garo Hills,2011,NA
+North Garo Hills,2012,NA
+North Garo Hills,2013,NA
+North Garo Hills,2014,20337
+North Garo Hills,2015,20193
+North Garo Hills,2016,20560
+North Garo Hills,2017,20623
+North Garo Hills,2018,20929
+East Jaintia Hills,2011,NA
+East Jaintia Hills,2012,NA
+East Jaintia Hills,2013,NA
+East Jaintia Hills,2014,11102
+East Jaintia Hills,2015,6620
+East Jaintia Hills,2016,6731
+East Jaintia Hills,2017,6750
+East Jaintia Hills,2018,6779
+South West Khasi Hills,2011,NA
+South West Khasi Hills,2012,NA
+South West Khasi Hills,2013,NA
+South West Khasi Hills,2014,13120
+South West Khasi Hills,2015,9144
+South West Khasi Hills,2016,9325
+South West Khasi Hills,2017,9350
+South West Khasi Hills,2018,9644
+South West Garo Hills,2011,NA
+South West Garo Hills,2012,NA
+South West Garo Hills,2013,NA
+South West Garo Hills,2014,34778
+South West Garo Hills,2015,34935
+South West Garo Hills,2016,35476
+South West Garo Hills,2017,35532
+South West Garo Hills,2018,35607
+Unknown Districts Of India,2011,237470
+Unknown Districts Of India,2012,237910
+Unknown Districts Of India,2013,237987
+Barpeta,2011,255003.2235
+Barpeta,2012,200733.1889
+Barpeta,2013,214653.8054
+Barpeta,2014,216547.2259
+Dinajpur Uttar,2014,496257
+Barpeta,2015,206438.8487
+Barpeta,2016,208404.2169
+Barpeta,2017,208716.1711
+Barpeta,2018,193033.2272
+Bongaigaon,2011,102672.0956
+Bongaigaon,2012,96593.17672
+Bongaigaon,2013,91843.2795
+Bongaigaon,2014,85122.73314
+Bongaigaon,2015,84179.7446
+Bongaigaon,2016,91211.27547
+Bongaigaon,2017,86618.8411
+Bongaigaon,2018,87451.98692
+Cachar,2011,163499.7148
+Cachar,2012,167763.4469
+Cachar,2013,153769.0735
+Cachar,2014,165856.5293
+Cachar,2015,165594.8707
+Cachar,2016,193394.6392
+Cachar,2017,193456.0385
+Cachar,2018,190736.2179
+Darrang,2011,142187.7972
+Darrang,2012,119864.2645
+Darrang,2013,115094.6983
+Darrang,2014,116780.3172
+Darrang,2015,117102.2151
+Darrang,2016,118188.8657
+Darrang,2017,118908.437
+Darrang,2018,115159.3994
+Dhemaji,2011,120950.0961
+Dhemaji,2012,122815.8247
+Dhemaji,2013,128045.8511
+Dhemaji,2014,129672.1279
+Dhemaji,2015,123542.1618
+Dhemaji,2016,117488.0222
+Dhemaji,2017,111711.2476
+Dhemaji,2018,114279.3681
+Dhubri,2011,144162.2661
+Dhubri,2012,142440.3562
+Dhubri,2013,137302.95
+Dhubri,2014,135814.2934
+Dhubri,2015,136688.9937
+Dhubri,2016,138391.7435
+Dinajpur Uttar,2015,528618
+Dhubri,2017,136858.9354
+Dhubri,2018,139263.9447
+Dibrugarh,2011,166107
+Dibrugarh,2012,160044
+Dibrugarh,2013,172789
+Dibrugarh,2014,166181
+Dibrugarh,2015,167999
+Dibrugarh,2016,160517
+Dibrugarh,2017,165261
+Dibrugarh,2018,167116
+Goalpara,2011,125242
+Goalpara,2012,126052
+Goalpara,2013,129026
+Goalpara,2014,133608
+Goalpara,2015,134643
+Goalpara,2016,128096
+Goalpara,2017,129702
+Goalpara,2018,126691
+Golaghat,2011,183312.8426
+Golaghat,2012,204394.234
+Golaghat,2013,205004.9766
+Golaghat,2014,202610.8968
+Golaghat,2015,199687.5119
+Golaghat,2016,199994.7999
+Golaghat,2017,187452.9119
+Golaghat,2018,183981.7209
+Hailakandi,2011,78782.41996
+Hailakandi,2012,78599.13596
+Hailakandi,2013,76341.4289
+Hailakandi,2014,73684.30889
+Hailakandi,2015,73055.49907
+Hailakandi,2016,73649.99433
+Hailakandi,2017,70345.47015
+Hailakandi,2018,72370.69804
+Jorhat,2011,120526.8409
+Jorhat,2012,107083.4093
+Jorhat,2013,115430.6606
+Jorhat,2014,107880.7896
+Jorhat,2015,108191.3046
+Jorhat,2016,106923.6566
+Jorhat,2017,112710.0238
+Jorhat,2018,112212.7849
+Kamrup,2011,187586.7759
+Kamrup,2012,176647.6755
+Kamrup,2013,181430.3603
+Kamrup,2014,172531.6266
+Kamrup,2015,167700.998
+Kamrup,2016,172366.9905
+Kamrup,2017,160777.8779
+Kamrup,2018,170282.8691
+Karbi Anglong,2011,127132.5297
+Dinajpur Uttar,2016,508160
+North Goa,2013,94855
+Karbi Anglong,2012,132550.1484
+Karbi Anglong,2013,131449.1038
+Karbi Anglong,2014,130072.0101
+Karbi Anglong,2015,131990.4875
+Karbi Anglong,2016,138473.857
+Karbi Anglong,2017,139854.1019
+Karbi Anglong,2018,132304.3514
+Karimganj,2011,103686.2852
+Karimganj,2012,87697.55311
+Karimganj,2013,88546.9265
+Karimganj,2014,88419.4707
+Karimganj,2015,84752.12935
+Karimganj,2016,86337.3608
+Karimganj,2017,72846.96147
+Karimganj,2018,73825.78215
+Kokrajhar,2011,173855.3367
+Kokrajhar,2012,175377.9279
+Kokrajhar,2013,179820.9386
+Kokrajhar,2014,176426.4816
+Kokrajhar,2015,176190.801
+Kokrajhar,2016,175023.0495
+Kokrajhar,2017,158922.2231
+Kokrajhar,2018,152333.348
+Lakhimpur,2011,223484.9039
+Lakhimpur,2012,217503.1753
+Lakhimpur,2013,199140.1489
+Lakhimpur,2014,184515.8721
+Lakhimpur,2015,189338.8382
+Lakhimpur,2016,179489.9778
+Lakhimpur,2017,195118.7524
+Lakhimpur,2018,198011.6319
+Marigaon,2011,127811
+Marigaon,2012,120975
+Marigaon,2013,126681
+Marigaon,2014,128184
+Marigaon,2015,129619
+Marigaon,2016,130530
+Marigaon,2017,128655
+Marigaon,2018,124791
+Nagaon,2011,210663.2162
+Nagaon,2012,213793.7245
+Nagaon,2013,221955.7083
+Nagaon,2014,224990.4996
+Nagaon,2015,222722.1479
+Nagaon,2016,239526.8118
+Nagaon,2017,247392.4953
+Nagaon,2018,238937.7301
+Nalbari,2011,120599.0568
+Nalbari,2012,123079.6436
+Nalbari,2013,120940.5869
+Nalbari,2014,115338.2956
+Nalbari,2015,113555.7483
+Nalbari,2016,114949.8301
+Nalbari,2017,117754.9703
+Nalbari,2018,118823.5
+Dima Hasao,2011,NA
+Dima Hasao,2012,NA
+Dima Hasao,2013,NA
+Dima Hasao,2014,NA
+Dima Hasao,2015,NA
+Dima Hasao,2016,NA
+Dima Hasao,2017,NA
+Dima Hasao,2018,NA
+Sivasagar,2011,89763.70492
+Sivasagar,2012,88665.74573
+Sivasagar,2013,91842.22015
+Sivasagar,2014,89791.85772
+Sivasagar,2015,91122.22727
+Sivasagar,2016,93920.73538
+Sivasagar,2017,91737.3959
+Sivasagar,2018,90622.06582
+Sonitpur,2011,147190.6631
+Sonitpur,2012,136268.5875
+Sonitpur,2013,141792.9456
+Sonitpur,2014,148234.2254
+Sonitpur,2015,146789.0003
+Sonitpur,2016,146049.8103
+Sonitpur,2017,144083.3475
+Sonitpur,2018,140412.9431
+Tinsukia,2011,143524
+Tinsukia,2012,146961
+Tinsukia,2013,148589
+Tinsukia,2014,151852
+Tinsukia,2015,154207
+Tinsukia,2016,149334
+Tinsukia,2017,143353
+Tinsukia,2018,144388
+Chirang,2011,89663.26089
+Chirang,2012,99336.49844
+Chirang,2013,86187.48616
+Chirang,2014,89070.73209
+Chirang,2015,88369.90765
+Chirang,2016,87734.51328
+Chirang,2017,87353.51765
+Chirang,2018,87672.0878
+Baksa,2011,134748.7845
+Baksa,2012,143830.4055
+Baksa,2013,143195.0805
+Baksa,2014,145470.3885
+Baksa,2015,145024.7698
+Baksa,2016,142799.3585
+Dinajpur Uttar,2017,527708
+Baksa,2017,142823.5371
+Baksa,2018,144776.209
+Udalguri,2011,162155.4665
+Udalguri,2012,169244.5084
+Udalguri,2013,167434.0267
+Udalguri,2014,173188.0149
+Udalguri,2015,171975.8493
+Udalguri,2016,160780.2895
+Udalguri,2017,160128.1213
+Udalguri,2018,160251.2666
+Kamrup Metro,2011,48400.11897
+Kamrup Metro,2012,47988.50251
+Kamrup Metro,2013,47689.24727
+Kamrup Metro,2014,47908.35714
+Kamrup Metro,2015,46006.41948
+Kamrup Metro,2016,38735.66564
+Kamrup Metro,2017,34788.05641
+Kamrup Metro,2018,36529.75599
+Biswanath,2011,123618.3369
+Biswanath,2012,114445.4125
+Biswanath,2013,119085.0544
+Dinajpur Uttar,2018,512881
+Biswanath,2014,124494.7746
+Biswanath,2015,123280.9997
+Biswanath,2016,122660.1897
+Biswanath,2017,121008.6525
+Biswanath,2018,117926.0569
+Majuli,2011,53753.15913
+Majuli,2012,47757.59073
+Majuli,2013,51480.33936
+Majuli,2014,48113.21038
+Majuli,2015,48251.69539
+Majuli,2016,47686.34343
+Majuli,2017,50266.97622
+Majuli,2018,50045.21514
+South Salmara Mancachar,2011,27685.39716
+South Salmara Mancachar,2012,27354.71589
+South Salmara Mancachar,2013,26368.11146
+South Salmara Mancachar,2014,26082.22494
+South Salmara Mancachar,2015,26250.20527
+South Salmara Mancachar,2016,26577.20696
+South Salmara Mancachar,2017,26282.84144
+South Salmara Mancachar,2018,26744.70734
+Charaideo,2011,60093.29508
+Medinipur East,2015,538551
+Charaideo,2012,59358.25427
+Charaideo,2013,61484.77985
+Charaideo,2014,60112.14228
+Charaideo,2015,61002.77273
+Charaideo,2016,62876.26462
+Charaideo,2017,61414.6041
+Charaideo,2018,60667.93418
+Hojai,2011,88658.78375
+Hojai,2012,89976.27552
+Hojai,2013,93411.2917
+Hojai,2014,94688.50045
+Hojai,2015,93733.85208
+Hojai,2016,100806.1882
+Hojai,2017,104116.5047
+Hojai,2018,100558.2699
+West Karbi Anglong,2011,73285.62771
+West Karbi Anglong,2012,76408.61751
+West Karbi Anglong,2013,75773.9196
+West Karbi Anglong,2014,74980.09309
+West Karbi Anglong,2015,76086.0006
+West Karbi Anglong,2016,79823.34309
+West Karbi Anglong,2017,80618.98614
+North Goa,2014,94635
+West Karbi Anglong,2018,76266.92765
+Unknown Districts Of India,2011,54217
+Unknown Districts Of India,2012,54267
+Unknown Districts Of India,2013,55961
+Unknown Districts Of India,2014,54371
+Unknown Districts Of India,2015,54840
+Unknown Districts Of India,2016,54707
+Unknown Districts Of India,2017,54457
+Unknown Districts Of India,2018,55994
+24 Paraganas North,2011,464087
+24 Paraganas North,2012,459972
+24 Paraganas North,2013,470108
+24 Paraganas North,2014,483255
+24 Paraganas North,2015,485488
+24 Paraganas North,2016,489136
+24 Paraganas North,2017,476323
+24 Paraganas North,2018,500385
+24 Paraganas South,2011,539713
+24 Paraganas South,2012,530202
+24 Paraganas South,2013,546950
+24 Paraganas South,2014,555294
+24 Paraganas South,2015,564381
+24 Paraganas South,2016,530684
+24 Paraganas South,2017,562994
+24 Paraganas South,2018,603595
+Bankura,2011,504056
+Bankura,2012,504303
+Bankura,2013,508871
+Bankura,2014,492227
+Bankura,2015,506602
+Bankura,2016,520851
+Bankura,2017,535011
+Bankura,2018,540676
+Purba Bardhaman,2011,618343.739
+Purba Bardhaman,2012,621419.2596
+Purba Bardhaman,2013,638370.6452
+Purba Bardhaman,2014,624470.7651
+Purba Bardhaman,2015,634598.6898
+North Goa,2015,80468
+Purba Bardhaman,2016,590973.0467
+Purba Bardhaman,2017,733942
+Purba Bardhaman,2018,740017
+Birbhum,2011,555980
+Birbhum,2012,539267
+Birbhum,2013,557399
+Birbhum,2014,555632
+Birbhum,2015,590644
+Birbhum,2016,578716
+Birbhum,2017,616730
+Birbhum,2018,581384
+Coochbehar,2011,513482
+Coochbehar,2012,514631
+Coochbehar,2013,516686
+Coochbehar,2014,533664
+Coochbehar,2015,519681
+Coochbehar,2016,509463
+Coochbehar,2017,539304
+Coochbehar,2018,547042
+Darjeeling,2011,131496.9831
+Darjeeling,2012,133043.4768
+Darjeeling,2013,134536.0785
+Darjeeling,2014,134559.2725
+Darjeeling,2015,135943.4082
+Darjeeling,2016,137970.1539
+Darjeeling,2017,153395
+Darjeeling,2018,151315
+Dinajpur Dakshin,2011,305365
+Dinajpur Dakshin,2012,303495
+Dinajpur Dakshin,2013,305090
+Dinajpur Dakshin,2014,308077
+Dinajpur Dakshin,2015,319004
+Dinajpur Dakshin,2016,305239
+Dinajpur Dakshin,2017,409385
+Dinajpur Dakshin,2018,388682
+Dinajpur Uttar,2011,470957
+Dinajpur Uttar,2012,484107
+Dinajpur Uttar,2013,498548
+Hooghly,2011,520519.9789
+Hooghly,2012,527404.0954
+Hooghly,2013,539143.1785
+Hooghly,2014,543012.5578
+Hooghly,2015,546595.0572
+Hooghly,2016,512635
+Hooghly,2017,522262
+Hooghly,2018,527233
+Howrah,2011,156818
+Howrah,2012,157306
+Howrah,2013,155311
+Howrah,2014,167026
+Howrah,2015,169799
+Howrah,2016,165510
+Howrah,2017,162099
+Howrah,2018,165003
+Jalpaiguri,2011,305494.1959
+Jalpaiguri,2012,307920.7683
+Jalpaiguri,2013,318174.1437
+Jalpaiguri,2014,311647.2301
+Jalpaiguri,2015,317970.1076
+Jalpaiguri,2016,360033
+Jalpaiguri,2017,334415
+Jalpaiguri,2018,327001
+Maldah,2011,438771
+Maldah,2012,457412
+Maldah,2013,448480
+Maldah,2014,453708
+Maldah,2015,469800
+Maldah,2016,465548
+Maldah,2017,470660
+Maldah,2018,467038
+Medinipur East,2011,518946
+Medinipur East,2012,514142
+Medinipur East,2013,500618
+Medinipur East,2014,542702
+Medinipur East,2016,525526
+Medinipur East,2017,516217
+Medinipur East,2018,529090
+Medinipur West,2011,618079.5794
+Medinipur West,2012,647700.8591
+Medinipur West,2013,674464.8481
+Medinipur West,2014,683277.1415
+Medinipur West,2015,694052.7641
+Medinipur West,2016,680343.9996
+Medinipur West,2017,851448
+Medinipur West,2018,827124
+Murshidabad,2011,892440
+Murshidabad,2012,914803
+Murshidabad,2013,923290
+Murshidabad,2014,947246
+Murshidabad,2015,1007102
+Murshidabad,2016,983084
+Murshidabad,2017,940998
+Murshidabad,2018,937356
+Nadia,2011,712613.0211
+Nadia,2012,718775.9046
+Nadia,2013,713301.8215
+Nadia,2014,718164.4422
+Nadia,2015,708486.9428
+Nadia,2016,678500
+Nadia,2017,670874
+Nadia,2018,662573
+Purulia,2011,336355
+Purulia,2012,355830
+Purulia,2013,376455
+Purulia,2014,351417
+Purulia,2015,342492
+Purulia,2016,355503
+Purulia,2017,367513
+Purulia,2018,369364
+Alipurduar,2011,239506.8041
+Alipurduar,2012,241409.2317
+Alipurduar,2013,249447.8563
+Alipurduar,2014,244330.7699
+Alipurduar,2015,249287.8924
+Alipurduar,2016,184579
+Alipurduar,2017,241655
+Alipurduar,2018,241999
+Kalimpong,2011,61264.01686
+Kalimpong,2012,61984.52322
+Kalimpong,2013,62679.92151
+Kalimpong,2014,62690.72751
+Kalimpong,2015,63335.59183
+Kalimpong,2016,64279.84608
+Kalimpong,2017,54273
+Kalimpong,2018,58486
+Jhargram,2011,294560.4206
+Jhargram,2012,308677.1409
+Jhargram,2013,321432.1519
+Jhargram,2014,325631.8585
+Jhargram,2015,330767.2359
+Jhargram,2016,324234.0004
+Jhargram,2017,197671
+Jhargram,2018,218050
+North Goa,2016,78585
+Paschim Bardhaman,2011,154103.261
+Paschim Bardhaman,2012,154869.7404
+Paschim Bardhaman,2013,159094.3548
+Paschim Bardhaman,2014,155630.2349
+Paschim Bardhaman,2015,158154.3102
+Paschim Bardhaman,2016,147281.9533
+Paschim Bardhaman,2017,60155
+Paschim Bardhaman,2018,63252
+Bokaro,2011,43550
+Bokaro,2012,39723
+Bokaro,2013,37083
+Bokaro,2014,39027
+Bokaro,2015,33525
+Bokaro,2016,41193
+Bokaro,2017,34235
+Bokaro,2018,28726
+Chatra,2011,38678
+Chatra,2012,38141
+Chatra,2013,39625
+Chatra,2014,38925
+Chatra,2015,54585
+Chatra,2016,39172
+Chatra,2017,34684
+Chatra,2018,31809
+Deoghar,2011,39454
+Deoghar,2012,37062
+Deoghar,2013,39655
+Deoghar,2014,47523
+Deoghar,2015,47524
+Deoghar,2016,48237
+Deoghar,2017,52757
+Deoghar,2018,54585
+Dhanbad,2011,11375
+Dhanbad,2012,14967
+Dhanbad,2013,14864
+Dhanbad,2014,13543
+Dhanbad,2015,9508
+Dhanbad,2016,11519
+Dhanbad,2017,12545
+Dhanbad,2018,11784
+Dumka,2011,72142
+Dumka,2012,87272
+Dumka,2013,86274
+Dumka,2014,87521
+Dumka,2015,83150
+Dumka,2016,84911
+Dumka,2017,85358
+Dumka,2018,64168
+East Singhbum,2011,102421
+East Singhbum,2012,84698
+East Singhbum,2013,79722
+East Singhbum,2014,82121
+East Singhbum,2015,95025
+East Singhbum,2016,62371
+East Singhbum,2017,100037
+East Singhbum,2018,67090
+Garhwa,2011,77491
+Garhwa,2012,83806
+Garhwa,2013,81336
+Garhwa,2014,63262
+Garhwa,2015,73078
+Garhwa,2016,91380
+Garhwa,2017,88696
+Garhwa,2018,103020
+Giridih,2011,63268
+Giridih,2012,74200
+Giridih,2013,95872
+Giridih,2014,58902
+Giridih,2015,94376
+Giridih,2016,143459
+Giridih,2017,132443
+Giridih,2018,130690
+Godda,2011,42388
+Godda,2012,92024
+Godda,2013,86264
+Godda,2014,73954
+Godda,2015,78376
+Godda,2016,85899
+Godda,2017,60618
+Godda,2018,57406
+Gumla,2011,125892
+Gumla,2012,138402
+Gumla,2013,127923
+Gumla,2014,124802
+Gumla,2015,140010
+Gumla,2016,288192
+Gumla,2017,258952
+Gumla,2018,210120
+Hazaribagh,2011,51383
+Hazaribagh,2012,50753
+Hazaribagh,2013,49634
+Hazaribagh,2014,56396
+Hazaribagh,2015,66817
+Hazaribagh,2016,62584
+Hazaribagh,2017,64037
+Hazaribagh,2018,48680
+Jamtara,2011,40378
+Jamtara,2012,43419
+Jamtara,2013,42639
+Jamtara,2014,42964
+Jamtara,2015,56034
+Jamtara,2016,61930
+Jamtara,2017,65261
+Jamtara,2018,48251
+Koderma,2011,12025
+Koderma,2012,23244
+Koderma,2013,25482
+Koderma,2014,11541
+Koderma,2015,13240
+Koderma,2016,13767
+Koderma,2017,14103
+Koderma,2018,13121
+Latehar,2011,51780
+Latehar,2012,54650
+Latehar,2013,56897
+Latehar,2014,54134
+Latehar,2015,57453
+Latehar,2016,59394
+Latehar,2017,63701
+Latehar,2018,59258
+Lohardaga,2011,46038
+Lohardaga,2012,47517
+Lohardaga,2013,53047
+Lohardaga,2014,50194
+Lohardaga,2015,51908
+Lohardaga,2016,50901
+Lohardaga,2017,48317
+Lohardaga,2018,45696
+Pakur,2011,43802
+Pakur,2012,40194
+Pakur,2013,34966
+Pakur,2014,39957
+Pakur,2015,54105
+Pakur,2016,59419
+Pakur,2017,94940
+Pakur,2018,49116
+Palamu,2011,65850
+Palamu,2012,134995
+Palamu,2013,122044
+Palamu,2014,111972
+Palamu,2015,137432
+Palamu,2016,180094
+Palamu,2017,150129
+Palamu,2018,176800
+Ranchi,2011,129619
+Ranchi,2012,150729
+Ranchi,2013,143669
+Ranchi,2014,121304
+Ranchi,2015,138168
+Ranchi,2016,252449
+Ranchi,2017,265074
+Ranchi,2018,209227
+Sahebganj,2011,36054
+Sahebganj,2012,56245
+Sahebganj,2013,44431
+Sahebganj,2014,48177
+Sahebganj,2015,50167
+Sahebganj,2016,48616
+Sahebganj,2017,42374
+Sahebganj,2018,40262
+Saraikela Kharsawan,2011,54004
+Saraikela Kharsawan,2012,72539
+Saraikela Kharsawan,2013,74665
+Saraikela Kharsawan,2014,73796
+Saraikela Kharsawan,2015,61038
+Saraikela Kharsawan,2016,59727
+Saraikela Kharsawan,2017,53244
+Saraikela Kharsawan,2018,67169
+Simdega,2011,76586
+Simdega,2012,75783
+Simdega,2013,92948
+Simdega,2014,90467
+Simdega,2015,137218
+Simdega,2016,84730
+Simdega,2017,83762
+Simdega,2018,83400
+West Singhbhum,2011,121344
+West Singhbhum,2012,134690
+West Singhbhum,2013,141849
+West Singhbhum,2014,129726
+West Singhbhum,2015,131750
+West Singhbhum,2016,117553
+West Singhbhum,2017,132256
+West Singhbhum,2018,134208
+Khunti,2011,69133
+Khunti,2012,68592
+Khunti,2013,85327
+Khunti,2014,77781
+Khunti,2015,103296
+Khunti,2016,75866
+Khunti,2017,68611
+Khunti,2018,64561
+Ramgarh,2011,15731
+Ramgarh,2012,13390
+Ramgarh,2013,15671
+Ramgarh,2014,15702
+Ramgarh,2015,43769
+Ramgarh,2016,21603
+Ramgarh,2017,26744
+Ramgarh,2018,25321
+Anugul,2011,102641
+Anugul,2012,109927
+Anugul,2013,96019
+Anugul,2014,110387
+Anugul,2015,93385
+Anugul,2016,94489
+Anugul,2017,107256
+Anugul,2018,81310
+Balangir,2011,269814
+Balangir,2012,310218
+Balangir,2013,309262
+Balangir,2014,299392
+Balangir,2015,270794
+Balangir,2016,263067
+Balangir,2017,191102
+Balangir,2018,175113
+Baleshwar,2011,251267
+Baleshwar,2012,219029
+Baleshwar,2013,237662
+Baleshwar,2014,228366
+Baleshwar,2015,235717
+Baleshwar,2016,236162
+Baleshwar,2017,220309
+Baleshwar,2018,226058
+Bargarh,2011,355695
+Bargarh,2012,344521
+Bargarh,2013,383897
+Bargarh,2014,359282
+Bargarh,2015,350307
+Bargarh,2016,335412
+Bargarh,2017,342470
+Bargarh,2018,328258
+Bhadrak,2011,179630
+Bhadrak,2012,173336
+Bhadrak,2013,175492
+Bhadrak,2014,172681
+Bhadrak,2015,170455
+Bhadrak,2016,162941
+Bhadrak,2017,162505
+Bhadrak,2018,153894
+Boudh,2011,77139
+Boudh,2012,85305
+Boudh,2013,78385
+Boudh,2014,68870
+Boudh,2015,65036
+Boudh,2016,66189
+Boudh,2017,64058
+Boudh,2018,67432
+Cuttack,2011,206089
+Cuttack,2012,194684
+Cuttack,2013,154778
+Cuttack,2014,160031
+Cuttack,2015,162621
+Cuttack,2016,164653
+Cuttack,2017,138280
+Cuttack,2018,124999
+Deogarh,2011,42497
+Deogarh,2012,49539
+Deogarh,2013,53896
+Deogarh,2014,52338
+Deogarh,2015,48884
+Deogarh,2016,47699
+Deogarh,2017,50920
+Deogarh,2018,58677
+Dhenkanal,2011,106027
+Dhenkanal,2012,99346
+Dhenkanal,2013,106225
+Dhenkanal,2014,112755
+Dhenkanal,2015,96754
+Dhenkanal,2016,84493
+Dhenkanal,2017,71849
+Dhenkanal,2018,96163
+Gajapati,2011,57534
+Gajapati,2012,56949
+Gajapati,2013,64234
+Gajapati,2014,66911
+Gajapati,2015,63925
+Gajapati,2016,66305
+Gajapati,2017,63349
+Gajapati,2018,59278
+Ganjam,2011,308620
+Ganjam,2012,328863
+Ganjam,2013,322519
+Ganjam,2014,337952
+Ganjam,2015,318116
+Ganjam,2016,340156
+Ganjam,2017,268783
+Ganjam,2018,314095
+Jagatsinghapur,2011,122888
+Jagatsinghapur,2012,113925
+Jagatsinghapur,2013,120528
+Jagatsinghapur,2014,129977
+Jagatsinghapur,2015,130855
+Jagatsinghapur,2016,127850
+Jagatsinghapur,2017,113230
+Jagatsinghapur,2018,129184
+Jajapur,2011,164795
+Jajapur,2012,157866
+Jajapur,2013,154566
+Jajapur,2014,162110
+Jajapur,2015,143212
+Jajapur,2016,137638
+Jajapur,2017,130717
+Jajapur,2018,142195
+Jharsuguda,2011,41118
+Jharsuguda,2012,39684
+Jharsuguda,2013,42759
+Jharsuguda,2014,71334
+Jharsuguda,2015,47179
+Jharsuguda,2016,50041
+Jharsuguda,2017,52325
+Jharsuguda,2018,42354
+Kalahandi,2011,274309
+Kalahandi,2012,332629
+Kalahandi,2013,315097
+Kalahandi,2014,306029
+Kalahandi,2015,246439
+Kalahandi,2016,282090
+Kalahandi,2017,240679
+Kalahandi,2018,257386
+Kandhamal,2011,51196
+Kandhamal,2012,56424
+Kandhamal,2013,59151
+Kandhamal,2014,58956
+Kandhamal,2015,37691
+Kandhamal,2016,49047
+Kandhamal,2017,36947
+Kandhamal,2018,45022
+Kendrapara,2011,175847
+Kendrapara,2012,181743
+Kendrapara,2013,166882
+Kendrapara,2014,158301
+Kendrapara,2015,151471
+Kendrapara,2016,143959
+Kendrapara,2017,147031
+Kendrapara,2018,149931
+Kendujhar,2011,184607
+Kendujhar,2012,182429
+Kendujhar,2013,184763
+Kendujhar,2014,187322
+Kendujhar,2015,192620
+Kendujhar,2016,206093
+Kendujhar,2017,201905
+Kendujhar,2018,165448
+Khordha,2011,109358
+Khordha,2012,108233
+Khordha,2013,116397
+Khordha,2014,126060
+Khordha,2015,121084
+Khordha,2016,117804
+Khordha,2017,94081
+Khordha,2018,98322
+Koraput,2011,198784
+Koraput,2012,212582
+Koraput,2013,226896
+Koraput,2014,224358
+Koraput,2015,199492
+Koraput,2016,201153
+Koraput,2017,211008
+Koraput,2018,203081
+Malkangiri,2011,114482
+Malkangiri,2012,116862
+Malkangiri,2013,124214
+Malkangiri,2014,127502
+Malkangiri,2015,119358
+Malkangiri,2016,114197
+Malkangiri,2017,117231
+Malkangiri,2018,115915
+Mayurbhanj,2011,314322
+Mayurbhanj,2012,301862
+Mayurbhanj,2013,318783
+Mayurbhanj,2014,326066
+Mayurbhanj,2015,327583
+Mayurbhanj,2016,320498
+Mayurbhanj,2017,334233
+Mayurbhanj,2018,343012
+Nabarangpur,2011,218416
+Nabarangpur,2012,213946
+Nabarangpur,2013,214588
+Nabarangpur,2014,210896
+Nabarangpur,2015,178078
+Nabarangpur,2016,216933
+Nabarangpur,2017,154822
+Nabarangpur,2018,173930
+Nayagarh,2011,104368
+Nayagarh,2012,136825
+Nayagarh,2013,147158
+Nayagarh,2014,137515
+Nayagarh,2015,117094
+Nayagarh,2016,124994
+Nayagarh,2017,125254
+Nayagarh,2018,111708
+Nuapada,2011,132022
+Nuapada,2012,131321
+Nuapada,2013,134676
+Nuapada,2014,121168
+Nuapada,2015,107537
+Nuapada,2016,122068
+Nuapada,2017,114468
+Nuapada,2018,118633
+Puri,2011,179335
+Puri,2012,178669
+Puri,2013,167163
+Puri,2014,179262
+Puri,2015,185100
+Puri,2016,142229
+Puri,2017,128360
+Puri,2018,148785
+Rayagada,2011,130895
+Rayagada,2012,126395
+Rayagada,2013,155243
+Rayagada,2014,152833
+Rayagada,2015,123510
+Rayagada,2016,131475
+Rayagada,2017,133462
+Rayagada,2018,117818
+Sambalpur,2011,140984
+Sambalpur,2012,141968
+Sambalpur,2013,166058
+Sambalpur,2014,176532
+Sambalpur,2015,150955
+Sambalpur,2016,163861
+Sambalpur,2017,138648
+Sambalpur,2018,138776
+Sonepur,2011,137918
+Sonepur,2012,142063
+Sonepur,2013,144610
+Sonepur,2014,137040
+Sonepur,2015,139985
+Sonepur,2016,139320
+Sonepur,2017,129953
+Sonepur,2018,147507
+Sundargarh,2011,211878
+Sundargarh,2012,221448
+Sundargarh,2013,225760
+Sundargarh,2014,210777
+Sundargarh,2015,207410
+Sundargarh,2016,231444
+Sundargarh,2017,216591
+Sundargarh,2018,192711
+Bastar,2011,186165
+Bastar,2012,186078
+Bastar,2013,185436
+Bastar,2014,179018
+Bastar,2015,174710
+North Goa,2017,76893
+Bastar,2016,175586
+Bastar,2017,175873
+Bastar,2018,173916
+Bilaspur,2011,190316.2573
+Bilaspur,2012,186839.763
+Bilaspur,2013,188238.5012
+Bilaspur,2014,188025.2986
+Bilaspur,2015,183195.937
+Bilaspur,2016,173131.4828
+Bilaspur,2017,162212.9262
+Bilaspur,2018,163985.738
+Dantewada,2011,102108
+Dantewada,2012,102819
+Dantewada,2013,102458
+Dantewada,2014,104443
+Dantewada,2015,101535
+Dantewada,2016,101124
+Dantewada,2017,99009
+Dantewada,2018,98428
+Dhamtari,2011,210571
+Dhamtari,2012,218425
+Dhamtari,2013,224153
+Dhamtari,2014,233751
+Dhamtari,2015,206551
+Dhamtari,2016,226413
+Dhamtari,2017,210079
+Dhamtari,2018,213316
+Durg,2011,192214
+Durg,2012,196506
+Durg,2013,193315
+Durg,2014,190437
+Durg,2015,189721
+Durg,2016,186591
+Durg,2017,180887
+Durg,2018,189114
+Janjgir-Champa,2011,315724
+Janjgir-Champa,2012,316820
+Janjgir-Champa,2013,291616
+Janjgir-Champa,2014,286321
+Janjgir-Champa,2015,290659
+Janjgir-Champa,2016,275853
+Janjgir-Champa,2017,269343
+Janjgir-Champa,2018,273348
+Jashpur,2011,258334
+Jashpur,2012,258136
+Jashpur,2013,255489
+Jashpur,2014,256480
+Jashpur,2015,256863
+Jashpur,2016,257374
+Jashpur,2017,257051
+Jashpur,2018,255051
+Kanker,2011,228282
+Kanker,2012,228071
+Kanker,2013,230916
+Kanker,2014,231040
+Kanker,2015,229304
+Kanker,2016,226343
+Kanker,2017,223722
+Kanker,2018,225209
+Kabirdham,2011,250459
+Kabirdham,2012,252164
+Kabirdham,2013,254913
+Kabirdham,2014,267711
+Kabirdham,2015,267006
+Kabirdham,2016,272698
+Kabirdham,2017,266846
+Kabirdham,2018,279040
+Korba,2011,141835
+Korba,2012,141200
+Korba,2013,141565
+Korba,2014,141079
+Korba,2015,141881
+Korba,2016,137329
+Korba,2017,134588
+Korba,2018,130158
+Korea,2011,115118
+Korea,2012,115225
+Korea,2013,115849
+Korea,2014,118452
+Korea,2015,103548
+Korea,2016,109593
+Korea,2017,107814
+Korea,2018,106500
+Mahasamund,2011,296499
+Mahasamund,2012,302057
+Mahasamund,2013,301729
+Mahasamund,2014,303122
+Mahasamund,2015,301314
+Mahasamund,2016,306194
+Mahasamund,2017,302444
+Mahasamund,2018,313131
+Raigarh,2011,300916
+Raigarh,2012,299855
+Raigarh,2013,300516
+Raigarh,2014,287010
+Raigarh,2015,287425
+Raigarh,2016,299867
+Raigarh,2017,279916
+Raigarh,2018,290431
+Raipur,2011,210513
+Raipur,2012,221351
+Raipur,2013,219816
+Raipur,2014,225177
+Raipur,2015,200995
+Raipur,2016,214451
+Raipur,2017,195365
+Raipur,2018,194673
+Rajnandgaon,2011,443938
+Rajnandgaon,2012,442290
+Rajnandgaon,2013,446628
+Rajnandgaon,2014,446960
+Rajnandgaon,2015,468040
+Rajnandgaon,2016,493730
+Rajnandgaon,2017,494466
+Rajnandgaon,2018,517075
+Surguja,2011,183450
+Surguja,2012,183077
+Surguja,2013,182267
+Surguja,2014,182604
+Surguja,2015,182562
+Surguja,2016,182705
+Surguja,2017,178602
+Surguja,2018,175836
+Bijapur,2011,60362
+Bijapur,2012,65435
+Bijapur,2013,66217
+Bijapur,2014,66049
+Bijapur,2015,63278
+Bijapur,2016,64929
+Bijapur,2017,65487
+Bijapur,2018,66368
+Narayanpur,2011,32860
+Narayanpur,2012,32966
+Narayanpur,2013,33440
+Narayanpur,2014,33599
+Narayanpur,2015,31787
+Narayanpur,2016,31839
+Narayanpur,2017,32040
+Narayanpur,2018,32392
+Sukma,2011,97652
+Sukma,2012,97301
+Sukma,2013,97389
+Sukma,2014,104535
+Sukma,2015,107118
+Sukma,2016,105546
+Sukma,2017,105905
+Sukma,2018,102391
+Kondagaon,2011,137400
+Kondagaon,2012,137489
+Kondagaon,2013,137763
+Kondagaon,2014,137923
+Kondagaon,2015,136778
+Kondagaon,2016,143844
+Kondagaon,2017,144563
+Kondagaon,2018,145847
+Baloda Bazar,2011,284396
+Baloda Bazar,2012,280891
+Baloda Bazar,2013,283103
+Baloda Bazar,2014,291670
+Baloda Bazar,2015,296241
+Baloda Bazar,2016,275795
+Baloda Bazar,2017,254289
+Baloda Bazar,2018,262849
+Gariyaband,2011,158976
+Gariyaband,2012,161496
+Gariyaband,2013,162524
+Gariyaband,2014,166948
+Gariyaband,2015,156739
+Gariyaband,2016,153546
+Gariyaband,2017,157652
+Gariyaband,2018,161202
+Balod,2011,256446
+Balod,2012,255770
+Balod,2013,256093
+Balod,2014,257565
+Balod,2015,234179
+Balod,2016,247874
+Balod,2017,242734
+Balod,2018,237601
+Mungeli,2011,207023
+Mungeli,2012,208007
+Mungeli,2013,208373
+Mungeli,2014,209680
+Mungeli,2015,215064
+Mungeli,2016,212598
+Mungeli,2017,213631
+Mungeli,2018,207797
+Surajpur,2011,176797
+Surajpur,2012,177918
+Surajpur,2013,181599
+Surajpur,2014,180406
+Surajpur,2015,178217
+Surajpur,2016,177778
+Surajpur,2017,174087
+Surajpur,2018,172681
+Balrampur,2011,181549
+Balrampur,2012,177930
+Balrampur,2013,178912
+Balrampur,2014,180993
+Balrampur,2015,178735
+Balrampur,2016,179709
+Balrampur,2017,177332
+Balrampur,2018,174311
+Bemetara,2011,339513
+Bemetara,2012,342383
+Bemetara,2013,354268
+Bemetara,2014,353720
+Bemetara,2015,356512
+Bemetara,2016,346134
+Bemetara,2017,345437
+Bemetara,2018,361093
+Gaurella Pendra Marwahi,2011,104259.7427
+Gaurella Pendra Marwahi,2012,102355.237
+Gaurella Pendra Marwahi,2013,103121.4988
+Gaurella Pendra Marwahi,2014,103004.7014
+Gaurella Pendra Marwahi,2015,100359.063
+Gaurella Pendra Marwahi,2016,94845.51718
+Gaurella Pendra Marwahi,2017,88864.07385
+Gaurella Pendra Marwahi,2018,89835.26205
+Anuppur,2011,200461.1627
+Anuppur,2012,209514.4792
+Anuppur,2013,208903
+Anuppur,2014,208866
+Anuppur,2015,177889
+Anuppur,2016,190681
+Anuppur,2017,190264
+Ashoknagar,2011,469559
+Ashoknagar,2012,478744
+Ashoknagar,2013,496445
+Ashoknagar,2014,499933
+Ashoknagar,2015,487559
+Ashoknagar,2016,517379
+Ashoknagar,2017,567395
+Balaghat,2011,343818
+Balaghat,2012,351509
+Balaghat,2013,346752
+Balaghat,2014,346261
+Balaghat,2015,296000
+Balaghat,2016,344651
+Balaghat,2017,334838
+Barwani,2011,275351
+Barwani,2012,276446
+Barwani,2013,289122
+Barwani,2014,294212
+Barwani,2015,298080
+Barwani,2016,299015
+Barwani,2017,308289
+Betul,2011,567846
+Betul,2012,601873
+Betul,2013,604455
+Betul,2014,607621
+Betul,2015,602113
+Betul,2016,599569
+Betul,2017,632405
+Bhind,2011,373280
+Bhind,2012,381448
+Bhind,2013,382813
+Bhind,2014,395005
+Bhind,2015,407829
+Bhind,2016,410992
+Bhind,2017,406245
+Bhopal,2011,241743
+Bhopal,2012,246212
+Bhopal,2013,247552
+Bhopal,2014,241899
+Bhopal,2015,229901
+Bhopal,2016,229649
+Bhopal,2017,294685
+Burhanpur,2011,121740.6737
+Burhanpur,2012,122849.8728
+Burhanpur,2013,124672
+Burhanpur,2014,125605
+Burhanpur,2015,126938
+Burhanpur,2016,130668
+Burhanpur,2017,134199
+Chhatarpur,2011,592913
+Chhatarpur,2012,632075
+Chhatarpur,2013,661123
+Chhatarpur,2014,650335
+Chhatarpur,2015,544714
+Chhatarpur,2016,633120
+Chhatarpur,2017,634024
+Chhindwara,2011,676284.2046
+Chhindwara,2012,706603.0422
+Chhindwara,2013,720374
+Chhindwara,2014,725172
+Chhindwara,2015,717851
+Chhindwara,2016,714833
+Chhindwara,2017,733787
+Damoh,2011,450132
+Damoh,2012,466805
+Damoh,2013,519135
+Damoh,2014,520288
+Damoh,2015,540371
+Damoh,2016,585076
+Damoh,2017,560640
+Datia,2011,273546.0132
+Datia,2012,275563.2313
+Datia,2013,268507
+Datia,2014,271499
+Datia,2015,281218
+Datia,2016,289967
+Datia,2017,324290
+Dewas,2011,690525
+Dewas,2012,705297
+Dewas,2013,728419
+Dewas,2014,736493
+Dewas,2015,735646
+Dewas,2016,752627
+Dewas,2017,768801
+Dhar,2011,769700
+Dhar,2012,781407
+Dhar,2013,818257
+Dhar,2014,810479
+Dhar,2015,817655
+Dhar,2016,831962
+Dhar,2017,848981
+Dindori,2011,290247.1388
+Dindori,2012,292574.2105
+Dindori,2013,289458
+Dindori,2014,290506
+Dindori,2015,287087
+Dindori,2016,289520
+Dindori,2017,274796
+East Nimar,2011,424189
+East Nimar,2012,438095
+East Nimar,2013,451472
+East Nimar,2014,455348
+East Nimar,2015,453018
+East Nimar,2016,457814
+East Nimar,2017,492346
+Guna,2011,483107
+Guna,2012,508052
+Guna,2013,524466
+Guna,2014,530532
+Guna,2015,557952
+Guna,2016,574981
+Guna,2017,642386
+Gwalior,2011,265306
+Gwalior,2012,293651
+Gwalior,2013,293795
+Gwalior,2014,283434
+Gwalior,2015,279545
+Gwalior,2016,276340
+Gwalior,2017,259139
+Harda,2011,355184
+Harda,2012,360386
+Harda,2013,361132
+Harda,2014,358844
+Harda,2015,363954
+Harda,2016,366415
+Harda,2017,369960
+Hoshangabad,2011,543370
+Hoshangabad,2012,554143
+Hoshangabad,2013,636209
+Hoshangabad,2014,611712
+Hoshangabad,2015,648176
+Hoshangabad,2016,628031
+Hoshangabad,2017,687716
+Indore,2011,455727
+Indore,2012,462502
+Indore,2013,466632
+Indore,2014,466719
+Indore,2015,468132
+Indore,2016,470120
+Indore,2017,493222
+Jabalpur,2011,400315.3263
+Jabalpur,2012,396869.1272
+Jabalpur,2013,424268
+Jabalpur,2014,431093
+Jabalpur,2015,428354
+Jabalpur,2016,450639
+Jabalpur,2017,464659
+Jhabua,2011,237253
+Jhabua,2012,249421
+Jhabua,2013,255431
+Jhabua,2014,251116
+Jhabua,2015,238241
+Jhabua,2016,246742
+Jhabua,2017,264395
+Katni,2011,268457
+Katni,2012,290343
+Katni,2013,308195
+Katni,2014,303596
+Katni,2015,296340
+Katni,2016,310796
+Katni,2017,338164
+Khargone,2011,505661
+Khargone,2012,521278
+Khargone,2013,547009
+Khargone,2014,577383
+Khargone,2015,582649
+Khargone,2016,585821
+Khargone,2017,692271
+Mandla,2011,326340.7954
+Mandla,2012,319066.9578
+Mandla,2013,325097
+Mandla,2014,326520
+Mandla,2015,314836
+Mandla,2016,316506
+Mandla,2017,320016
+Mandsaur,2011,590765
+Mandsaur,2012,597620
+Mandsaur,2013,625990
+Mandsaur,2014,616418
+Mandsaur,2015,601833
+Mandsaur,2016,620443
+Mandsaur,2017,635888
+Morena,2011,375407
+Morena,2012,373015
+Morena,2013,396442
+Morena,2014,398166
+Morena,2015,397423
+Morena,2016,396821
+Morena,2017,423582
+Narsinghpur,2011,424512
+Narsinghpur,2012,442860
+Narsinghpur,2013,471782
+Narsinghpur,2014,467489
+Narsinghpur,2015,476507
+Narsinghpur,2016,484035
+Narsinghpur,2017,480990
+Neemuch,2011,301228
+Neemuch,2012,306128
+Neemuch,2013,311079
+Neemuch,2014,312633
+Neemuch,2015,305971
+Neemuch,2016,311659
+Neemuch,2017,320957
+Panna,2011,398852
+Panna,2012,397180
+Panna,2013,417540
+Panna,2014,401678
+Panna,2015,375331
+Panna,2016,373270
+Panna,2017,412207
+Raisen,2011,633972
+Raisen,2012,667399
+Raisen,2013,719472
+Raisen,2014,680500
+Raisen,2015,709928
+Raisen,2016,695790
+Raisen,2017,722947
+Rajgarh,2011,745646
+Rajgarh,2012,772488
+Rajgarh,2013,783952
+Rajgarh,2014,789989
+Rajgarh,2015,795239
+Rajgarh,2016,799604
+Rajgarh,2017,808363
+Ratlam,2011,539313
+Ratlam,2012,554646
+Ratlam,2013,577475
+Ratlam,2014,550874
+Ratlam,2015,538176
+Ratlam,2016,557238
+Ratlam,2017,581364
+Rewa,2011,504698
+Rewa,2012,506423
+Rewa,2013,517271
+Rewa,2014,516307
+Rewa,2015,494233
+Rewa,2016,518568
+Rewa,2017,516278
+Sagar,2011,874645.8612
+Sagar,2012,858850.7895
+Sagar,2013,887288
+Sagar,2014,884571
+Sagar,2015,924841
+Sagar,2016,923551
+Sagar,2017,960091
+Satna,2011,492323.205
+Satna,2012,493576.5882
+Satna,2013,515188
+Satna,2014,509572
+Satna,2015,507787
+Satna,2016,526473
+Satna,2017,611037
+Sehore,2011,694634
+Sehore,2012,729293
+Sehore,2013,760512
+Sehore,2014,761938
+Sehore,2015,753927
+Sehore,2016,767628
+Sehore,2017,775721
+Seoni,2011,538444
+Seoni,2012,561335
+Seoni,2013,578037
+Seoni,2014,577886
+Seoni,2015,563178
+Seoni,2016,571082
+Seoni,2017,594530
+Shahdol,2011,202120.8373
+Shahdol,2012,217064.5208
+Shahdol,2013,268682
+Shahdol,2014,215680
+Shahdol,2015,197208
+Shahdol,2016,214073
+Shahdol,2017,213094
+Shajapur,2011,440025.5641
+Shajapur,2012,445229.774
+Shajapur,2013,501508
+Shajapur,2014,494221
+Shajapur,2015,498827
+Shajapur,2016,504530
+Shajapur,2017,512740
+Sheopur,2011,240569
+Sheopur,2012,239838
+Sheopur,2013,260547
+Sheopur,2014,259762
+Sheopur,2015,269708
+Sheopur,2016,277945
+Sheopur,2017,261940
+Shivpuri,2011,667856.9868
+Shivpuri,2012,680238.7687
+Shivpuri,2013,713794
+Shivpuri,2014,712689
+Shivpuri,2015,665341
+Shivpuri,2016,691033
+Shivpuri,2017,775372
+Sidhi,2011,232733
+Sidhi,2012,231957
+Sidhi,2013,234540
+Sidhi,2014,231770
+Sidhi,2015,230932
+Sidhi,2016,229395
+Sidhi,2017,232782
+Tikamgarh,2011,324394.8862
+Tikamgarh,2012,339758.9838
+Tikamgarh,2013,348903.5563
+Y.S.R.,2015,396864
+Tikamgarh,2014,345576.5847
+Tikamgarh,2015,269330.9337
+Tikamgarh,2016,359071.0863
+Tikamgarh,2017,283250.171
+Ujjain,2011,886569
+Ujjain,2012,925168
+Ujjain,2013,938003
+Ujjain,2014,882067
+Ujjain,2015,905799
+Ujjain,2016,924171
+Ujjain,2017,961567
+Umaria,2011,140291
+Umaria,2012,139173
+Umaria,2013,145193
+Umaria,2014,139687
+Umaria,2015,132114
+Umaria,2016,138395
+Umaria,2017,141540
+Vidisha,2011,788416
+Vidisha,2012,840203
+Vidisha,2013,919277
+Vidisha,2014,897535
+Vidisha,2015,969331
+Vidisha,2016,971938
+Vidisha,2017,1004508
+Singrauli,2011,228510
+Singrauli,2012,227213
+Singrauli,2013,226864
+Singrauli,2014,225787
+Singrauli,2015,224545
+Singrauli,2016,229181
+Singrauli,2017,229383
+Alirajpur,2011,202824
+Alirajpur,2012,205632
+Alirajpur,2013,211745
+Alirajpur,2014,213324
+Alirajpur,2015,210912
+Alirajpur,2016,209850
+Alirajpur,2017,205693
+Y.S.R.,2016,375045
+Agar Malwa,2011,335399.4359
+Agar Malwa,2012,339366.226
+Agar Malwa,2013,297742
+Agar Malwa,2014,286090
+Agar Malwa,2015,288306
+Agar Malwa,2016,292429
+Agar Malwa,2017,314095
+Niwari,2011,110182.9088
+Niwari,2012,115401.428
+Niwari,2013,118507.4437
+Niwari,2014,117377.4153
+Niwari,2015,91480.06629
+Niwari,2016,121960.9137
+Niwari,2017,96207.82901
+Anantapur,2011,1114083
+Anantapur,2012,1083515
+Anantapur,2013,1106371
+Anantapur,2014,942309
+Anantapur,2015,920178
+Anantapur,2016,919510
+Anantapur,2017,842174
+Anantapur,2018,925577
+Chittoor,2011,408348
+Chittoor,2012,401092
+Chittoor,2013,417066
+Chittoor,2014,378839
+Chittoor,2015,430201
+Chittoor,2016,404223
+Chittoor,2017,420577
+Chittoor,2018,407422
+Y.S.R.,2011,432970
+Y.S.R.,2012,425113
+Y.S.R.,2013,418871
+Y.S.R.,2014,354734
+Y.S.R.,2017,371033
+Y.S.R.,2018,328650
+East Godavari,2011,669951.8631
+East Godavari,2012,727257.4291
+East Godavari,2013,727733.4685
+East Godavari,2014,713333.232
+East Godavari,2015,706619.5402
+East Godavari,2016,682574
+East Godavari,2017,666037
+East Godavari,2018,648439
+Guntur,2011,829312
+Guntur,2012,737015
+Guntur,2013,862903
+Guntur,2014,809674
+Guntur,2015,676344
+Guntur,2016,703753
+Guntur,2017,769893
+Guntur,2018,771492
+Krishna,2011,726436
+Krishna,2012,700624
+Krishna,2013,728495
+Krishna,2014,676999
+Krishna,2015,609355
+Krishna,2016,624319
+Krishna,2017,649051
+Krishna,2018,660930
+Kurnool,2011,962190
+Kurnool,2012,998341
+Kurnool,2013,1001697
+Kurnool,2014,997959
+Kurnool,2015,917291
+Kurnool,2016,975197
+Kurnool,2017,952906
+Kurnool,2018,937278
+Spsr Nellore,2011,448592
+Spsr Nellore,2012,423138
+Spsr Nellore,2013,374181
+Spsr Nellore,2014,394565
+Spsr Nellore,2015,463066
+Spsr Nellore,2016,358200
+Spsr Nellore,2017,360575
+Spsr Nellore,2018,291737
+Prakasam,2011,636433
+Prakasam,2012,642626
+Prakasam,2013,688818
+Prakasam,2014,605169
+Prakasam,2015,613988
+Prakasam,2016,562358
+Prakasam,2017,554513
+Prakasam,2018,563281
+Srikakulam,2011,428261
+Srikakulam,2012,422571
+Srikakulam,2013,414006
+Srikakulam,2014,419064
+Srikakulam,2015,408850
+Srikakulam,2016,408356
+Srikakulam,2017,450058
+Srikakulam,2018,431719
+Visakhapatanam,2011,360473
+Visakhapatanam,2012,360087
+Visakhapatanam,2013,368902
+Visakhapatanam,2014,362847
+Visakhapatanam,2015,350736
+Visakhapatanam,2016,335523
+Visakhapatanam,2017,339759
+Visakhapatanam,2018,323822
+Vizianagaram,2011,379235
+Vizianagaram,2012,372619
+Vizianagaram,2013,357894
+Vizianagaram,2014,372693
+Vizianagaram,2015,372175
+Vizianagaram,2016,381579
+Vizianagaram,2017,371534
+Vizianagaram,2018,345860
+West Godavari,2011,717390.4807
+West Godavari,2012,721410.317
+Ballari,2017,508286
+West Godavari,2013,721313.9578
+West Godavari,2014,710922.2098
+West Godavari,2015,711588.7298
+West Godavari,2016,687420
+West Godavari,2017,696593
+West Godavari,2018,660422
+Bagalkote,2011,616301
+Bagalkote,2012,508067
+Bagalkote,2013,588692
+Bagalkote,2014,569436
+Bagalkote,2015,550295
+Bagalkote,2016,604730
+Bagalkote,2017,609716
+Bengaluru Urban,2011,53591
+Bengaluru Urban,2012,54174
+Bengaluru Urban,2013,51062
+Bengaluru Urban,2014,45376
+Bengaluru Urban,2015,41207
+Bengaluru Urban,2016,37174
+Bengaluru Urban,2017,36275
+Bengaluru Rural,2011,130615
+Bengaluru Rural,2012,122960
+Bengaluru Rural,2013,119589
+Bengaluru Rural,2014,111873
+Bengaluru Rural,2015,116951
+Bengaluru Rural,2016,107564
+Bengaluru Rural,2017,103291
+Belagavi,2011,1011264
+Belagavi,2012,896070
+Belagavi,2013,967723
+Belagavi,2014,1024933
+Belagavi,2015,1021296
+Belagavi,2016,1039385
+Belagavi,2017,1007829
+Ballari,2011,532016
+Ballari,2012,563898
+Ballari,2013,521204
+Ballari,2014,548819
+Ballari,2015,552223
+Ballari,2016,432320
+Bidar,2011,415695
+Bidar,2012,434364
+Bidar,2013,450335
+Bidar,2014,367699
+Bidar,2015,397708
+Bidar,2016,483726
+Bidar,2017,451737
+Vijayapura,2011,844202
+Vijayapura,2012,933380
+Vijayapura,2013,949189
+Vijayapura,2014,914884
+Vijayapura,2015,968726
+Vijayapura,2016,958705
+Vijayapura,2017,968120
+Chamarajanagara,2011,222404
+Chamarajanagara,2012,232286
+Chamarajanagara,2013,188808
+Chamarajanagara,2014,191024
+Chamarajanagara,2015,194692
+Chamarajanagara,2016,151456
+Chamarajanagara,2017,193657
+Chikkamagaluru,2011,323635
+Chikkamagaluru,2012,332896
+Chikkamagaluru,2013,348564
+Chikkamagaluru,2014,357611
+Chikkamagaluru,2015,360969
+Chikkamagaluru,2016,329218
+Chikkamagaluru,2017,337402
+Chitradurga,2011,453484
+Chitradurga,2012,453417
+Chitradurga,2013,461270
+Chitradurga,2014,500394
+Chitradurga,2015,469919
+Chitradurga,2016,467021
+Chitradurga,2017,442888
+Dakshina Kannada,2011,157683
+Dakshina Kannada,2012,156945
+Dakshina Kannada,2013,157583
+Dakshina Kannada,2014,167601
+Dakshina Kannada,2015,166155
+Dakshina Kannada,2016,158761
+Dakshina Kannada,2017,157947
+Davangere,2011,486680
+Davangere,2012,462669
+Davangere,2013,461126
+Davangere,2014,480805
+Davangere,2015,425786
+Davangere,2016,405141
+Davangere,2017,417160
+Dharwad,2011,477025
+Dharwad,2012,379601
+Dharwad,2013,465411
+Dharwad,2014,463447
+Dharwad,2015,519337
+Dharwad,2016,488274
+Dharwad,2017,443720
+Gadag,2011,494617
+Gadag,2012,423152
+Gadag,2013,527409
+Gadag,2014,538246
+Gadag,2015,497896
+Gadag,2016,572195
+Gadag,2017,505841
+Kalaburagi,2011,972506
+Kalaburagi,2012,941636
+Kalaburagi,2013,1021186
+Kalaburagi,2014,1049293
+Kalaburagi,2015,905244
+Kalaburagi,2016,1031220
+Kalaburagi,2017,1072949
+Hassan,2011,449236
+Hassan,2012,434248
+Hassan,2013,428127
+Hassan,2014,449347
+Hassan,2015,417578
+Hassan,2016,364071
+Hassan,2017,421058
+Haveri,2011,411129
+Haveri,2012,417886
+Haveri,2013,424770
+Haveri,2014,428899
+Haveri,2015,432164
+Haveri,2016,423122
+Haveri,2017,413769
+Kodagu,2011,185882
+Kodagu,2012,182670
+Kodagu,2013,182229
+Kodagu,2014,190619
+Kodagu,2015,188788
+Kodagu,2016,189287
+Kodagu,2017,188605
+Kolar,2011,194233
+Kolar,2012,187834
+Kolar,2013,179825
+Kolar,2014,176791
+Kolar,2015,171170
+Kolar,2016,177060
+Kolar,2017,173392
+Koppal,2011,433195
+Koppal,2012,485087
+Koppal,2013,488446
+Koppal,2014,500426
+Koppal,2015,459736
+Koppal,2016,418331
+Koppal,2017,484776
+Mandya,2011,272524
+Mandya,2012,242365
+Mandya,2013,239484
+Mandya,2014,272203
+Mandya,2015,259698
+Mandya,2016,200143
+Mandya,2017,256659
+Mysuru,2011,536323
+Mysuru,2012,479215
+Mysuru,2013,522494
+Mysuru,2014,486519
+Mysuru,2015,490605
+Mysuru,2016,368518
+Mysuru,2017,487063
+Raichur,2011,541135
+Raichur,2012,634128
+Raichur,2013,678925
+Raichur,2014,565750
+Raichur,2015,562105
+Raichur,2016,579313
+Raichur,2017,505155
+Shivamogga,2011,267814
+Shivamogga,2012,268599
+Shivamogga,2013,265681
+Shivamogga,2014,263916
+Shivamogga,2015,250980
+Shivamogga,2016,246176
+Shivamogga,2017,251282
+Tumakuru,2011,575961
+Tumakuru,2012,556944
+Tumakuru,2013,543426
+Tumakuru,2014,599564
+Tumakuru,2015,558134
+Tumakuru,2016,538518
+Tumakuru,2017,541659
+Udupi,2011,117843
+Udupi,2012,112693
+Udupi,2013,113296
+Udupi,2014,111503
+Udupi,2015,111534
+Udupi,2016,107829
+Udupi,2017,108341
+Uttara Kannada,2011,123555
+Uttara Kannada,2012,125725
+Uttara Kannada,2013,122285
+Uttara Kannada,2014,122451
+Uttara Kannada,2015,122053
+Uttara Kannada,2016,121061
+Uttara Kannada,2017,122408
+Chikkaballapura,2011,215484
+Chikkaballapura,2012,218073
+Chikkaballapura,2013,210476
+Chikkaballapura,2014,212971
+Chikkaballapura,2015,216896
+Chikkaballapura,2016,213397
+Chikkaballapura,2017,221886
+Ramanagara,2011,168997
+Ramanagara,2012,148022
+Ramanagara,2013,169844
+Ramanagara,2014,160618
+Ramanagara,2015,172097
+Ramanagara,2016,162322
+Ramanagara,2017,172324
+Yadgir,2011,374338
+Yadgir,2012,358853
+Yadgir,2013,418447
+Yadgir,2014,373617
+Yadgir,2015,406637
+Yadgir,2016,402900
+Yadgir,2017,388438
+North Goa,2011,101054
+North Goa,2012,100236
+South Goa,2011,62938
+South Goa,2012,62269
+South Goa,2013,62997
+South Goa,2014,63067
+South Goa,2015,76864
+South Goa,2016,76135
+South Goa,2017,75064
+Lakshadweep District,2011,2750
+Lakshadweep District,2012,3183
+Lakshadweep District,2013,3182
+Lakshadweep District,2014,3183
+Lakshadweep District,2015,2291
+Lakshadweep District,2016,2288
+Lakshadweep District,2017,2288
+Alappuzha,2011,107389
+Alappuzha,2012,104287
+Alappuzha,2013,106619
+Alappuzha,2014,103135
+Alappuzha,2015,101359
+Alappuzha,2016,102621
+Alappuzha,2017,110118
+Alappuzha,2018,111741
+Ernakulam,2011,172449
+Ernakulam,2012,163767
+Ernakulam,2013,165157
+Ernakulam,2014,166462
+Ernakulam,2015,165947
+Ernakulam,2016,166086
+Ernakulam,2017,164595
+Ernakulam,2018,162092
+Idukki,2011,276493
+Idukki,2012,268142
+Idukki,2013,263171
+Idukki,2014,272042
+Idukki,2015,272735
+Idukki,2016,270356
+Idukki,2017,271972
+Idukki,2018,265876
+Kannur,2011,226532
+Kannur,2012,222863
+Kannur,2013,219456
+Kannur,2014,221109
+Kannur,2015,225218
+Kannur,2016,221367
+Kannur,2017,220107
+Kannur,2018,219900
+Kasaragod,2011,150811
+Kasaragod,2012,148268
+Kasaragod,2013,151871
+Kasaragod,2014,152630
+Kasaragod,2015,157191
+Kasaragod,2016,155789
+Kasaragod,2017,157905
+Kasaragod,2018,157858
+Kollam,2011,157343
+Kollam,2012,155764
+Kollam,2013,159584
+Kollam,2014,151246
+Kollam,2015,146378
+Kollam,2016,147942
+Kollam,2017,141576
+Kollam,2018,140261
+Kottayam,2011,209452
+Kottayam,2012,202052
+Kottayam,2013,199535
+Kottayam,2014,202423
+Kottayam,2015,201706
+Kottayam,2016,204337
+Kottayam,2017,207091
+Kottayam,2018,210913
+Kozhikode,2011,206971
+Kozhikode,2012,203275
+Kozhikode,2013,200116
+Kozhikode,2014,201994
+Kozhikode,2015,202058
+Kozhikode,2016,198389
+Kozhikode,2017,191345
+Kozhikode,2018,193894
+Malappuram,2011,240877
+Malappuram,2012,230288
+Malappuram,2013,237098
+Malappuram,2014,240730
+Malappuram,2015,243184
+Malappuram,2016,237860
+Malappuram,2017,241093
+Malappuram,2018,236596
+Palakkad,2011,302348
+Palakkad,2012,291194
+Palakkad,2013,301711
+Palakkad,2014,300623
+Palakkad,2015,291841
+Palakkad,2016,278455
+Palakkad,2017,272326
+Palakkad,2018,272197
+Pathanamthitta,2011,102385
+Pathanamthitta,2012,99719
+Pathanamthitta,2013,101326
+Pathanamthitta,2014,103344
+Pathanamthitta,2015,103043
+Pathanamthitta,2016,103972
+Pathanamthitta,2017,105427
+Pathanamthitta,2018,104621
+Thiruvananthapuram,2011,155065
+Thiruvananthapuram,2012,154322
+Thiruvananthapuram,2013,159217
+Thiruvananthapuram,2014,162748
+Thiruvananthapuram,2015,161665
+Thiruvananthapuram,2016,158979
+Thiruvananthapuram,2017,156085
+Thiruvananthapuram,2018,160055
+Thrissur,2011,181287
+Thrissur,2012,177180
+Thrissur,2013,177619
+Thrissur,2014,174797
+Thrissur,2015,173829
+Thrissur,2016,170978
+Thrissur,2017,171398
+Thrissur,2018,168022
+Wayanad,2011,172355
+Wayanad,2012,170613
+Wayanad,2013,174190
+Wayanad,2014,171341
+Wayanad,2015,181423
+Wayanad,2016,166875
+Wayanad,2017,168663
+Wayanad,2018,167069
+Chennai,2011,9616.528087
+Chennai,2012,9271.896667
+Chennai,2013,10235.07184
+Chennai,2014,9695.877305
+Chennai,2015,10643.80606
+Chennai,2016,9933.811317
+Coimbatore,2011,177898.7296
+Tiruvannamalai,2016,220851
+Coimbatore,2012,179493.4651
+Coimbatore,2013,186197.3167
+Coimbatore,2014,184742.9625
+Coimbatore,2015,185255.2494
+Coimbatore,2016,176090.5626
+Cuddalore,2011,299729
+Cuddalore,2012,274887
+Cuddalore,2013,325444
+Cuddalore,2014,332302
+Cuddalore,2015,332216
+Cuddalore,2016,313230
+Dharmapuri,2011,244688
+Dharmapuri,2012,174192
+Dharmapuri,2013,258650
+Dharmapuri,2014,210439
+Dharmapuri,2015,228299
+Dharmapuri,2016,161680
+Dindigul,2011,232039.8846
+Dindigul,2012,217460.0416
+Dindigul,2013,203708.6661
+Dindigul,2014,241148.728
+Dindigul,2015,238680.3587
+Dindigul,2016,209755.7543
+Erode,2011,222084.225
+Erode,2012,172270.2226
+Erode,2013,185342.7046
+Erode,2014,198558.8925
+Ariyalur,2013,113643
+Erode,2015,193626.5961
+Erode,2016,137135.6197
+Kanchipuram,2011,46886.88276
+Kanchipuram,2012,41788.28548
+Kanchipuram,2013,44777.55238
+Kanchipuram,2014,35734.23335
+Kanchipuram,2015,48652.30863
+Kanchipuram,2016,40695.12075
+Kanniyakumari,2011,87676
+Kanniyakumari,2012,82437
+Kanniyakumari,2013,84663
+Kanniyakumari,2014,83556
+Kanniyakumari,2015,82653
+Kanniyakumari,2016,80993
+Karur,2011,95187
+Karur,2012,73907
+Karur,2013,83662
+Karur,2014,93610
+Karur,2015,87966
+Karur,2016,47460
+Krishnagiri,2011,222049
+Krishnagiri,2012,216928
+Krishnagiri,2013,255706
+Krishnagiri,2014,224773
+Krishnagiri,2015,213750
+Krishnagiri,2016,180061
+Madurai,2011,140851
+Madurai,2012,85480
+Madurai,2013,111072
+Madurai,2014,130300
+Madurai,2015,138429
+Madurai,2016,89252
+Nagapattinam,2011,146301.2942
+Nagapattinam,2012,112922.8721
+Nagapattinam,2013,136519.5763
+Nagapattinam,2014,136590.2372
+Nagapattinam,2015,138011.0824
+Nagapattinam,2016,124245.9146
+Namakkal,2011,181815
+Namakkal,2012,189864
+Namakkal,2013,217208
+Namakkal,2014,224896
+Namakkal,2015,207720
+Namakkal,2016,162032
+Perambalur,2011,108141
+Perambalur,2012,102578
+Perambalur,2013,106275
+Perambalur,2014,112717
+Perambalur,2015,122106
+Perambalur,2016,98376
+Pudukkottai,2011,158798
+Pudukkottai,2012,141005
+Pudukkottai,2013,132234
+Pudukkottai,2014,118674
+Pudukkottai,2015,123714
+Pudukkottai,2016,119609
+Ramanathapuram,2011,190628
+Ramanathapuram,2012,171769
+Ramanathapuram,2013,201629
+Ramanathapuram,2014,198818
+Ramanathapuram,2015,167471
+Ramanathapuram,2016,172464
+Salem,2011,323351
+Salem,2012,279135
+Salem,2013,293852
+Salem,2014,305154
+Salem,2015,304755
+Salem,2016,231892
+Sivaganga,2011,121978.978
+Sivaganga,2012,102953.9031
+Sivaganga,2013,99011.0514
+Sivaganga,2014,96052.52805
+Sivaganga,2015,98099.07167
+Sivaganga,2016,96091.34496
+Thanjavur,2011,285312.022
+Thanjavur,2012,234848.0969
+Thanjavur,2013,267689.9486
+Thanjavur,2014,270762.4719
+Thanjavur,2015,269638.9283
+Thanjavur,2016,239461.655
+The Nilgiris,2011,78349.25889
+The Nilgiris,2012,77591.87957
+The Nilgiris,2013,77785.527
+The Nilgiris,2014,77286.13215
+The Nilgiris,2015,78315.32698
+The Nilgiris,2016,77925.11387
+Theni,2011,144766.775
+Theni,2012,115581.7774
+Theni,2013,125715.2954
+Theni,2014,128185.1075
+Theni,2015,127024.4039
+Ariyalur,2014,111877
+Theni,2016,115970.3803
+Thiruvallur,2011,126563.0271
+Thiruvallur,2012,126244.6307
+Thiruvallur,2013,141026.7756
+Thiruvallur,2014,141844.1513
+Thiruvallur,2015,144084.3311
+Thiruvallur,2016,140286.3853
+Thiruvarur,2011,280142
+Thiruvarur,2012,196198
+Thiruvarur,2013,300723
+Thiruvarur,2014,327243
+Thiruvarur,2015,328868
+Thiruvarur,2016,282408
+Tiruchirappalli,2011,164312
+Tiruchirappalli,2012,149039
+Tiruchirappalli,2013,161649
+Tiruchirappalli,2014,178610
+Tiruchirappalli,2015,179230
+Tiruchirappalli,2016,127383
+Tirunelveli,2011,97878.63369
+Tirunelveli,2012,74989.83057
+Tirunelveli,2013,88863.47476
+Tirunelveli,2014,106163.5144
+Tirunelveli,2015,113239.6587
+Tirunelveli,2016,77232.12417
+Tiruvannamalai,2011,256724
+Tiruvannamalai,2012,230442
+Tiruvannamalai,2013,229893
+Tiruvannamalai,2014,255317
+Tiruvannamalai,2015,287789
+Tuticorin,2011,178539.358
+Tuticorin,2012,173244.0296
+Tuticorin,2013,186417.9874
+Tuticorin,2014,195842.3066
+Tuticorin,2015,208436.9964
+Tuticorin,2016,195402.492
+Vellore,2011,75008.9471
+Vellore,2012,76369.09067
+Vellore,2013,77701.29955
+Vellore,2014,79614.23505
+Vellore,2015,79653.57967
+Vellore,2016,72796.20559
+Villupuram,2011,194601.9575
+Villupuram,2012,180836.5402
+Villupuram,2013,269744.3005
+Villupuram,2014,256109.2948
+Villupuram,2015,260238.2733
+Villupuram,2016,207711.545
+Virudhunagar,2011,124360
+Virudhunagar,2012,117593
+Virudhunagar,2013,120328
+Virudhunagar,2014,127621
+Virudhunagar,2015,139057
+Virudhunagar,2016,120938
+Ariyalur,2011,105129
+Ariyalur,2012,96475
+Ariyalur,2015,108839
+Ariyalur,2016,101699
+Tiruppur,2011,182410.1269
+Tiruppur,2012,145547.6138
+Tiruppur,2013,165967.4902
+Tiruppur,2014,175038.1773
+Tiruppur,2015,170188.0649
+Tiruppur,2016,152024.5693
+Kallakurichi,2011,166514.0425
+Kallakurichi,2012,154735.4598
+Kallakurichi,2013,230810.6995
+Kallakurichi,2014,219143.7052
+Kallakurichi,2015,222676.7267
+Kallakurichi,2016,177731.455
+Chengalpattu,2011,76753.56208
+Chengalpattu,2012,68407.18714
+Chengalpattu,2013,73300.60017
+Chengalpattu,2014,58496.73802
+Chengalpattu,2015,79643.55424
+Chengalpattu,2016,66617.68266
+Ranipet,2011,56171.74612
+Ranipet,2012,57190.31313
+Karaikal,2011,8547
+Karaikal,2012,6512
+Ranipet,2013,58187.96077
+Ranipet,2014,59620.49557
+Ranipet,2015,59649.95947
+Ranipet,2016,54514.6964
+Tirupathur,2011,59465.30678
+Tirupathur,2012,60543.5962
+Tirupathur,2013,61599.73968
+Tirupathur,2014,63116.26938
+Tirupathur,2015,63147.46086
+Tirupathur,2016,57711.09801
+Tenkasi,2011,85457.00832
+Tenkasi,2012,66400.13979
+Tenkasi,2013,78204.53783
+Tenkasi,2014,92746.17904
+Tenkasi,2015,98916.34495
+Tenkasi,2016,68817.38381
+Mayiladuthurai,2011,141493.7058
+Mayiladuthurai,2012,109212.1279
+Mayiladuthurai,2013,132033.4237
+Mayiladuthurai,2014,132101.7628
+Mayiladuthurai,2015,133475.9176
+Mayiladuthurai,2016,120163.0854
+Karaikal,2013,5738
+Karaikal,2014,6588
+Karaikal,2015,6084
+Karaikal,2016,5871
+Karaikal,2017,5479
+Karaikal,2018,6117
+Mahe,2011,588
+Mahe,2012,579
+Mahe,2013,584
+Mahe,2014,584
+Mahe,2015,577
+Mahe,2016,566
+Mahe,2017,563
+Mahe,2018,567
+Pondicherry,2011,17444
+Pondicherry,2012,18043
+Pondicherry,2013,18012
+Pondicherry,2014,18549
+Pondicherry,2015,18100
+Pondicherry,2016,18305
+Pondicherry,2017,19144
+Pondicherry,2018,19301
+Yanam,2011,904
+Yanam,2012,929
+Yanam,2013,913
+Yanam,2014,941
+Yanam,2015,929
+Yanam,2016,881
+Yanam,2017,784
+Yanam,2018,731
+Adilabad,2011,159216.9924
+Adilabad,2012,164341.9746
+Adilabad,2013,167427.8597
+Adilabad,2014,149517.2883
+Adilabad,2015,156138.819
+Adilabad,2016,211274
+Adilabad,2017,218601
+Adilabad,2018,237087
+Hyderabad,2011,0
+Hyderabad,2012,0
+Hyderabad,2013,0
+Hyderabad,2014,0
+Hyderabad,2015,0
+Hyderabad,2016,0
+Hyderabad,2017,0
+Hyderabad,2018,0
+Karimnagar,2011,145900.5283
+Karimnagar,2012,141460.6292
+Karimnagar,2013,162894.8507
+Karimnagar,2014,130744.7331
+Karimnagar,2015,100320.6409
+Karimnagar,2016,188967
+Karimnagar,2017,179905
+Karimnagar,2018,173416
+Khammam,2011,175540.4865
+Khammam,2012,173463.3742
+Khammam,2013,189095.4646
+Khammam,2014,154041.3871
+Khammam,2015,142733.2691
+Khammam,2016,266083
+Khammam,2017,312218
+Khammam,2018,306653
+Mahabubnagar,2011,147361.7794
+Mahabubnagar,2012,146409.7628
+Mahabubnagar,2013,156340.3302
+Mahabubnagar,2014,149129.4963
+Mahabubnagar,2015,137579.3094
+Mahabubnagar,2016,155776.9769
+Mahabubnagar,2017,171450.5675
+Mahabubnagar,2018,131894
+Medak,2011,170393.2224
+Medak,2012,176361.3768
+Medak,2013,184953.133
+Medak,2014,156980.9246
+Medak,2015,150311.4197
+Medak,2016,149744
+Medak,2017,131041
+Medak,2018,83774
+Nalgonda,2011,358105.7468
+Nalgonda,2012,346649.0117
+Nalgonda,2013,446586.018
+Nalgonda,2014,370102.9943
+Nalgonda,2015,339297.8391
+Nalgonda,2016,420366
+Nalgonda,2017,444021
+Nalgonda,2018,452589
+Nizamabad,2011,299595.5996
+Nizamabad,2012,283297.6636
+Nizamabad,2013,321695.3245
+Nizamabad,2014,238967.4902
+Nizamabad,2015,188771.229
+Nizamabad,2016,340764
+Nizamabad,2017,307145
+Nizamabad,2018,297586
+Ranga Reddy,2011,205778.2381
+Ranga Reddy,2012,213022.0806
+Ranga Reddy,2013,223128.1138
+Ranga Reddy,2014,204447.7401
+Ranga Reddy,2015,187597.1245
+Ranga Reddy,2016,185936
+Ranga Reddy,2017,211479
+Ranga Reddy,2018,188448
+Warangal,2011,109799.5684
+Warangal,2012,113590.3159
+Warangal,2013,121554.3771
+Warangal,2014,97691.53343
+Warangal,2015,101493.0991
+Warangal,2016,187259
+Warangal,2017,193355
+Warangal,2018,191706
+Nirmal,2011,153507.7633
+Nirmal,2012,158448.973
+Nirmal,2013,161424.2039
+Nirmal,2014,144155.8727
+Nirmal,2015,150539.9675
+Nirmal,2016,205548
+Nirmal,2017,202320
+Nirmal,2018,204728
+Jagitial,2011,204272.2895
+Jagitial,2012,198056.0792
+Jagitial,2013,228065.686
+Jagitial,2014,183052.9764
+Jagitial,2015,140456.8389
+Jagitial,2016,208562
+Jagitial,2017,184618
+Jagitial,2018,196686
+Peddapalli,2011,149947.1361
+Peddapalli,2012,145384.0947
+Peddapalli,2013,167412.8026
+Peddapalli,2014,134370.9891
+Peddapalli,2015,103103.0729
+Peddapalli,2016,147552
+Peddapalli,2017,137317
+Peddapalli,2018,143197
+Rajanna Sircilla,2011,132629.9539
+Rajanna Sircilla,2012,128500.321
+Rajanna Sircilla,2013,147911.7875
+Rajanna Sircilla,2014,118468.1878
+Rajanna Sircilla,2015,90971.33701
+Rajanna Sircilla,2016,110940
+Rajanna Sircilla,2017,102718
+Rajanna Sircilla,2018,98600
+Mancherial,2011,158411.0241
+Mancherial,2012,163510.0632
+Mancherial,2013,166580.3273
+Mancherial,2014,148760.4205
+Mancherial,2015,155348.4325
+Mancherial,2016,111218
+Mancherial,2017,118874
+Mancherial,2018,133907
+Kamareddy,2011,259449.8925
+Kamareddy,2012,245335.8743
+Kamareddy,2013,278588.2618
+Kamareddy,2014,206945.9289
+Kamareddy,2015,163475.9493
+Kamareddy,2016,244024
+Kamareddy,2017,244998
+Kamareddy,2018,215106
+Hanumakonda,2011,105500.6039
+Hanumakonda,2012,107175.0046
+Hanumakonda,2013,117080.6297
+Hanumakonda,2014,94060.42218
+Hanumakonda,2015,90346.53712
+Hanumakonda,2016,97956
+Hanumakonda,2017,98654
+Hanumakonda,2018,85651
+Jayashankar Bhupalapally,2011,146066.5669
+Jayashankar Bhupalapally,2012,146128.0301
+Jayashankar Bhupalapally,2013,162426.5667
+Jayashankar Bhupalapally,2014,130449.7605
+Jayashankar Bhupalapally,2015,116860.0507
+Jayashankar Bhupalapally,2016,102206.2498
+Jayashankar Bhupalapally,2017,99852.22499
+Jayashankar Bhupalapally,2018,102767
+Mahabubabad,2011,165724.3002
+Yadadri Bhuvanagiri,2018,180195
+Mahabubabad,2012,170717.8959
+Mahabubabad,2013,182997.7084
+Mahabubabad,2014,147257.6582
+Mahabubabad,2015,151440.3096
+Mahabubabad,2016,160458
+Mahabubabad,2017,170853
+Mahabubabad,2018,155048
+Jangoan,2011,139812.0946
+Jangoan,2012,144639.0021
+Jangoan,2013,154779.9534
+Jangoan,2014,124394.4591
+Jangoan,2015,129235.1416
+Jangoan,2016,159790
+Jangoan,2017,160581
+Jangoan,2018,130701
+Bhadradri Kothagudem,2011,259429.1328
+Bhadradri Kothagudem,2012,256359.3939
+Bhadradri Kothagudem,2013,279461.8687
+Bhadradri Kothagudem,2014,227655.8774
+Bhadradri Kothagudem,2015,210943.7484
+Bhadradri Kothagudem,2016,145022
+Bhadradri Kothagudem,2017,145165
+Bhadradri Kothagudem,2018,146054
+Sangareddy,2011,273766.8583
+Sangareddy,2012,283280.6676
+Dadra And Nagar Haveli,2015,23443
+Sangareddy,2013,297150.1204
+Sangareddy,2014,252113.8032
+Sangareddy,2015,241290.2478
+Sangareddy,2016,287016
+Sangareddy,2017,293455
+Sangareddy,2018,258978
+Siddipet,2011,230640.6218
+Siddipet,2012,235766.3049
+Siddipet,2013,252373.0322
+Siddipet,2014,210433.9764
+Siddipet,2015,195959.7669
+Siddipet,2016,280257
+Siddipet,2017,267820
+Siddipet,2018,239172
+Wanaparthy,2011,121986.9456
+Wanaparthy,2012,120199.6351
+Wanaparthy,2013,128858.5862
+Wanaparthy,2014,123893.047
+Wanaparthy,2015,114415.8565
+Wanaparthy,2016,134677
+Wanaparthy,2017,144580
+Wanaparthy,2018,131217
+Nagarkurnool,2011,302806.6215
+Nagarkurnool,2012,298370.0038
+Nagarkurnool,2013,319864.0065
+Nagarkurnool,2014,307538.1125
+Nagarkurnool,2015,284013.0047
+Nagarkurnool,2016,283408
+Nagarkurnool,2017,298960
+Nagarkurnool,2018,279494
+Jogulamba Gadwal,2011,141998.6683
+Jogulamba Gadwal,2012,139918.153
+Jogulamba Gadwal,2013,149997.5883
+Jogulamba Gadwal,2014,144217.4619
+Jogulamba Gadwal,2015,133185.5566
+Jogulamba Gadwal,2016,187812
+Jogulamba Gadwal,2017,179411
+Jogulamba Gadwal,2018,173161
+Suryapet,2011,177060.7408
+Suryapet,2012,171396.1068
+Suryapet,2013,220808.6631
+Suryapet,2014,182992.6243
+Suryapet,2015,167761.4149
+Suryapet,2016,249789
+Suryapet,2017,258856
+Suryapet,2018,263195
+Yadadri Bhuvanagiri,2011,171090.5124
+Yadadri Bhuvanagiri,2012,165616.8815
+Yadadri Bhuvanagiri,2013,213363.3189
+Yadadri Bhuvanagiri,2014,176822.3814
+Yadadri Bhuvanagiri,2015,162104.746
+Yadadri Bhuvanagiri,2016,160377
+Yadadri Bhuvanagiri,2017,190390
+Vikarabad,2011,149267.8826
+Vikarabad,2012,157570.2052
+Vikarabad,2013,163563.8594
+Vikarabad,2014,146952.2414
+Vikarabad,2015,134472.5208
+Vikarabad,2016,202040
+Vikarabad,2017,210038
+Vikarabad,2018,194394
+Kumuram Bheem Asifabad,2011,168903.2202
+Kumuram Bheem Asifabad,2012,174339.9891
+Kumuram Bheem Asifabad,2013,177613.6091
+Kumuram Bheem Asifabad,2014,158613.4185
+Kumuram Bheem Asifabad,2015,165637.781
+Kumuram Bheem Asifabad,2016,144172
+Kumuram Bheem Asifabad,2017,123530
+Kumuram Bheem Asifabad,2018,131460
+Medchal Malkajgiri,2011,27516.65413
+Medchal Malkajgiri,2012,29689.09616
+Medchal Malkajgiri,2013,30512.35835
+Medchal Malkajgiri,2014,26805.31612
+Medchal Malkajgiri,2015,24450.70856
+Medchal Malkajgiri,2016,12292
+Medchal Malkajgiri,2017,14891
+Medchal Malkajgiri,2018,12134
+Mulugu,2011,105620.8005
+Mulugu,2012,108841.226
+Mulugu,2013,116654.0065
+Mulugu,2014,93861.45036
+Mulugu,2015,96608.07204
+Mulugu,2016,79713.75024
+Mulugu,2017,77877.77501
+Mulugu,2018,75866
+Narayanpet,2011,128596.2104
+Narayanpet,2012,126712.0633
+Narayanpet,2013,135840.1572
+Narayanpet,2014,130605.5846
+Narayanpet,2015,120614.9189
+Narayanpet,2016,148977.0231
+Narayanpet,2017,163966.4325
+Narayanpet,2018,159610
+Kargil,2011,10775
+Kargil,2012,10914
+Kargil,2013,10896
+Kargil,2014,10832
+Kargil,2015,12531
+Kargil,2016,11178
+Kargil,2017,11268
+Leh Ladakh,2011,10628
+Leh Ladakh,2012,7367
+Leh Ladakh,2013,8595
+Leh Ladakh,2014,10614
+Leh Ladakh,2015,10542
+Leh Ladakh,2016,10540
+Leh Ladakh,2017,10347
+Daman,2011,2675
+Diu,2011,625
+Dadra And Nagar Haveli,2011,24853
+Dadra And Nagar Haveli,2012,24453
+Dadra And Nagar Haveli,2013,23134
+Dadra And Nagar Haveli,2014,23233
+Dadra And Nagar Haveli,2016,23377
+Dadra And Nagar Haveli,2017,23297

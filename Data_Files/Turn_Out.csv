@@ -1,0 +1,544 @@
+﻿ #    ,PC Name,State,Turnout% - 2019,Turnout% - 2014,Turnout% - 2009,Average
+1,Adilabad,Telangana,77.9 % ,75.40%,76.30%,75.4
+2,Agra,Uttar Pradesh [2000 Onwards],61.7 % ,59.00%,42.10%,59
+3,Ahmadnagar,Maharashtra,67.3 % ,62.50%,51.90%,62.5
+4,Ahmedabad East,Gujarat,65.7 % ,61.50%,42.30%,61.5
+5,Ahmedabad West,Gujarat,64.0 % ,62.90%,48.20%,62.9
+6,Ajmer,Rajasthan,69.0 % ,68.70%,53.00%,68.7
+7,Akbarpur,Uttar Pradesh [2000 Onwards],60.3 % ,54.90%,43.60%,54.9
+8,Akola,Maharashtra,64.2 % ,59.40%,50.00%,59.4
+9,Alappuzha,Kerala,84.3 % ,78.50%,79.40%,78.5
+10,Alathur,Kerala,84.2 % ,76.20%,75.40%,76.2
+11,Aligarh,Uttar Pradesh [2000 Onwards],63.3 % ,59.40%,51.60%,59.4
+12,Alipurduars,West Bengal,91.7 % ,83.20%,76.00%,83.2
+13,Allahabad,Uttar Pradesh [2000 Onwards],53.4 % ,53.50%,43.40%,53.5
+14,Almora,Uttarakhand,55.1 % ,52.30%,45.60%,52.3
+15,Alwar,Rajasthan,61.7 % ,65.30%,55.50%,65.3
+16,Amalapuram,Andhra Pradesh [2014 Onwards],108.1 % ,82.60%,80.50%,82.6
+17,Ambala,Haryana,75.3 % ,72.00%,68.50%,72
+18,Ambedkar Nagar,Uttar Pradesh [2000 Onwards],63.2 % ,60.20%,54.30%,60.2
+19,Amethi,Uttar Pradesh [2000 Onwards],55.6 % ,52.40%,45.20%,52.4
+20,Amravati,Maharashtra,63.8 % ,62.30%,51.50%,62.3
+21,Amreli,Gujarat,57.8 % ,54.40%,40.00%,54.4
+22,Amritsar,Punjab,59.1 % ,68.20%,65.60%,68.2
+23,Amroha,Uttar Pradesh [2000 Onwards],73.6 % ,71.00%,60.20%,71
+24,Anakapalli,Andhra Pradesh [2014 Onwards],91.1 % ,81.90%,79.00%,81.9
+25,Anand,Gujarat,69.8 % ,64.90%,48.40%,64.9
+26,Anandpur Sahib,Punjab,66.7 % ,69.40%,67.60%,69.4
+27,Anantapur,Andhra Pradesh [2014 Onwards],91.2 % ,78.40%,71.10%,78.4
+28,Anantnag,Jammu & Kashmir,9.7 % ,28.80%,27.10%,28.8
+29,Andaman And Nicobar Islands,Andaman & Nicobar Islands,77.5 % ,70.70%,64.20%,70.7
+30,Aonla,Uttar Pradesh [2000 Onwards],60.7 % ,60.20%,53.80%,60.2
+31,Arakkonam,Tamil Nadu,81.5 % ,77.70%,77.80%,77.7
+32,Arambagh,West Bengal,91.5 % ,85.10%,84.60%,85.1
+33,Arani,Tamil Nadu,82.5 % ,80.00%,76.80%,80
+34,Araria,Bihar [2000 Onwards],81.0 % ,61.50%,55.70%,61.5
+35,Arrah,Bihar [2000 Onwards],53.6 % ,48.80%,35.80%,48.8
+36,Aruku,Andhra Pradesh [2014 Onwards],82.6 % ,71.50%,67.30%,71.5
+37,Arunachal East,Arunachal Pradesh,89.2 % ,83.50%,71.40%,83.5
+38,Arunachal West,Arunachal Pradesh,78.5 % ,75.20%,65.90%,75.2
+39,Asansol,West Bengal,70.8 % ,77.70%,71.50%,77.7
+40,Aska,Orissa,69.0 % ,63.60%,54.60%,63.6
+41,Attingal,Kerala,76.9 % ,68.70%,66.40%,68.7
+42,Aurangabad,Maharashtra,68.3 % ,61.80%,42.20%,61.8
+43,Aurangabad,Bihar [2000 Onwards],55.5 % ,51.20%,43.50%,51.2
+44,Autonomous District,Assam,82.2 % ,77.40%,69.30%,77.4
+45,Azamgarh,Uttar Pradesh [2000 Onwards],58.4 % ,56.40%,44.70%,56.4
+46,Badaun,Uttar Pradesh [2000 Onwards],49.5 % ,58.10%,52.50%,58.1
+47,Bagalkot,Karnataka,72.0 % ,68.80%,63.10%,68.8
+48,Baghpat,Uttar Pradesh [2000 Onwards],67.4 % ,66.70%,47.90%,66.7
+49,Baharampur,West Bengal,75.2 % ,79.40%,80.80%,79.4
+50,Bahraich,Uttar Pradesh [2000 Onwards],59.5 % ,57.00%,41.10%,57
+51,Balaghat,Madhya Pradesh [2000 Onwards],79.8 % ,68.30%,56.50%,68.3
+52,Balasore,Orissa,79.2 % ,76.80%,70.30%,76.8
+53,Ballia,Uttar Pradesh [2000 Onwards],55.7 % ,53.30%,40.40%,53.3
+54,Balurghat,West Bengal,78.5 % ,84.70%,86.80%,84.7
+55,Banaskantha,Gujarat,73.7 % ,58.50%,49.80%,58.5
+56,Banda,Uttar Pradesh [2000 Onwards],63.5 % ,53.60%,44.70%,53.6
+57,Bangalore Cent,Karnataka,55.8 % ,55.60%,44.60%,55.6
+58,Bangalore Nort,Karnataka,55.7 % ,56.50%,46.70%,56.5
+59,Bangalore Rura,Karnataka,102.1 % ,66.40%,57.90%,66.4
+60,Bangalore Sout,Karnataka,55.1 % ,55.70%,44.70%,55.7
+61,Bangaon,West Bengal,87.4 % ,83.30%,86.50%,83.3
+62,Banka,Bihar [2000 Onwards],59.4 % ,58.00%,48.70%,58
+63,Bankura,West Bengal,78.3 % ,82.20%,77.70%,82.2
+64,Bansgaon,Uttar Pradesh [2000 Onwards],56.2 % ,49.90%,39.00%,49.9
+65,Banswara,Rajasthan,76.5 % ,69.20%,52.80%,69.2
+66,Bapatla,Andhra Pradesh [2014 Onwards],94.0 % ,85.00%,79.20%,85
+67,Barabanki,Uttar Pradesh [2000 Onwards],66.0 % ,62.10%,52.30%,62.1
+68,Baramati,Maharashtra,64.8 % ,58.80%,46.10%,58.8
+69,Baramulla,Jammu & Kashmir,38.9 % ,39.10%,41.80%,39.1
+70,Barasat,West Bengal,75.1 % ,83.90%,83.70%,83.9
+71,Bardhaman Purb,West Bengal,79.0 % ,86.20%,87.30%,86.2
+72,Bardoli,Gujarat,77.0 % ,74.70%,57.80%,74.7
+73,Bareilly,Uttar Pradesh [2000 Onwards],60.9 % ,61.20%,50.40%,61.2
+74,Bargarh,Orissa,82.5 % ,78.50%,69.60%,78.5
+75,Barmer,Rajasthan,62.1 % ,72.70%,54.60%,72.7
+76,Barpeta,Assam,101.3 % ,84.30%,72.80%,84.3
+77,Barrackpore,West Bengal,72.0 % ,81.70%,80.50%,81.7
+78,Basirhat,West Bengal,78.7 % ,85.50%,86.70%,85.5
+79,Bastar,Chhattisgarh,70.3 % ,59.30%,47.30%,59.3
+80,Basti,Uttar Pradesh [2000 Onwards],57.9 % ,56.80%,49.30%,56.8
+81,Bathinda,Punjab,76.4 % ,68.70%,78.40%,68.7
+82,Beed,Maharashtra,83.6 % ,60.60%,65.60%,60.6
+83,Begusarai,Bihar [2000 Onwards],64.1 % ,68.20%,48.80%,68.2
+84,Belgaum,Karnataka,69.1 % ,70.30%,54.70%,70.3
+85,Bellary,Karnataka,71.9 % ,67.90%,61.40%,67.9
+86,Berhampur,Orissa,70.1 % ,65.20%,58.90%,65.2
+87,Betul,Madhya Pradesh [2000 Onwards],81.1 % ,53.50%,49.50%,53.5
+88,Bhadohi,Uttar Pradesh [2000 Onwards],55.6 % ,73.60%,43.40%,73.6
+89,Bhadrak,Orissa,77.7 % ,57.80%,67.70%,57.8
+90,Bhagalpur,Bihar [2000 Onwards],59.3 % ,72.30%,43.90%,72.3
+91,Bhandara - Gon,Maharashtra,71.5 % ,57.10%,71.10%,57.1
+92,Bharatpur,Rajasthan,60.7 % ,74.80%,39.00%,74.8
+93,Bharuch,Gujarat,76.0 % ,77.20%,57.10%,77.2
+94,Bhavnagar,Gujarat,61.0 % ,57.50%,45.10%,57.5
+95,Bhilwara,Rajasthan,67.8 % ,62.90%,50.60%,62.9
+96,Bhind,Madhya Pradesh [2000 Onwards],56.4 % ,45.60%,38.40%,45.6
+97,Bhiwandi,Maharashtra,57.2 % ,51.60%,39.40%,51.6
+98,Bhiwani-Mahend,Haryana,74.3 % ,69.90%,71.30%,69.9
+99,Bhongir,Telangana,79.3 % ,81.20%,76.40%,81.2
+100,Bhopal,Madhya Pradesh [2000 Onwards],68.1 % ,57.80%,45.10%,57.8
+101,Bhubaneswar,Orissa,63.2 % ,58.40%,49.10%,58.4
+102,Bidar,Karnataka,64.3 % ,59.90%,53.00%,59.9
+103,Bijapur,Karnataka,63.2 % ,59.60%,47.30%,59.6
+104,Bijnor,Uttar Pradesh [2000 Onwards],68.2 % ,67.90%,55.00%,67.9
+105,Bikaner,Rajasthan,62.1 % ,58.40%,41.30%,58.4
+106,Bilaspur,Chhattisgarh,67.0 % ,63.10%,52.30%,63.1
+107,Birbhum,West Bengal,92.1 % ,85.30%,83.30%,85.3
+108,Bishnupur,West Bengal,82.4 % ,86.70%,85.20%,86.7
+109,Bolangir,Orissa,78.8 % ,74.90%,70.10%,74.9
+110,Bolpur,West Bengal,79.1 % ,84.80%,82.50%,84.8
+111,Bulandshahr,Uttar Pradesh [2000 Onwards],64.2 % ,58.20%,45.10%,58.2
+112,Buldhana,Maharashtra,57.0 % ,61.30%,61.80%,61.3
+113,Burdwan - Durg,West Bengal,76.2 % ,84.10%,84.00%,84.1
+114,Buxar,Bihar [2000 Onwards],55.6 % ,54.10%,46.50%,54.1
+115,Chalakudy,Kerala,85.8 % ,76.80%,73.90%,76.8
+116,Chamarajanagar,Karnataka,76.9 % ,72.80%,67.90%,72.8
+117,Chandauli,Uttar Pradesh [2000 Onwards],64.6 % ,58.80%,46.40%,58.8
+118,Chandigarh,Chandigarh,74.9 % ,73.70%,65.50%,73.7
+119,Chandni Chowk,Delhi [1977 Onwards],68.1 % ,67.80%,55.20%,67.8
+120,Chandrapur,Maharashtra,67.7 % ,63.30%,58.50%,63.3
+121,Chatra,Jharkhand,67.9 % ,54.30%,45.70%,54.3
+122,Chelvella,Telangana,56.9 % ,60.20%,64.50%,60.2
+123,Chennai Centra,Tamil Nadu,60.7 % ,61.40%,61.00%,61.4
+124,Chennai North,Tamil Nadu,67.2 % ,64.00%,64.90%,64
+125,Chennai South,Tamil Nadu,59.6 % ,60.20%,62.70%,60.2
+126,Chhindwara,Madhya Pradesh [2000 Onwards],85.7 % ,79.00%,71.90%,79
+127,Chhota Udaipur,Gujarat,88.3 % ,71.60%,54.20%,71.6
+128,Chidambaram,Tamil Nadu,80.1 % ,79.70%,77.20%,79.7
+129,Chikkballapur,Karnataka,77.3 % ,76.20%,68.10%,76.2
+130,Chikkodi,Karnataka,78.0 % ,74.30%,67.60%,74.3
+131,Chitradurga,Karnataka,72.0 % ,66.00%,54.50%,66
+132,Chittoor,Andhra Pradesh [2014 Onwards],93.7 % ,82.60%,80.90%,82.6
+133,Chittorgarh,Rajasthan,74.5 % ,64.50%,49.70%,64.5
+134,Churu,Rajasthan,68.2 % ,64.50%,52.40%,64.5
+135,Coimbatore,Tamil Nadu,66.7 % ,68.40%,70.90%,68.4
+136,Cooch Behar,West Bengal,91.2 % ,82.60%,84.40%,82.6
+137,Cuddalore,Tamil Nadu,78.4 % ,78.90%,76.10%,78.9
+138,Cuttack,Orissa,73.0 % ,71.40%,63.40%,71.4
+139,Dadra And Nagar Haveli,Dadra & Nagar Haveli,102.7 % ,84.10%,73.20%,84.1
+140,Dahod,Gujarat,71.0 % ,63.80%,44.70%,63.8
+141,Dakshina Kanna,Karnataka,79.6 % ,77.10%,74.50%,77.1
+142,Daman And Diu,Daman & Diu,79.6 % ,78.00%,71.30%,78
+143,Damoh,Madhya Pradesh [2000 Onwards],67.4 % ,55.20%,44.10%,55.2
+144,Darbhanga,Bihar [2000 Onwards],59.9 % ,55.40%,41.80%,55.4
+145,Darjeeling,West Bengal,84.1 % ,79.50%,79.60%,79.5
+146,Dausa,Rajasthan,63.2 % ,61.10%,64.00%,61.1
+147,Davanagere,Karnataka,74.2 % ,73.20%,67.50%,73.2
+148,Deoria,Uttar Pradesh [2000 Onwards],58.7 % ,53.80%,45.30%,53.8
+149,Dewas,Madhya Pradesh [2000 Onwards],81.9 % ,70.70%,60.70%,70.7
+150,Dhanbad,Jharkhand,61.3 % ,60.50%,45.00%,60.5
+151,Dhar,Madhya Pradesh [2000 Onwards],77.7 % ,64.50%,54.70%,64.5
+152,Dharmapuri,Tamil Nadu,85.1 % ,81.10%,72.80%,81.1
+153,Dharwad,Karnataka,72.1 % ,65.90%,56.60%,65.9
+154,Dhaurahra,Uttar Pradesh [2000 Onwards],67.0 % ,68.10%,59.80%,68.1
+155,Dhenkanal,Orissa,78.2 % ,76.40%,66.70%,76.4
+156,Dhubri,Assam,94.1 % ,88.20%,76.30%,88.2
+157,Dhule,Maharashtra,60.8 % ,58.70%,42.60%,58.7
+158,Diamond Harbou,West Bengal,76.1 % ,81.10%,81.00%,81.1
+159,Dibrugarh,Assam,81.9 % ,79.30%,67.30%,79.3
+160,Dindigul,Tamil Nadu,77.3 % ,77.40%,75.60%,77.4
+161,Dindori,Maharashtra,69.4 % ,63.40%,47.60%,63.4
+162,Domariyaganj,Uttar Pradesh [2000 Onwards],52.6 % ,53.10%,49.10%,53.1
+163,Dum Dum,West Bengal,71.7 % ,80.60%,80.60%,80.6
+164,Dumka,Jharkhand,77.1 % ,72.40%,55.20%,72.4
+165,Durg,Chhattisgarh,74.3 % ,67.80%,55.90%,67.8
+166,East Delhi,Delhi [1977 Onwards],69.0 % ,65.40%,53.40%,65.4
+167,Eluru,Andhra Pradesh [2014 Onwards],95.3 % ,84.20%,85.00%,84.2
+168,Ernakulam,Kerala,81.7 % ,73.60%,72.90%,73.6
+169,Erode,Tamil Nadu,75.8 % ,76.30%,76.10%,76.3
+170,Etah,Uttar Pradesh [2000 Onwards],63.3 % ,58.70%,44.40%,58.7
+171,Etawah,Uttar Pradesh [2000 Onwards],60.3 % ,55.00%,45.00%,55
+172,Faizabad,Uttar Pradesh [2000 Onwards],61.5 % ,58.80%,50.00%,58.8
+173,Faridabad,Haryana,69.2 % ,65.00%,56.70%,65
+174,Faridkot,Punjab,65.6 % ,70.90%,72.20%,70.9
+175,Farrukhabad,Uttar Pradesh [2000 Onwards],60.8 % ,60.20%,46.80%,60.2
+176,Fatehgarh Sahi,Punjab,68.0 % ,73.80%,69.40%,73.8
+177,Fatehpur,Uttar Pradesh [2000 Onwards],59.3 % ,58.60%,45.20%,58.6
+178,Fatehpur Sikri,Uttar Pradesh [2000 Onwards],63.1 % ,61.20%,51.70%,61.2
+179,Ferozpur,Punjab,74.8 % ,72.60%,71.30%,72.6
+180,Firozabad,Uttar Pradesh [2000 Onwards],63.7 % ,67.50%,48.20%,67.5
+181,Gadchiroli-Chi,Maharashtra,76.7 % ,69.90%,65.20%,69.9
+182,Gandhinagar,Gujarat,69.3 % ,65.50%,50.90%,65.5
+183,Ganganagar,Rajasthan,77.2 % ,73.10%,61.00%,73.1
+184,Garhwal,Uttarakhand,58.3 % ,53.70%,49.40%,53.7
+185,Gauhati,Assam,91.9 % ,78.60%,64.30%,78.6
+186,Gautam Buddh N,Uttar Pradesh [2000 Onwards],66.5 % ,60.40%,48.50%,60.4
+187,Gaya,Bihar [2000 Onwards],58.1 % ,53.90%,42.40%,53.9
+188,Ghatal,West Bengal,77.8 % ,84.90%,86.40%,84.9
+189,Ghaziabad,Uttar Pradesh [2000 Onwards],59.5 % ,56.90%,45.30%,56.9
+190,Ghazipur,Uttar Pradesh [2000 Onwards],60.7 % ,54.80%,50.40%,54.8
+191,Ghosi,Uttar Pradesh [2000 Onwards],58.9 % ,55.00%,45.20%,55
+192,Giridih,Jharkhand,69.3 % ,64.00%,46.00%,64
+193,Godda,Jharkhand,72.0 % ,66.00%,56.50%,66
+194,Gonda,Uttar Pradesh [2000 Onwards],53.4 % ,51.10%,45.10%,51.1
+195,Gopalganj,Bihar [2000 Onwards],58.8 % ,54.70%,37.40%,54.7
+196,Gorakhpur,Uttar Pradesh [2000 Onwards],60.8 % ,54.60%,44.10%,54.6
+197,Gulbarga,Karnataka,62.5 % ,57.90%,49.20%,57.9
+198,Guna,Madhya Pradesh [2000 Onwards],73.0 % ,60.80%,54.10%,60.8
+199,Guntur,Andhra Pradesh [2014 Onwards],91.3 % ,79.20%,76.90%,79.2
+200,Gurdaspur,Punjab,72.5 % ,69.50%,70.80%,69.5
+201,Gurgaon,Haryana,72.9 % ,71.60%,60.80%,71.6
+202,Gwalior,Madhya Pradesh [2000 Onwards],62.0 % ,52.80%,41.10%,52.8
+203,Hajipur,Bihar [2000 Onwards],57.0 % ,54.90%,41.80%,54.9
+204,Hamirpur,Himachal Pradesh,79.9 % ,66.90%,58.90%,66.9
+205,Hamirpur,Uttar Pradesh [2000 Onwards],64.4 % ,56.10%,46.70%,56.1
+206,Hardoi,Uttar Pradesh [2000 Onwards],60.2 % ,56.80%,40.60%,56.8
+207,Hardwar,Uttarakhand,71.5 % ,71.60%,60.90%,71.6
+208,Hassan,Karnataka,79.1 % ,73.50%,69.20%,73.5
+209,Hathras,Uttar Pradesh [2000 Onwards],64.4 % ,59.70%,45.10%,59.7
+210,Hatkanangle,Maharashtra,74.4 % ,72.90%,67.10%,72.9
+211,Haveri,Karnataka,75.8 % ,71.60%,63.60%,71.6
+212,Hazaribagh,Jharkhand,71.7 % ,63.70%,53.10%,63.7
+213,Hindupur,Andhra Pradesh [2014 Onwards],94.5 % ,81.40%,74.70%,81.4
+214,Hingoli,Maharashtra,70.0 % ,66.30%,59.70%,66.3
+215,Hisar,Haryana,75.9 % ,76.20%,69.40%,76.2
+216,Hooghly,West Bengal,107.1 % ,82.80%,82.80%,82.8
+217,Hoshangabad,Madhya Pradesh [2000 Onwards],77.8 % ,65.80%,54.90%,65.8
+218,Hoshiarpur,Punjab,64.8 % ,64.70%,64.90%,64.7
+219,Howrah,West Bengal,68.4 % ,74.80%,73.90%,74.8
+220,Hyderabad,Telangana,45.8 % ,53.30%,52.40%,53.3
+221,Idukki,Kerala,79.7 % ,70.80%,74.10%,70.8
+222,Indore,Madhya Pradesh [2000 Onwards],73.1 % ,62.30%,50.80%,62.3
+223,Inner Manipur,Manipur,89.1 % ,74.90%,70.60%,74.9
+224,Jabalpur,Madhya Pradesh [2000 Onwards],71.7 % ,58.60%,43.80%,58.6
+225,Jadavpur,West Bengal,73.0 % ,79.70%,81.50%,79.7
+226,Jagatsinghpur,Orissa,78.0 % ,75.50%,67.50%,75.5
+227,Jahanabad,Bihar [2000 Onwards],54.0 % ,57.00%,46.90%,57
+228,Jaipur,Rajasthan,71.6 % ,66.20%,48.30%,66.2
+229,Jaipur Rural,Rajasthan,67.8 % ,59.70%,47.60%,59.7
+230,Jajpur,Orissa,77.8 % ,75.20%,66.60%,75.2
+231,Jalandhar,Punjab,65.5 % ,67.10%,67.10%,67.1
+232,Jalaun,Uttar Pradesh [2000 Onwards],77.7 % ,58.30%,47.30%,58.3
+233,Jalgaon,Maharashtra,59.5 % ,58.00%,42.40%,58
+234,Jalna,Maharashtra,69.3 % ,66.10%,55.90%,66.1
+235,Jalore,Rajasthan,86.2 % ,59.60%,38.00%,59.6
+236,Jalpaiguri,West Bengal,94.0 % ,85.00%,82.40%,85
+237,Jammu,Jammu & Kashmir,80.2 % ,67.80%,49.00%,67.8
+238,Jamnagar,Gujarat,63.1 % ,58.00%,45.80%,58
+239,Jamshedpur,Jharkhand,69.3 % ,66.30%,51.10%,66.3
+240,Jamui,Bihar [2000 Onwards],57.8 % ,50.00%,38.10%,50
+241,Jangipur,West Bengal,76.8 % ,80.40%,86.00%,80.4
+242,Janjgir-Champa,Chhattisgarh,68.0 % ,61.80%,48.60%,61.8
+243,Jaunpur,Uttar Pradesh [2000 Onwards],59.3 % ,54.50%,46.00%,54.5
+244,Jhalawar-Baran,Rajasthan,74.4 % ,68.70%,60.30%,68.7
+245,Jhanjharpur,Bihar [2000 Onwards],58.3 % ,57.00%,42.80%,57
+246,Jhansi,Uttar Pradesh [2000 Onwards],58.6 % ,68.40%,55.20%,68.4
+247,Jhargram,West Bengal,93.5 % ,85.30%,77.20%,85.3
+248,Jhunjhunu,Rajasthan,64.6 % ,59.30%,42.10%,59.3
+249,Jodhpur,Rajasthan,71.9 % ,62.40%,45.40%,62.4
+250,Jorhat,Assam,81.1 % ,75.50%,64.70%,75.5
+251,Joynagar,West Bengal,75.7 % ,81.30%,80.10%,81.3
+252,Junagadh,Gujarat,64.8 % ,63.40%,57.90%,63.4
+253,Kachchh,Gujarat,53.4 % ,61.70%,42.60%,61.7
+254,Kadapa,Andhra Pradesh [2014 Onwards],93.7 % ,77.40%,76.60%,77.4
+255,Kairana,Uttar Pradesh [2000 Onwards],70.5 % ,73.10%,56.60%,73.1
+256,Kaiserganj,Uttar Pradesh [2000 Onwards],55.9 % ,55.10%,41.10%,55.1
+257,Kakinada,Andhra Pradesh [2014 Onwards],88.6 % ,77.60%,76.50%,77.6
+258,Kalahandi,Orissa,79.9 % ,75.80%,68.90%,75.8
+259,Kaliabor,Assam,86.6 % ,80.00%,71.30%,80
+260,Kallakurichi,Tamil Nadu,81.6 % ,78.40%,77.50%,78.4
+261,Kalyan,Maharashtra,48.5 % ,42.90%,34.30%,42.9
+262,Kancheepuram,Tamil Nadu,78.7 % ,76.20%,74.30%,76.2
+263,Kandhamal,Orissa,77.3 % ,73.40%,66.50%,73.4
+264,Kangra,Himachal Pradesh,80.9 % ,63.50%,55.20%,63.5
+265,Kanker,Chhattisgarh,77.4 % ,70.20%,57.20%,70.2
+266,Kannauj,Uttar Pradesh [2000 Onwards],62.9 % ,61.60%,49.30%,61.6
+267,Kanniyakumari,Tamil Nadu,71.4 % ,67.50%,65.00%,67.5
+268,Kannur,Kerala,88.1 % ,80.90%,81.10%,80.9
+269,Kanpur,Uttar Pradesh [2000 Onwards],43.7 % ,51.80%,36.90%,51.8
+270,Kanthi,West Bengal,79.9 % ,86.60%,90.00%,86.6
+271,Karakat,Bihar [2000 Onwards],50.6 % ,50.30%,41.60%,50.3
+272,Karauli-Dholpu,Rajasthan,56.4 % ,54.60%,37.40%,54.6
+273,Karimnagar,Telangana,74.8 % ,76.10%,64.20%,76.1
+274,Karnal,Haryana,71.7 % ,72.60%,66.30%,72.6
+275,Karur,Tamil Nadu,81.5 % ,70.90%,66.70%,70.9
+276,Kasaragod,Kerala,84.6 % ,80.60%,81.50%,80.6
+277,Katihar,Bihar [2000 Onwards],69.2 % ,78.30%,76.20%,78.3
+278,Kaushambi,Uttar Pradesh [2000 Onwards],56.8 % ,67.60%,57.00%,67.6
+279,Kendrapara,Orissa,75.0 % ,52.30%,39.60%,52.3
+280,Keonjhar,Orissa,82.5 % ,73.40%,68.50%,73.4
+281,Khadoor Sahib,Punjab,65.7 % ,80.50%,70.50%,80.5
+282,Khagaria,Bihar [2000 Onwards],58.9 % ,66.60%,70.60%,66.6
+283,Khajuraho,Madhya Pradesh [2000 Onwards],70.4 % ,60.10%,46.50%,60.1
+284,Khammam,Telangana,80.2 % ,51.40%,43.20%,51.4
+285,Khandwa,Madhya Pradesh [2000 Onwards],80.2 % ,82.10%,82.40%,82.1
+286,Khargone,Madhya Pradesh [2000 Onwards],81.1 % ,71.50%,60.00%,71.5
+287,Kheda,Gujarat,65.8 % ,67.70%,60.20%,67.7
+288,Kheri,Uttar Pradesh [2000 Onwards],66.2 % ,59.80%,41.60%,59.8
+289,Khunti,Jharkhand,73.2 % ,64.20%,54.60%,64.2
+290,Kishanganj,Bihar [2000 Onwards],67.8 % ,66.30%,52.00%,66.3
+291,Kodarma,Jharkhand,70.3 % ,64.50%,52.80%,64.5
+292,Kokrajhar,Assam,99.0 % ,62.50%,56.10%,62.5
+293,Kolar,Karnataka,79.1 % ,81.30%,73.70%,81.3
+294,Kolhapur,Maharashtra,74.2 % ,75.50%,69.20%,75.5
+295,Kolkata Dakshi,West Bengal,64.1 % ,71.70%,65.00%,71.7
+296,Kolkata Uttar,West Bengal,59.1 % ,69.30%,67.00%,69.3
+297,Kollam,Kerala,78.4 % ,66.70%,64.30%,66.7
+298,Koppal,Karnataka,70.4 % ,72.10%,68.10%,72.1
+299,Koraput,Orissa,80.6 % ,65.60%,55.40%,65.6
+300,Korba,Chhattisgarh,86.3 % ,76.10%,62.40%,76.1
+301,Kota,Rajasthan,72.6 % ,74.20%,58.40%,74.2
+302,Kottayam,Kerala,78.6 % ,66.20%,45.50%,66.2
+303,Kozhikode,Kerala,86.7 % ,71.60%,73.90%,71.6
+304,Krishnagiri,Tamil Nadu,79.7 % ,79.80%,75.90%,79.8
+305,Krishnanagar,West Bengal,77.4 % ,77.40%,74.20%,77.4
+306,Kurnool,Andhra Pradesh [2014 Onwards],87.9 % ,84.50%,85.60%,84.5
+307,Kurukshetra,Haryana,78.1 % ,71.90%,66.80%,71.9
+308,Kushi Nagar,Uttar Pradesh [2000 Onwards],61.2 % ,75.80%,75.00%,75.8
+309,Ladakh,Jammu & Kashmir,76.4 % ,56.50%,50.80%,56.5
+310,Lakhimpur,Assam,80.1 % ,70.80%,72.80%,70.8
+311,Lakshadweep,Lakshadweep,94.4 % ,77.70%,68.30%,77.7
+312,Lalganj,Uttar Pradesh [2000 Onwards],55.7 % ,86.60%,85.90%,86.6
+313,Latur,Maharashtra,65.6 % ,54.10%,43.70%,54.1
+314,Lohardaga,Jharkhand,69.8 % ,62.80%,54.90%,62.8
+315,Lucknow,Uttar Pradesh [2000 Onwards],58.0 % ,58.20%,53.20%,58.2
+316,Ludhiana,Punjab,64.4 % ,53.00%,35.60%,53
+317,Machhlishahr,Uttar Pradesh [2000 Onwards],58.9 % ,70.50%,64.60%,70.5
+318,Machilipatnam,Andhra Pradesh [2014 Onwards],97.1 % ,52.70%,41.00%,52.7
+319,Madha,Maharashtra,66.8 % ,83.30%,84.10%,83.3
+320,Madhepura,Bihar [2000 Onwards],63.3 % ,62.50%,59.00%,62.5
+321,Madhubani,Bihar [2000 Onwards],54.4 % ,60.00%,50.20%,60
+322,Madurai,Tamil Nadu,67.8 % ,52.90%,39.80%,52.9
+323,Mahabubabad,Telangana,74.7 % ,67.90%,77.50%,67.9
+324,Maharajganj,Uttar Pradesh [2000 Onwards],66.3 % ,81.00%,78.80%,81
+325,Maharajganj,Bihar [2000 Onwards],55.5 % ,60.60%,39.70%,60.6
+326,Mahasamund,Chhattisgarh,77.1 % ,51.50%,45.70%,51.5
+327,Mahbubnagar,Telangana,70.2 % ,74.60%,56.70%,74.6
+328,Mahesana,Gujarat,68.0 % ,71.50%,67.80%,71.5
+329,Mainpuri,Uttar Pradesh [2000 Onwards],58.5 % ,67.00%,49.70%,67
+330,Malappuram,Kerala,79.5 % ,60.50%,49.80%,60.5
+331,Maldaha Dakshi,West Bengal,88.4 % ,71.20%,77.00%,71.2
+332,Maldaha Uttar,West Bengal,86.9 % ,81.10%,79.00%,81.1
+333,Malkajgiri,Telangana,53.4 % ,81.60%,83.80%,81.6
+334,Mandi,Himachal Pradesh,82.3 % ,50.90%,51.50%,50.9
+335,Mandla,Madhya Pradesh [2000 Onwards],81.5 % ,63.10%,64.20%,63.1
+336,Mandsour,Madhya Pradesh [2000 Onwards],80.5 % ,66.80%,56.30%,66.8
+337,Mandya,Karnataka,82.1 % ,71.40%,55.90%,71.4
+338,Mangaldoi,Assam,88.4 % ,71.50%,68.80%,71.5
+339,Mathura,Uttar Pradesh [2000 Onwards],63.4 % ,81.40%,69.80%,81.4
+340,Mathurapur,West Bengal,77.8 % ,64.00%,54.20%,64
+341,Maval,Maharashtra,63.6 % ,85.00%,85.50%,85
+342,Mavelikkara,Kerala,77.2 % ,60.10%,44.80%,60.1
+343,Mayiladuthurai,Tamil Nadu,75.4 % ,71.00%,70.50%,71
+344,Mayurbhanj,Orissa,81.5 % ,76.00%,73.40%,76
+345,Medak,Telangana,77.0 % ,79.40%,70.30%,79.4
+346,Medinipur,West Bengal,78.5 % ,77.50%,76.50%,77.5
+347,Meerut,Uttar Pradesh [2000 Onwards],67.3 % ,84.00%,82.60%,84
+348,Mirzapur,Uttar Pradesh [2000 Onwards],62.3 % ,63.10%,48.20%,63.1
+349,Misrikh,Uttar Pradesh [2000 Onwards],58.8 % ,58.60%,52.10%,58.6
+350,Mizoram,Mizoram,69.3 % ,57.90%,41.50%,57.9
+351,Mohanlalganj,Uttar Pradesh [2000 Onwards],66.8 % ,61.70%,52.80%,61.7
+352,Moradabad,Uttar Pradesh [2000 Onwards],68.3 % ,60.70%,46.30%,60.7
+353,Morena,Madhya Pradesh [2000 Onwards],65.5 % ,63.70%,54.90%,63.7
+354,Mumbai North,Maharashtra,64.1 % ,50.20%,53.00%,50.2
+355,Mumbai North Central,Maharashtra,56.7 % ,53.10%,42.60%,53.1
+356,Mumbai North East,Maharashtra,60.3 % ,48.60%,39.50%,48.6
+357,Mumbai North West,Maharashtra,50.3 % ,51.70%,42.50%,51.7
+358,Mumbai South,Maharashtra,53.1 % ,50.40%,44.10%,50.4
+359,Mumbai South Central,Maharashtra,58.4 % ,52.50%,40.40%,52.5
+360,Munger,Bihar [2000 Onwards],55.9 % ,53.10%,39.50%,53.1
+361,Murshidabad,West Bengal,80.5 % ,53.90%,41.60%,53.9
+362,Muzaffarnagar,Uttar Pradesh [2000 Onwards],70.7 % ,85.20%,88.20%,85.2
+363,Muzaffarpur,Bihar [2000 Onwards],62.4 % ,69.70%,54.40%,69.7
+364,Mysore,Karnataka,70.7 % ,61.20%,46.40%,61.2
+365,Nabarangpur,Orissa,85.9 % ,67.30%,58.90%,67.3
+366,Nagaland,Nagaland,84.7 % ,78.80%,65.20%,78.8
+367,Nagapattinam,Tamil Nadu,78.3 % ,87.80%,90.00%,87.8
+368,Nagarkurnool,Telangana,66.8 % ,77.80%,77.80%,77.8
+369,Nagaur,Rajasthan,69.8 % ,75.10%,70.40%,75.1
+370,Nagina,Uttar Pradesh [2000 Onwards],66.0 % ,59.80%,41.00%,59.8
+371,Nagpur,Maharashtra,57.8 % ,63.10%,53.80%,63.1
+372,Nainital-Udham,Uttarakhand,72.3 % ,57.10%,43.50%,57.1
+373,Nalanda,Bihar [2000 Onwards],57.5 % ,68.40%,58.70%,68.4
+374,Nalgonda,Telangana,78.7 % ,47.20%,33.10%,47.2
+375,Namakkal,Tamil Nadu,83.1 % ,79.50%,74.50%,79.5
+376,Nanded,Maharashtra,69.5 % ,79.60%,78.70%,79.6
+377,Nandurbar,Maharashtra,72.6 % ,60.10%,53.90%,60.1
+378,Nandyal,Andhra Pradesh [2014 Onwards],93.3 % ,66.80%,52.70%,66.8
+379,Narasaraopet,Andhra Pradesh [2014 Onwards],93.8 % ,76.40%,73.30%,76.4
+380,Narsapuram,Andhra Pradesh [2014 Onwards],91.9 % ,84.60%,79.90%,84.6
+381,Nashik,Maharashtra,64.0 % ,82.20%,84.80%,82.2
+382,Navsari,Gujarat,69.2 % ,58.80%,45.40%,58.8
+383,Nawada,Bihar [2000 Onwards],51.7 % ,65.80%,46.70%,65.8
+384,Nellore,Andhra Pradesh [2014 Onwards],89.3 % ,52.80%,41.60%,52.8
+385,New Delhi,Delhi [1977 Onwards],62.2 % ,73.90%,69.40%,73.9
+386,Nilgiris,Tamil Nadu,77.0 % ,65.10%,55.70%,65.1
+387,Nizamabad,Telangana,73.7 % ,73.50%,70.80%,73.5
+388,North East Delhi,Delhi [1977 Onwards],74.9 % ,69.10%,66.80%,69.1
+389,North Goa,Goa,79.9 % ,67.30%,52.40%,67.3
+390,North West Delhi,Delhi [1977 Onwards],64.4 % ,78.90%,60.00%,78.9
+391,Nowgong,Assam,86.6 % ,61.80%,47.70%,61.8
+392,Ongole,Andhra Pradesh [2014 Onwards],96.7 % ,80.70%,70.80%,80.7
+393,Osmanabad,Maharashtra,68.1 % ,82.20%,74.70%,82.2
+394,Outer Manipur,Manipur,93.7 % ,64.80%,57.50%,64.8
+395,Palakkad,Kerala,81.2 % ,84.00%,82.80%,84
+396,Palamau,Jharkhand,67.5 % ,75.30%,73.60%,75.3
+397,Palghar,Maharashtra,71.3 % ,59.40%,46.00%,59.4
+398,Pali,Rajasthan,65.3 % ,62.90%,48.10%,62.9
+399,Panchmahal,Gujarat,65.1 % ,57.90%,43.10%,57.9
+400,Parbhani,Maharashtra,66.1 % ,59.20%,42.60%,59.2
+401,Paschim Champaran,Bihar [2000 Onwards],65.9 % ,64.40%,54.10%,64.4
+402,Pataliputra,Bihar [2000 Onwards],56.8 % ,60.50%,42.20%,60.5
+403,Patan,Gujarat,67.5 % ,56.40%,41.20%,56.4
+404,Pathanamthitta,Kerala,77.3 % ,58.70%,44.70%,58.7
+405,Patiala,Punjab,70.3 % ,65.70%,65.80%,65.7
+406,Patna Sahib,Bihar [2000 Onwards],46.2 % ,70.90%,69.60%,70.9
+407,Peddapalle,Telangana,71.5 % ,45.30%,33.70%,45.3
+408,Perambalur,Tamil Nadu,80.9 % ,71.70%,68.70%,71.7
+409,Phulpur,Uttar Pradesh [2000 Onwards],50.6 % ,80.20%,79.60%,80.2
+410,Pilibhit,Uttar Pradesh [2000 Onwards],69.1 % ,50.20%,38.70%,50.2
+411,Pollachi,Tamil Nadu,63.9 % ,62.90%,63.90%,62.9
+412,Ponnani,Kerala,80.9 % ,73.30%,76.00%,73.3
+413,Porbandar,Gujarat,58.9 % ,82.10%,79.80%,82.1
+414,Pratapgarh,Uttar Pradesh [2000 Onwards],55.5 % ,73.80%,77.30%,73.8
+415,Puducherry,Pondicherry,82.8 % ,52.60%,47.70%,52.6
+416,Pune,Maharashtra,52.4 % ,52.10%,44.70%,52.1
+417,Puri,Orissa,76.2 % ,54.10%,40.70%,54.1
+418,Purnia,Bihar [2000 Onwards],57.0 % ,74.00%,68.80%,74
+419,Purulia,West Bengal,77.6 % ,64.30%,54.00%,64.3
+420,Purvi Champaran,Bihar [2000 Onwards],62.7 % ,81.80%,72.00%,81.8
+421,Rae Bareli,Uttar Pradesh [2000 Onwards],59.5 % ,56.60%,40.60%,56.6
+422,Raichur,Karnataka,60.1 % ,51.70%,48.30%,51.7
+423,Raigad,Maharashtra,64.9 % ,58.30%,45.90%,58.3
+424,Raiganj,West Bengal,84.3 % ,64.40%,56.60%,64.4
+425,Raigarh,Chhattisgarh,79.7 % ,79.90%,81.20%,79.9
+426,Raipur,Chhattisgarh,68.5 % ,77.60%,65.30%,77.6
+427,Rajahmundry,Andhra Pradesh [2014 Onwards],91.8 % ,65.70%,47.00%,65.7
+428,Rajampet,Andhra Pradesh [2014 Onwards],88.6 % ,81.20%,81.00%,81.2
+429,Rajgarh,Madhya Pradesh [2000 Onwards],77.0 % ,77.90%,76.10%,77.9
+430,Rajkot,Gujarat,66.0 % ,64.00%,51.70%,64
+431,Rajmahal,Jharkhand,74.5 % ,63.80%,44.70%,63.8
+432,Rajnandgaon,Chhattisgarh,78.6 % ,70.30%,55.20%,70.3
+433,Rajsamand,Rajasthan,67.2 % ,74.20%,58.90%,74.2
+434,Ramanathapuram,Tamil Nadu,69.1 % ,57.80%,39.70%,57.8
+435,Rampur,Uttar Pradesh [2000 Onwards],64.4 % ,68.80%,68.80%,68.8
+436,Ramtek,Maharashtra,66.5 % ,59.20%,52.50%,59.2
+437,Ranaghat,West Bengal,75.6 % ,62.60%,50.90%,62.6
+438,Ranchi,Jharkhand,67.9 % ,84.40%,86.40%,84.4
+439,Ratlam,Madhya Pradesh [2000 Onwards],79.7 % ,63.70%,44.60%,63.7
+440,Ratnagiri - Si,Maharashtra,65.6 % ,63.60%,50.90%,63.6
+441,Raver,Maharashtra,64.5 % ,65.60%,57.50%,65.6
+442,Rewa,Madhya Pradesh [2000 Onwards],62.4 % ,63.30%,50.80%,63.3
+443,Robertsganj,Uttar Pradesh [2000 Onwards],60.4 % ,53.70%,48.40%,53.7
+444,Rohtak,Haryana,74.7 % ,54.00%,49.00%,54
+445,Sabarkantha,Gujarat,72.2 % ,66.60%,65.50%,66.6
+446,Sagar,Madhya Pradesh [2000 Onwards],67.5 % ,67.70%,49.40%,67.7
+447,Saharanpur,Uttar Pradesh [2000 Onwards],73.7 % ,58.70%,48.10%,58.7
+448,Salem,Tamil Nadu,80.5 % ,74.20%,63.30%,74.2
+449,Salempur,Uttar Pradesh [2000 Onwards],56.2 % ,76.80%,76.50%,76.8
+450,Samastipur,Bihar [2000 Onwards],63.7 % ,51.40%,39.20%,51.4
+451,Sambalpur,Orissa,81.3 % ,57.40%,44.50%,57.4
+452,Sambhal,Uttar Pradesh [2000 Onwards],66.8 % ,75.90%,64.90%,75.9
+453,Sangli,Maharashtra,84.0 % ,62.40%,52.90%,62.4
+454,Sangrur,Punjab,74.1 % ,63.50%,52.30%,63.5
+455,Sant Kabir Nag,Uttar Pradesh [2000 Onwards],55.6 % ,77.20%,74.40%,77.2
+456,Saran,Bihar [2000 Onwards],58.6 % ,53.10%,47.30%,53.1
+457,Sarguja,Chhattisgarh,81.0 % ,56.10%,45.80%,56.1
+458,Sasaram,Bihar [2000 Onwards],56.1 % ,78.00%,61.60%,78
+459,Satara,Maharashtra,64.1 % ,52.70%,42.70%,52.7
+460,Satna,Madhya Pradesh [2000 Onwards],72.8 % ,56.80%,52.80%,56.8
+461,Secundrabad,Telangana,48.9 % ,62.70%,54.70%,62.7
+462,Shahdol,Madhya Pradesh [2000 Onwards],77.3 % ,53.00%,55.00%,53
+463,Shahjahanpur,Uttar Pradesh [2000 Onwards],59.4 % ,62.00%,49.50%,62
+464,Sheohar,Bihar [2000 Onwards],60.9 % ,57.10%,48.70%,57.1
+465,Shillong,Meghalaya,68.3 % ,56.60%,45.20%,56.6
+466,Shimla,Himachal Pradesh,79.9 % ,63.20%,62.20%,63.2
+467,Shimoga,Karnataka,78.7 % ,64.00%,55.70%,64
+468,Shirdi,Maharashtra,67.9 % ,72.30%,66.50%,72.3
+469,Shirur,Maharashtra,63.5 % ,63.90%,50.40%,63.9
+470,Shrawasti,Uttar Pradesh [2000 Onwards],54.3 % ,59.70%,51.50%,59.7
+471,Sidhi,Madhya Pradesh [2000 Onwards],70.7 % ,54.80%,43.10%,54.8
+472,Sikar,Rajasthan,67.5 % ,57.00%,49.80%,57
+473,Sikkim,Sikkim,86.3 % ,60.20%,48.10%,60.2
+474,Silchar,Assam,95.6 % ,83.40%,85.60%,83.4
+475,Singhbhum,Jharkhand,73.4 % ,75.40%,70.40%,75.4
+476,Sirsa,Haryana,79.0 % ,69.00%,60.60%,69
+477,Sitamarhi,Bihar [2000 Onwards],60.4 % ,77.00%,75.00%,77
+478,Sitapur,Uttar Pradesh [2000 Onwards],64.9 % ,57.20%,42.50%,57.2
+479,Sivaganga,Tamil Nadu,71.5 % ,66.30%,57.30%,66.3
+480,Siwan,Bihar [2000 Onwards],55.8 % ,72.70%,71.00%,72.7
+481,Solapur,Maharashtra,62.4 % ,56.50%,50.10%,56.5
+482,Sonipat,Haryana,75.8 % ,55.90%,46.60%,55.9
+483,South Delhi,Delhi [1977 Onwards],69.6 % ,69.60%,64.80%,69.6
+484,South Goa,Goa,75.2 % ,62.90%,47.40%,62.9
+485,Srerampur,West Bengal,71.7 % ,75.30%,51.00%,75.3
+486,Srikakulam,Andhra Pradesh [2014 Onwards],83.9 % ,79.50%,77.50%,79.5
+487,Srinagar,Jammu & Kashmir,15.6 % ,74.40%,75.20%,74.4
+488,Sriperumbudur,Tamil Nadu,65.7 % ,25.90%,25.60%,25.9
+489,Sultanpur,Uttar Pradesh [2000 Onwards],58.1 % ,66.10%,66.10%,66.1
+490,Sundargarh,Orissa,73.8 % ,56.60%,49.50%,56.6
+491,Supaul,Bihar [2000 Onwards],66.7 % ,71.70%,61.50%,71.7
+492,Surat,Gujarat,67.2 % ,63.60%,54.50%,63.6
+493,Surendranagar,Gujarat,59.9 % ,63.90%,49.00%,63.9
+494,Tamluk,West Bengal,79.2 % ,57.00%,39.70%,57
+495,Tehri Garhwal,Uttarakhand,61.3 % ,87.60%,90.30%,87.6
+496,Tenkasi,Tamil Nadu,73.3 % ,57.40%,50.50%,57.4
+497,Tezpur,Assam,83.9 % ,73.70%,70.30%,73.7
+498,Thane,Maharashtra,54.7 % ,77.90%,69.70%,77.9
+499,Thanjavur,Tamil Nadu,74.4 % ,50.80%,41.50%,50.8
+500,Theni,Tamil Nadu,65.8 % ,75.50%,76.70%,75.5
+501,Thiruvallur,Tamil Nadu,75.8 % ,74.60%,74.50%,74.6
+502,Thiruvananthap,Kerala,76.3 % ,73.70%,70.60%,73.7
+503,Thoothukkudi,Tamil Nadu,71.3 % ,68.60%,66.00%,68.6
+504,Thrissur,Kerala,82.5 % ,70.00%,69.20%,70
+505,Tikamgarh,Madhya Pradesh [2000 Onwards],64.5 % ,72.20%,69.60%,72.2
+506,Tiruchirappall,Tamil Nadu,71.3 % ,50.10%,43.40%,50.1
+507,Tirunelveli,Tamil Nadu,68.8 % ,71.20%,67.40%,71.2
+508,Tirupati,Andhra Pradesh [2014 Onwards],88.7 % ,67.80%,66.20%,67.8
+509,Tiruppur,Tamil Nadu,76.6 % ,77.00%,72.70%,77
+510,Tiruvannamalai,Tamil Nadu,81.3 % ,76.30%,74.70%,76.3
+511,Tonk-Sawai Mad,Rajasthan,65.6 % ,78.90%,80.00%,78.9
+512,Tripura East,Tripura,90.1 % ,61.00%,53.10%,61
+513,Tripura West,Tripura,87.1 % ,83.40%,83.40%,83.4
+514,Tumkur,Karnataka,79.2 % ,85.90%,86.10%,85.9
+515,Tura,Meghalaya,85.1 % ,72.50%,64.80%,72.5
+516,Udaipur,Rajasthan,73.8 % ,78.10%,67.70%,78.1
+517,Udhampur,Jammu & Kashmir,79.7 % ,65.60%,48.50%,65.6
+518,Udupi Chikmaga,Karnataka,77.5 % ,69.90%,44.90%,69.9
+519,Ujiarpur,Bihar [2000 Onwards],61.9 % ,74.50%,68.30%,74.5
+520,Ujjain,Madhya Pradesh [2000 Onwards],77.8 % ,60.10%,45.90%,60.1
+521,Uluberia,West Bengal,74.4 % ,66.60%,53.30%,66.6
+522,Unnao,Uttar Pradesh [2000 Onwards],57.8 % ,81.90%,80.70%,81.9
+523,Uttara Kannada,Karnataka,76.2 % ,55.50%,49.70%,55.5
+524,Vadakara,Kerala,88.5 % ,69.00%,59.10%,69
+525,Vadodara,Gujarat,72.6 % ,81.10%,80.90%,81.1
+526,Vaishali,Bihar [2000 Onwards],63.0 % ,70.90%,49.00%,70.9
+527,Valmiki Nagar,Bihar [2000 Onwards],65.0 % ,58.30%,48.90%,58.3
+528,Valsad,Gujarat,78.6 % ,61.80%,46.90%,61.8
+529,Varanasi,Uttar Pradesh [2000 Onwards],59.7 % ,74.20%,56.10%,74.2
+530,Vidisha,Madhya Pradesh [2000 Onwards],74.0 % ,58.30%,42.60%,58.3
+531,Vijayawada,Andhra Pradesh [2014 Onwards],94.4 % ,74.30%,71.60%,74.3
+532,Viluppuram,Tamil Nadu,81.9 % ,65.70%,45.10%,65.7
+533,Virudhunagar,Tamil Nadu,74.7 % ,76.40%,77.90%,76.4
+534,Visakhapatnam,Andhra Pradesh [2014 Onwards],81.9 % ,77.00%,74.60%,77
+535,Vizianagaram,Andhra Pradesh [2014 Onwards],90.4 % ,74.90%,77.50%,74.9
+536,Warangal,Telangana,68.5 % ,67.50%,73.10%,67.5
+537,Wardha,Maharashtra,64.2 % ,79.80%,77.40%,79.8
+538,Wayanad,Kerala,83.8 % ,76.40%,69.40%,76.4
+539,West Delhi,Delhi [1977 Onwards],71.1 % ,64.80%,54.70%,64.8
+540,Yavatmal-Washi,Maharashtra,65.0 % ,73.20%,74.90%,73.2
+541,Zahirabad,Telangana,74.8 % ,66.10%,52.40%,66.1
+,,,,59.30%,54.10%,59.3
+,,,,75.80%,75.10%,75.8
