@@ -1,7 +1,7 @@
 Fertiliser <- read.csv("/Users/dhruvsood/Downloads/Sem 4/Econometrics/GroupAssig2/New data/fertiliser data.csv")
 Turnout <- read.csv("/Users/dhruvsood/Downloads/Sem 4/Econometrics/GroupAssig2/Turn_Out.csv")
 rainfall <- read.csv("/Users/dhruvsood/Downloads/Sem 4/Econometrics/GroupAssig2/New data/rainfall.csv")
-sexy <- read.csv("/Users/dhruvsood/Downloads/Sem 4/Econometrics/GroupAssig2/Mer.csv")
+merged_f <- read.csv("/Users/dhruvsood/Downloads/Sem 4/Econometrics/GroupAssig2/Mer.csv")
 Telecom <- read.csv("/Users/dhruvsood/Downloads/Sem 4/Econometrics/GroupAssig2/New data/Telecom.csv")
 gini <- read.csv("/Users/dhruvsood/Downloads/Sem 4/Econometrics/GroupAssig2/Gini_New.csv")
 ratioo <- read.csv("/Users/dhruvsood/Downloads/Sem 4/Econometrics/GroupAssig2/New data/ratio4.csv")
@@ -56,25 +56,25 @@ colnames(rainfall)[2:3] <- c("State","District")
 rainfall$State <- toupper(rainfall$State)
 rainfall$District <- toupper(rainfall$District)
 
-sexy$District<- toupper(sexy$District)
-names(sexy)[3] <- "Year"
-names(sexy)[36] <- "Yearinfo"
+merged_f$District<- toupper(merged_f$District)
+names(merged_f)[3] <- "Year"
+names(merged_f)[36] <- "Yearinfo"
 
 ratioo$State<- toupper(ratioo$State)
 
-sexy1 <- merge(sexy, Fertiliser, by = c("District", "State","Year"))
-sexy3 <- merge(sexy1, rainfall, by = c("State","Year","District"))
-sexy4 <- merge(sexy3,Turnout,by = c("State","District"))
-sexy5 <- merge(sexy4,ratioo,by = c("State","Year"))
-sexy6 <- merge(sexy5,gini,by = c("State"))
-sexy7 <- merge(sexy6,Telecom,by = c("State","Year"))
-names(sexy7)[names(sexy7) == "Value"] <- "Telephones per sq Km"
-View(sexy7)
+merged_f1 <- merge(merged_f, Fertiliser, by = c("District", "State","Year"))
+merged_f3 <- merge(merged_f1, rainfall, by = c("State","Year","District"))
+merged_f4 <- merge(merged_f3,Turnout,by = c("State","District"))
+merged_f5 <- merge(merged_f4,ratioo,by = c("State","Year"))
+merged_f6 <- merge(merged_f5,gini,by = c("State"))
+merged_f7 <- merge(merged_f6,Telecom,by = c("State","Year"))
+names(merged_f7)[names(merged_f7) == "Value"] <- "Telephones per sq Km"
+View(merged_f7)
 
-sexy7$SDP_sq <- sexy7$SDP^2
-sexy7$SDP_cu <- sexy7$SDP^3
+merged_f7$SDP_sq <- merged_f7$SDP^2
+merged_f7$SDP_cu <- merged_f7$SDP^3
 
-model <- lm(formula = sexy7$Amount.of.Electrical.Conductivity ~ sexy7$SDP + sexy7$SDP_sq + sexy7$SDP_cu + sexy7$Gini.Index + sexy7$Turnout_Average + sexy7$ratio+ sexy7$ANNUAL.RAINFALL..Millimeters.+sexy7$TOTAL.PER.HA.OF.NCA..Kg.per.ha.+sexy7$`Telephones per sq Km`,data=sexy7)
+model <- lm(formula = merged_f7$Amount.of.Electrical.Conductivity ~ merged_f7$SDP + merged_f7$SDP_sq + merged_f7$SDP_cu + merged_f7$Gini.Index + merged_f7$Turnout_Average + merged_f7$ratio+ merged_f7$ANNUAL.RAINFALL..Millimeters.+merged_f7$TOTAL.PER.HA.OF.NCA..Kg.per.ha.+merged_f7$`Telephones per sq Km`,data=merged_f7)
 
 summary(model)
 stargazer(model)
@@ -87,7 +87,7 @@ print(error)
 #install.packages("pacman")
 library(pacman)
 pacman::p_load(data.table, fixest, stargazer, dplyr, magrittr) 
-rm <- model <- lm(formula = sexy7$Amount.of.Electrical.Conductivity ~ sexy7$SDP ,data=sexy7)
+rm <- model <- lm(formula = merged_f7$Amount.of.Electrical.Conductivity ~ merged_f7$SDP ,data=merged_f7)
 summary(rm)
 
 # Step 1: Define true population parameters and sample size
@@ -104,7 +104,7 @@ for (i in 1:m){ #  M is the number of iterations
   
   # Generate data
   U_i = rnorm(n, mean = 0, sd = 1524) # Error
-  X_i = sample(sexy7$SDP, n) # Independent variable
+  X_i = sample(merged_f7$SDP, n) # Independent variable
   Y_i = beta_0 + beta_1*X_i + U_i  # Dependent variable
   
   # Formulate data.table
@@ -128,7 +128,7 @@ hist(estimates_DT[, beta_1], xlim = c(-0.00050,-0.00025))
 #Question 6
 library(dplyr)
 
-data <- sexy7 %>% 
+data <- merged_f7 %>% 
   rename(tele_per_sqkm = `Telephones per sq Km`)
 View(data)
 data <- data[c("State","Year","District","KeyValue","ROWID",	"Country","State.LGD.Code","District.LGD.Code","Ground.Water.Station.Name",	"Ground.Water.Station.Latitude",	"Ground.Water.Station.Longitude",	"SourceYear"
@@ -204,19 +204,19 @@ print("the estimated standard errors of the regression coefficients may be biase
 
 # Q4
 # CHOW TEST
-DSouth <- ifelse(sexy7$State %in% c("ANDHRA PRADESH", "TAMIL NADU", "KERALA", "TELENGANA", "JHARKHAND"), 1, 0)
-DEast <- ifelse(sexy7$State %in% c("ASSAM", "MANIPUR", "TRIPURA", "SIKKIM", "WEST BENGAL", "ODISHA","MADHYA PRADESH","UTTAR PRADESH"), 1, 0)
-DWest <- ifelse(sexy7$State %in% c("GUJARAT", "MAHARASHTRA", "KARNATAKA"), 1, 0)
-DNorth <- ifelse(sexy7$State %in% c("JAMMU AND KASHMIR", "HIMACHAL PRADESH", "DELHI", "PUNJAB", "HARYANA", "RAJASTHAN", "UTTARAKHAND", "CHHATTISGARH"), 1, 0)
+DSouth <- ifelse(merged_f7$State %in% c("ANDHRA PRADESH", "TAMIL NADU", "KERALA", "TELENGANA", "JHARKHAND"), 1, 0)
+DEast <- ifelse(merged_f7$State %in% c("ASSAM", "MANIPUR", "TRIPURA", "SIKKIM", "WEST BENGAL", "ODISHA","MADHYA PRADESH","UTTAR PRADESH"), 1, 0)
+DWest <- ifelse(merged_f7$State %in% c("GUJARAT", "MAHARASHTRA", "KARNATAKA"), 1, 0)
+DNorth <- ifelse(merged_f7$State %in% c("JAMMU AND KASHMIR", "HIMACHAL PRADESH", "DELHI", "PUNJAB", "HARYANA", "RAJASTHAN", "UTTARAKHAND", "CHHATTISGARH"), 1, 0)
 
 ## NORTH SOUTH
 
 # Fit separate models for the north and south groups
-model_north <- lm(Amount.of.Electrical.Conductivity ~ SDP + SDP_sq + SDP_cu + Gini.Index_new + Turnout_Average + ratio + ANNUAL.RAINFALL..Millimeters. + TOTAL.PER.HA.OF.NCA..Kg.per.ha. + `Telephones per sq Km`, data = sexy7, subset = DNorth == 1)
-model_south <- lm(Amount.of.Electrical.Conductivity ~ SDP + SDP_sq + SDP_cu + Gini.Index_new + Turnout_Average + ratio + ANNUAL.RAINFALL..Millimeters. + TOTAL.PER.HA.OF.NCA..Kg.per.ha. + `Telephones per sq Km`, data = sexy7, subset = DSouth == 1)
+model_north <- lm(Amount.of.Electrical.Conductivity ~ SDP + SDP_sq + SDP_cu + Gini.Index_new + Turnout_Average + ratio + ANNUAL.RAINFALL..Millimeters. + TOTAL.PER.HA.OF.NCA..Kg.per.ha. + `Telephones per sq Km`, data = merged_f7, subset = DNorth == 1)
+model_south <- lm(Amount.of.Electrical.Conductivity ~ SDP + SDP_sq + SDP_cu + Gini.Index_new + Turnout_Average + ratio + ANNUAL.RAINFALL..Millimeters. + TOTAL.PER.HA.OF.NCA..Kg.per.ha. + `Telephones per sq Km`, data = merged_f7, subset = DSouth == 1)
 
 # Fit a combined model with an interaction term
-model_combined <- lm(Amount.of.Electrical.Conductivity ~ SDP + SDP_sq + SDP_cu + Gini.Index_new + Turnout_Average + ratio + ANNUAL.RAINFALL..Millimeters. + TOTAL.PER.HA.OF.NCA..Kg.per.ha. + `Telephones per sq Km` + DSouth + DNorth + DSouth*ratio + DNorth*ratio, data = sexy7)
+model_combined <- lm(Amount.of.Electrical.Conductivity ~ SDP + SDP_sq + SDP_cu + Gini.Index_new + Turnout_Average + ratio + ANNUAL.RAINFALL..Millimeters. + TOTAL.PER.HA.OF.NCA..Kg.per.ha. + `Telephones per sq Km` + DSouth + DNorth + DSouth*ratio + DNorth*ratio, data = merged_f7)
 
 # Calculate the sum of squared residuals for each model
 SSR_north <- sum(resid(model_north)^2)
@@ -224,7 +224,7 @@ SSR_south <- sum(resid(model_south)^2)
 SSR_combined <- sum(resid(model_combined)^2)
 
 # Calculate the Chow test statistic
-n <- length(sexy7$State)
+n <- length(merged_f7$State)
 k <- length(model_combined$coefficients)
 p <- 2  # number of group indicators
 q <- k - p - 1  # number of other coefficients
@@ -246,11 +246,11 @@ if (p_value > Chow_stat) {
 ## EAST WEST
 
 # Fit separate models for the East and West groups
-model_east <- lm(Amount.of.Electrical.Conductivity ~ SDP + SDP_sq + SDP_cu + Gini.Index_new + Turnout_Average + ratio + ANNUAL.RAINFALL..Millimeters. + TOTAL.PER.HA.OF.NCA..Kg.per.ha. + `Telephones per sq Km`, data = sexy7, subset = DEast == 1)
-model_west <- lm(Amount.of.Electrical.Conductivity ~ SDP + SDP_sq + SDP_cu + Gini.Index_new + Turnout_Average + ratio + ANNUAL.RAINFALL..Millimeters. + TOTAL.PER.HA.OF.NCA..Kg.per.ha. + `Telephones per sq Km`, data = sexy7, subset = DWest == 1)
+model_east <- lm(Amount.of.Electrical.Conductivity ~ SDP + SDP_sq + SDP_cu + Gini.Index_new + Turnout_Average + ratio + ANNUAL.RAINFALL..Millimeters. + TOTAL.PER.HA.OF.NCA..Kg.per.ha. + `Telephones per sq Km`, data = merged_f7, subset = DEast == 1)
+model_west <- lm(Amount.of.Electrical.Conductivity ~ SDP + SDP_sq + SDP_cu + Gini.Index_new + Turnout_Average + ratio + ANNUAL.RAINFALL..Millimeters. + TOTAL.PER.HA.OF.NCA..Kg.per.ha. + `Telephones per sq Km`, data = merged_f7, subset = DWest == 1)
 
 # Fit a combined model with an interaction term
-model_combined <- lm(Amount.of.Electrical.Conductivity ~ SDP + SDP_sq + SDP_cu + Gini.Index_new + Turnout_Average + ratio + ANNUAL.RAINFALL..Millimeters. + TOTAL.PER.HA.OF.NCA..Kg.per.ha. + `Telephones per sq Km` + DEast + DWest + DEast*ratio + DWest*ratio, data = sexy7)
+model_combined <- lm(Amount.of.Electrical.Conductivity ~ SDP + SDP_sq + SDP_cu + Gini.Index_new + Turnout_Average + ratio + ANNUAL.RAINFALL..Millimeters. + TOTAL.PER.HA.OF.NCA..Kg.per.ha. + `Telephones per sq Km` + DEast + DWest + DEast*ratio + DWest*ratio, data = merged_f7)
 
 # Calculate the sum of squared residuals for each model
 SSR_east <- sum(resid(model_east)^2)
@@ -258,7 +258,7 @@ SSR_west <- sum(resid(model_west)^2)
 SSR_combined <- sum(resid(model_combined)^2)
 
 # Calculate the Chow test statistic
-n <- length(sexy7$State)
+n <- length(merged_f7$State)
 k <- length(model_combined$coefficients)
 p <- 2  # number of group indicators
 q <- k - p - 1  # number of other coefficients
@@ -280,15 +280,15 @@ if (p_value > Chow_stat) {
 
 
 # Perform t-test for North and South groups
-ttest_north_south <- t.test(Amount.of.Electrical.Conductivity ~ DNorth, data = sexy7, subset = DSouth == 0)
+ttest_north_south <- t.test(Amount.of.Electrical.Conductivity ~ DNorth, data = merged_f7, subset = DSouth == 0)
 ttest_north_south
 print("alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0. 95 percent confidence interval: -690.9314 -604.0068")
 
 # Perform t-test for East and West groups
-ttest_east_west <- t.test(Amount.of.Electrical.Conductivity ~ DEast, data = sexy7, subset = DWest == 0)
+ttest_east_west <- t.test(Amount.of.Electrical.Conductivity ~ DEast, data = merged_f7, subset = DWest == 0)
 ttest_east_west
 print("alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0. 95 percent confidence interval: 469.3640 539.6443")
 
 # T Test
-model <- lm(formula = sexy7$Amount.of.Electrical.Conductivity ~ sexy7$SDP + sexy7$SDP_sq + sexy7$SDP_cu + sexy7$Gini.Index_new + sexy7$Turnout_Average + sexy7$ratio + sexy7$ANNUAL.RAINFALL..Millimeters. + sexy7$TOTAL.PER.HA.OF.NCA..Kg.per.ha. + sexy7$`Telephones per sq Km`, data = sexy7)
-summary(model)$coefficients["sexy7$ratio", c("t value", "Pr(>|t|)")]
+model <- lm(formula = merged_f7$Amount.of.Electrical.Conductivity ~ merged_f7$SDP + merged_f7$SDP_sq + merged_f7$SDP_cu + merged_f7$Gini.Index_new + merged_f7$Turnout_Average + merged_f7$ratio + merged_f7$ANNUAL.RAINFALL..Millimeters. + merged_f7$TOTAL.PER.HA.OF.NCA..Kg.per.ha. + merged_f7$`Telephones per sq Km`, data = merged_f7)
+summary(model)$coefficients["merged_f7$ratio", c("t value", "Pr(>|t|)")]
